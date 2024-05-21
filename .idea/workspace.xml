@@ -1,7 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="" />
+    <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_JAVA_QE_Team2024_msi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayBasicsW3School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayCopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayDuplicationRemoval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayMadeWithRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArrayReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/PracticeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/ThirdHighestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Array06/VowelDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ArrayListDirectAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ArrayListWithAraay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/CharRemoveFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/CharRemoveFromStringByMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ContainsASpecificElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ContainsAllOf2ndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/EmptyOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/EqualORNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/FrequencyOfEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/LastOccurrencesOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/MergeTwoArrayListsOfIntegersIntoASingleArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/RemoveDuplicatesFromAnArrayListStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/RemoveOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ReplaceOccurrencesOfSpecificElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ReverseAnArrayListOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ReverseOrderSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/ShuffleElementsOfArrayListIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ArrayList07/W3Schools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ControlFlow03/DayOfWeek05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ControlFlow03/GradeCalculation04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ControlFlow03/LargestNumber02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ControlFlow03/LeapYearCheck03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ControlFlow03/NumberCheck01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/ControlFlow03/SimpleCalculator06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/HashMap09/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/HashMap09/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/HashMap09/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/HashMap09/WordFrequencyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/HashMap09/WriteSimpleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/LinkedList08/BasicLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/LinkedList08/MiddleElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/LinkedList08/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/LinkedList08/W3School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Loop04/CountNumbersByWhile04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Loop04/CountdownByWhile06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Loop04/FactorialByWhile07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Loop04/PrintArrayElements03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Loop04/PrintNumbers01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Loop04/SumNumbers02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Loop04/SumNumbersByWhile05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/StringProblems01/ConvertCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/StringProblems01/CountCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/StringProblems01/ReplaceCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/StringProblems01/SplitString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/StringProblems01/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/StringProblems01/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/StringProblems01/SubstringCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Variable02/AreaOfCircle06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Variable02/ConstantsExample03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Variable02/FahrenheitToCelsius05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Variable02/ScopeExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Variable02/SumOfTwoNumbers04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Variable02/SwapVariables07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblems/Variable02/VariableExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayBasicsW3School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayCopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayDuplicationRemoval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayMadeWithRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArrayReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/PracticeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/ThirdHighestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array06/VowelDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ArrayListDirectAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ArrayListWithAraay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/CharRemoveFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/CharRemoveFromStringByMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ContainsASpecificElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ContainsAllOf2ndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/EmptyOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/EqualORNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/FrequencyOfEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/LastOccurrencesOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/MergeTwoArrayListsOfIntegersIntoASingleArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/RemoveDuplicatesFromAnArrayListStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/RemoveOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ReplaceOccurrencesOfSpecificElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ReverseAnArrayListOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ReverseOrderSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/ShuffleElementsOfArrayListIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList07/W3Schools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ControlFlow03/DayOfWeek05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ControlFlow03/GradeCalculation04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ControlFlow03/LargestNumber02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ControlFlow03/LeapYearCheck03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ControlFlow03/NumberCheck01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ControlFlow03/SimpleCalculator06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap09/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap09/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap09/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap09/WordFrequencyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap09/WriteSimpleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList08/BasicLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList08/MiddleElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList08/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList08/W3School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Loop04/CountNumbersByWhile04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Loop04/CountdownByWhile06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Loop04/FactorialByWhile07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Loop04/PrintArrayElements03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Loop04/PrintNumbers01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Loop04/SumNumbers02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Loop04/SumNumbersByWhile05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/ConvertCase03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/CountCharacters04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/ReplaceCharacters05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/SplitStringReturnType06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/SplitStringVoidType0601.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/StringLength02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/StringMethods01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/SubstringCheck07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Variable02/AreaOfCircle06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Variable02/ConstantsExample03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Variable02/FahrenheitToCelsius05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Variable02/ScopeExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Variable02/SumOfTwoNumbers04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Variable02/SwapVariables07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Variable02/VariableExample01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +159,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2gnIs4rm3SPaOcjjy8kXmMOfFs3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +172,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/RakibProblemsPractice/StringProblems01"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\RakibProblemsPractice\StringProblems01" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\RakibProblemsPractice" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +193,16 @@
       <updated>1716327120451</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
