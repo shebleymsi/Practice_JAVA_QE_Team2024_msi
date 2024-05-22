@@ -1,10 +1,7 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.Loop04;
 
-public class FactorialByWhile07 {
+public class FactorialByWhile0701 { // done
 
-    static int n = 5;
-    static int factorial = 1;
-    static int i = 1;
 
     public static void main(String[] args) {
         getFactorialByForLoop();
@@ -12,17 +9,20 @@ public class FactorialByWhile07 {
     }
 
     public static void getFactorialByForLoop() {
-
-        for (; i <= n; i++) {
-            factorial *= i;
+        int n = 4;
+        int factorial = 1;
+        for (int i = 1; i <= n; i++) {
+            factorial *= i;  // factorial = factorial * i;
         }
         System.out.println("Factorial of " + n + " is: " + factorial);
     }
 
     public static void getFactorialByWhileLoop() {
-
+        int n = 4;
+        int factorial = 1;
+        int i = 1;
         while (i <= n) {
-            factorial *= i;
+            factorial *= i; // factorial = factorial * i;
             i++;
         }
         System.out.println("Factorial of " + n + " is: " + factorial);

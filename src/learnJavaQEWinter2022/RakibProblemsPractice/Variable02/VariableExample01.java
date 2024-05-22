@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.Variable02;
 
-public class VariableExample01 {
+public class VariableExample01 { // done
 
         public static void main(String[] args) {
             // Primitive data type variables

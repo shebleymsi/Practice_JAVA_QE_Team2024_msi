@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.Variable02;
 
-public class FahrenheitToCelsius05 {
+public class FahrenheitToCelsius05 { // done
 
         public static void main(String[] args) {
             // Declare and initialize the Fahrenheit temperature

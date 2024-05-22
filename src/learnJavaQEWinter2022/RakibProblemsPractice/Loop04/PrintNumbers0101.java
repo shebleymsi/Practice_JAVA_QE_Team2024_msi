@@ -2,7 +2,8 @@ package learnJavaQEWinter2022.RakibProblemsPractice.Loop04;
 
 import java.util.Scanner;
 
-public class PrintNumbers01 { //done
+public class PrintNumbers0101 {
+
 
     // print up to nth integer number.
 
@@ -16,11 +17,11 @@ public class PrintNumbers01 { //done
 //        int n = 10;
 
         // Print numbers from 0 to n
-        int i = 0;
-        for ( ; i <= number; i++) {
+        int i;
+        for (i = 0; i <= number; i++) {
             System.out.print(i + "\t");
         }
-
-        System.out.print("\nUser nth input integer number is: " + (i - 1));
+        System.out.println(i);
     }
 }
+

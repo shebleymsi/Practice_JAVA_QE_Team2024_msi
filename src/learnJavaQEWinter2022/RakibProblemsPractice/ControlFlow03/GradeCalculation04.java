@@ -2,9 +2,10 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ControlFlow03;
 import java.util.Scanner;
 
 
-public class GradeCalculation04 {
+public class GradeCalculation04 { //done
 
         public static void main(String[] args) {
+
             Scanner scanner = new Scanner(System.in);
             System.out.print("Enter the student's score: ");
             int score = scanner.nextInt();

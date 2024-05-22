@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.Variable02;
 
-public class ScopeExample02 {
+public class ScopeExample02 { //done
 
         // Instance variable
         int instanceVariable = 10;

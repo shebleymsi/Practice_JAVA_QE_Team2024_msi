@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.Variable02;
 
-public class SumOfTwoNumbers04 {
+public class SumOfTwoNumbers04 { // done
 
         public static void main(String[] args) {
             // Declare and initialize two integer variables
