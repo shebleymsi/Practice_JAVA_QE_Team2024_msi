@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array05/ArrayBasicsW3School_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array05/ArrayBasicsW3School_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array05/ArraySum_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array05/ArraySum_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +49,26 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactorialByWhile0701">
-    <configuration name="CountNumbersByWhile04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Loop04.CountNumbersByWhile04" />
+  <component name="RunManager" selected="Application.ArraySum_02">
+    <configuration name="ArrayBasicsW3School_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.ArrayBasicsW3School_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.Loop04.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySum_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.ArraySum_02" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumbersByWhile05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Loop04.SumNumbersByWhile05" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.Loop04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySum_02" />
+        <item itemvalue="Application.ArrayBasicsW3School_01" />
         <item itemvalue="Application.FactorialByWhile0701" />
         <item itemvalue="Application.FactorialByWhile07" />
         <item itemvalue="Application.CountdownByWhile06" />
-        <item itemvalue="Application.SumNumbersByWhile05" />
-        <item itemvalue="Application.CountNumbersByWhile04" />
       </list>
     </recent_temporary>
   </component>
