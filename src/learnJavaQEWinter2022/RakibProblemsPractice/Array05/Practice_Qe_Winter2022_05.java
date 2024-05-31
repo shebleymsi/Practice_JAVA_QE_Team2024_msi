@@ -8,15 +8,28 @@ public class Practice_Qe_Winter2022_05 {
     // key ref: return type method
     // linear sort an aray
 
+    /*
+    Purpose: This is the entry point of the program. It initializes an array,
+    finds the minimum and maximum values, sorts the array, and then prints the original and sorted arrays.
+
+    Key Steps:
+            Initialize the array: int[] array = {4, 2, 7, 1, 9, 3, 5};
+            Print the original array: System.out.println("Original array: " + Arrays.toString(array));
+            Find the minimum value: int min = findMin(array);
+            Find the maximum value: int max = findMax(array);
+            Print the minimum and maximum values.
+            Sort the array using linear sort: linearSort(array, min, max);
+            Print the sorted array: System.out.println("Sorted array: " + Arrays.toString(array));
+     */
+
     public static void main(String[] args) {
 
         int[] array = {4, 2, 7, 1, 9, 3, 5};
         System.out.println("Original array: " + Arrays.toString(array));
 
         int min = findMin(array);
-        System.out.println("Minimum number: " + min);
-
         int max = findMax(array);
+        System.out.println("Minimum number: " + min);
         System.out.println("Maximum number: " + max);
 
         linearSort(array, min, max);
@@ -53,7 +66,7 @@ public class Practice_Qe_Winter2022_05 {
     where 𝑛 is the number of elements in the array.
     */
 
-    // ======================== Find Maximum number ===========================
+    // ======================== Find Maximum number [ step explanation by chatGPT ]===========================
     public static int findMax(int[] array) {
         int max = array[0];
         for (int i = 1; i < array.length; i++) {
@@ -65,6 +78,7 @@ public class Practice_Qe_Winter2022_05 {
     }
 
     // ========================= linear Sort ==================================
+    // sorting algorithm (specifically, a variation of counting sort)
     public static void linearSort(int[] array, int min, int max) {
         int range = max - min + 1;
         int[] count = new int[range];
