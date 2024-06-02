@@ -2,11 +2,11 @@ package learnJavaQEWinter2022.RakibProblemsPractice.Array05;
 
 import java.util.Arrays;
 
-public class Practice_Qe_Winter2022_05 {
+public class Practice_Qe_Winter2022_05 { //Next
 
     // Given an Array in main method, then find minimum & maximum number,
     // key ref: return type method
-    // linear sort an aray
+    // linear sort an array
 
     /*
     Purpose: This is the entry point of the program. It initializes an array,
@@ -28,8 +28,9 @@ public class Practice_Qe_Winter2022_05 {
         System.out.println("Original array: " + Arrays.toString(array));
 
         int min = findMin(array);
-        int max = findMax(array);
         System.out.println("Minimum number: " + min);
+
+        int max = findMax(array);
         System.out.println("Maximum number: " + max);
 
         linearSort(array, min, max);
@@ -78,15 +79,26 @@ public class Practice_Qe_Winter2022_05 {
     }
 
     // ========================= linear Sort ==================================
-    // sorting algorithm (specifically, a variation of counting sort)
+    // sorting algorithm (specifically, a variation of counting sort) --> linear sort (counting sort) algorithm
+        /*
+    Purpose: Sorts the array using a variation of counting sort.
+    Key Steps:
+    1. Calculate the range: int range = max - min + 1;
+    2. Initialize the count array: int[] count = new int[range];
+    3. Initialize the output array: int[] output = new int[array.length];
+    4. Count occurrences: Increment the count of each element.
+    5. Place elements in the output array: Use the count array to place elements in their correct positions.
+    6. Copy the sorted elements back to the original array: Use System.arraycopy.
+     */
     public static void linearSort(int[] array, int min, int max) {
         int range = max - min + 1;
         int[] count = new int[range];
-        int[] output = new int[array.length];
+        int[] output = new int[array.length]; //Source array
 
         // Count occurrences of each element
         for (int i = 0; i < array.length; i++) {
             count[array[i] - min]++;
+            //count[array[i] - min] = count[array[i] - min] + 1;
         }
 
         // Place elements in correct position in output array
@@ -97,7 +109,15 @@ public class Practice_Qe_Winter2022_05 {
             }
         }
 
+        System.out.println("===============");
+        System.out.println(Arrays.toString(count));
+        System.out.println(Arrays.toString(output));
+
         // Copy sorted elements back to original array
         System.arraycopy(output, 0, array, 0, array.length);
+        //System.arraycopy(Object src, int srcPos, Object dest, int destPos, int length);
+
     }
+
+
 }
