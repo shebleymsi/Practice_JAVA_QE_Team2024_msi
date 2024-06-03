@@ -1,6 +1,5 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.Array05;
 
-
     public class ArraySearch_09 {
         public static void main(String[] args) {
             int[] array = {10, 20, 30, 40, 50};
