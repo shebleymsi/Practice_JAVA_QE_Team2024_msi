@@ -3,7 +3,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class FrequencyOfEachElement {
+public class FrequencyOfEachElement_10 {
 
     // Write a Java program to find the frequency of each element in an ArrayList.
 

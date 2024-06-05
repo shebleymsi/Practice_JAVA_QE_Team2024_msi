@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 
 import java.util.ArrayList;
 
-public class EqualORNot {
+public class EqualORNot_06 {
 
     public static void main(String[] args) {
         ArrayList<Integer> list1 = new ArrayList<>();

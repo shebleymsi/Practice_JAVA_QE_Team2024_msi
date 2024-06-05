@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 
 import java.util.ArrayList;
 
-public class CharRemoveFromStringByMethod {
+public class CharRemoveFromStringByMethod_19 {
 
 
     public static ArrayList<Character> convertStringToArrayList(String words) {

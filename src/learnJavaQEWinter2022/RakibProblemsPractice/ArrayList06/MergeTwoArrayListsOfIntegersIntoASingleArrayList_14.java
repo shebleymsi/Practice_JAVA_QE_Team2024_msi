@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 
 import java.util.ArrayList;
 
-public class MergeTwoArrayListsOfIntegersIntoASingleArrayList {
+public class MergeTwoArrayListsOfIntegersIntoASingleArrayList_14 {
 
     public static void main(String[] args) {
         // Write a Java program to merge two ArrayLists of integers into a single ArrayList

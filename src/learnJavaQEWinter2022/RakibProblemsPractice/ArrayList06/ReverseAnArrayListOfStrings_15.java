@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 
-public class ReverseAnArrayListOfStrings {
+public class ReverseAnArrayListOfStrings_15 {
     public static void main(String[] args) {
         // Create an ArrayList of strings
         java.util.ArrayList<String> list = new java.util.ArrayList<>();

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 // Remove all occurrences of a specific element from an ArrayList of integers.
 //java.util.Collections.singleton() method is used to return an immutable set containing only the specified object.
-public class RemoveOccurrences {
+public class RemoveOccurrences_11 {
 
     public static void main(String[] args) {
 

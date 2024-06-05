@@ -3,7 +3,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class ArrayListDirectAssignment {
+public class ArrayListDirectAssignment_02 {
 
     public static void main(String[] args) {
 

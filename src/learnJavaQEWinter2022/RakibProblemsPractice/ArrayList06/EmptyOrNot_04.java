@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 import java.util.ArrayList;
-public class EmptyOrNot {
+public class EmptyOrNot_04 {
 
         public static void main(String[] args) {
             ArrayList<Character> letters = new ArrayList<>();

@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 
 import java.util.ArrayList;
 
-public class ArrayListWithAraay {
+public class ArrayListWithAraay_03 {
     public static void main(String[] args) {
         int [] class1 = {11, 23, 44, 22, 55};
         int [] class2 = {10, 9, 30, 13, 20};

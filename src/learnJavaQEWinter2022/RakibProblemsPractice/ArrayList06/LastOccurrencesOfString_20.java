@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 
 import java.util.ArrayList;
 
-public class LastOccurrencesOfString {
+public class LastOccurrencesOfString_20 {
 
     //Find the index of the last occurrence of a specific element in an ArrayList of strings.
     //java.util.ArrayList.lastIndexOf() method is used to get the index of the last occurrence of the

@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 
-public class ShuffleElementsOfArrayListIntegers {
+public class ShuffleElementsOfArrayListIntegers_17 {
     public static void main(String[] args) {
 
         // Create an ArrayList of integers

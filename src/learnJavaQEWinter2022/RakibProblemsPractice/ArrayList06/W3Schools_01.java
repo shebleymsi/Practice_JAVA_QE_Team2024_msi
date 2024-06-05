@@ -3,7 +3,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class W3Schools {
+public class W3Schools_01 {
 
 
     public static void main(String[] args) {
