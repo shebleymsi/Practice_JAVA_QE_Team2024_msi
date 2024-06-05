@@ -3,79 +3,73 @@ package learnJavaQEWinter2022.RakibProblemsPractice.Array05;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ThirdHighestNumber_13 {
+/*
+     Objective:
+     The objective of the code is to find:
+     1. the third-highest number in an array of integers provided by the user.
+     2. The code takes the length of the array as input,
+     3. allows the user to input the array elements,
+     4. sorts the array,
+     5. then determines the third-highest number along with other statistics such as the minimum and maximum numbers.
+ */
+public class ThirdHighestNumber_13 {    // done
+    // Take the input of array length.
+    // Input elements from the user.
+    // Sort the array and find the third-highest number.
 
     public static void main(String[] args) {
-
+        // Create a Scanner object to read user input
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the length of the array");
-
+        // Prompt the user to enter the length of the array
+        System.out.println("Enter the length of the array : ");
         int lengthOfArray = sc.nextInt();
 
+        // Print the length of the array provided by the user
+        System.out.println("Print length of array given by user : " + lengthOfArray);
+
+        // Initialize an array of integers with the specified length
         int[] numbers = new int[lengthOfArray];
 
-        System.out.println("enter the numbers");
+        // Print the array before entering the elements
+        System.out.println("Before enter the element: " + Arrays.toString(numbers));
 
+        // Prompt the user to enter the array elements sequentially
+        System.out.println("Enter the array elements sequentially: ");
         for (int i = 0; i < numbers.length; i++) {
-
             numbers[i] = sc.nextInt();
         }
 
+        // Call the sortedArray method to sort the array and find the third-highest number
+        sortedArray(numbers, lengthOfArray);
+    }
 
+    public static void sortedArray(int[] numbers, int lengthOfArray) {
+        // Print the original array
         System.out.println("Original array: " + Arrays.toString(numbers));
 
-        int min = findMin(numbers);
-        int max = findMax(numbers);
+        // Sort the array
+        Arrays.sort(numbers);
 
-        System.out.println("Minimum number: " + min);
-        System.out.println("Maximum number: " + max);
+        // Print the sorted array
+        System.out.println("After sort, array is: " + Arrays.toString(numbers));
 
-        linearSort(numbers, min, max);
+        // Print the minimum number (first element in the sorted array)
+        System.out.println("Minimum number is: " + numbers[0]);
 
-        System.out.println("Sorted array: " + Arrays.toString(numbers));
-    }
+        // Print the minimum dynamic number
+        System.out.println("Minimum dynamic number is: " + numbers[numbers.length - lengthOfArray]);
 
-    public static int findMin(int[] array) {
-        int min = array[0];
-        for (int i = 1; i < array.length; i++) {
-            if (array[i] < min) {
-                min = array[i];
-            }
-        }
-        return min;
-    }
+        // Print the second minimum dynamic number
+        System.out.println("Second minimum dynamic number is: " + numbers[numbers.length - (lengthOfArray - 1)]);
 
-    public static int findMax(int[] array) {
-        int max = array[0];
-        for (int i = 1; i < array.length; i++) {
-            if (array[i] > max) {
-                max = array[i];
-            }
-        }
-        return max;
-    }
+        // Print the maximum number (last element in the sorted array)
+        System.out.println("Maximum number is: " + numbers[numbers.length - 1]);
 
-    public static void linearSort(int[] array, int min, int max) {
-        int range = max - min + 1;
-        int[] count = new int[range];
-        int[] output = new int[array.length];
+        // Print the second maximum number (second last element in the sorted array)
+        System.out.println("Second maximum number is: " + numbers[numbers.length - 2]);
 
-        // Count occurrences of each element
-        for (int i = 0; i < array.length; i++) {
-            count[array[i] - min]++;
-        }
-
-        // Place elements in correct position in output array
-        int index = 0;
-        for (int i = 0; i < range; i++) {
-            for (int j = 0; j < count[i]; j++) {
-                output[index++] = i + min;
-            }
-        }
-
-        // Copy sorted elements back to original array
-        System.arraycopy(output, 0, array, 0, array.length);
+        // Print the third maximum number (third last element in the sorted array)
+        System.out.println("Third maximum number is: " + numbers[numbers.length - 3]);
     }
 }
-
