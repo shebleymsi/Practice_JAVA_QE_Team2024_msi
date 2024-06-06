@@ -93,6 +93,28 @@ public class ArrayBasicsW3School_01 { //done
                 }
             }
         }
+
+
+        /*
+        // see how boolean array looks like before assing data
+            boolean[] yes = new boolean[3];
+
+        System.out.println("boolean empty array" + Arrays.toString(yes));
+
+// see how String array looks like before assinging data.
+    String[] var = new String[3];
+
+        System.out.println("empyty var" + Arrays.toString(var));
+
+    var[0] = "dr";
+    var[1] = "rr";
+    var [2] = "to";
+        System.out.println("full var" +Arrays.toString(var));
+
+        // change or update a string value of an array to null state/ primary stage.
+    var[1] = "null";
+        System.out.println("full var" +Arrays.toString(var));
+         */
     }
 }
 
