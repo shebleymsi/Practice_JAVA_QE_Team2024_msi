@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array05/ArrayBasicsW3School_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/Array05/ArrayBasicsW3School_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList06/ArrayListDirectAssignment_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList06/ArrayListDirectAssignment_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList06/W3Schools_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList06/W3Schools_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.W3Schools_01">
+  <component name="RunManager" selected="Application.ArrayListDirectAssignment_02">
     <configuration name="ArrayBasicsW3School_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.ArrayBasicsW3School_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdHighestNumber_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.ThirdHighestNumber_13" />
+    <configuration name="ArrayListDirectAssignment_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.ArrayListDirectAssignment_02" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelDetector_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.VowelDetector_12" />
+    <configuration name="ThirdHighestNumber_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.ThirdHighestNumber_13" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListDirectAssignment_02" />
         <item itemvalue="Application.W3Schools_01" />
         <item itemvalue="Application.ArrayBasicsW3School_01" />
         <item itemvalue="Application.ArrayDuplicationRemoval_14" />
         <item itemvalue="Application.ThirdHighestNumber_13" />
-        <item itemvalue="Application.VowelDetector_12" />
       </list>
     </recent_temporary>
   </component>
