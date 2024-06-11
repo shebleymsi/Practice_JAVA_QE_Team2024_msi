@@ -1,7 +1,7 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07;
 import java.util.Collections;
 import java.util.LinkedList;
-public class W3School {
+public class W3School_02 {
 
         public static void main(String[] args) {
             LinkedList<String> cars = new LinkedList<String>();

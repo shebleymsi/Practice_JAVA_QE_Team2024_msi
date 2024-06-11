@@ -1,7 +1,7 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07;
 import java.util.LinkedList;
 
-public class RemoveDuplicates {
+public class RemoveDuplicates_04 {
 
         public static void main(String[] args) {
             LinkedList<Integer> linkedList = new LinkedList<>();

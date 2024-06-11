@@ -1,7 +1,7 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07;
 import java.util.LinkedList;
 
-public class MiddleElement {
+public class MiddleElement_03 {
 
 
         public static void main(String[] args) {

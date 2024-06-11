@@ -3,7 +3,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07;
 
 import java.util.LinkedList;
 
-public class BasicLinkedList {
+public class BasicLinkedList_01 {
 
     public static void main(String[] args) {
         LinkedList<String> cars = new LinkedList<String>();
@@ -42,5 +42,5 @@ public class BasicLinkedList {
         cars.clear();
         System.out.println(cars);
 
-        }
     }
+}
