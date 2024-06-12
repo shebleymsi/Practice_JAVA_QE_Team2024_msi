@@ -7,8 +7,6 @@ import java.util.LinkedList;
 public class MiddleElementOfTheArraylistBasedOnSize {
 
     // find the Middle Element Of The Arraylist Based On Size?
-
-
     public static void main(String[] args) {
 
         LinkedList<Integer> linkedList = new LinkedList<Integer>(Arrays.asList(50, 10, 30, 44, 55));
@@ -30,7 +28,6 @@ public class MiddleElementOfTheArraylistBasedOnSize {
     }
 
     public static void getOddSize(LinkedList<Integer> linkedList) {
-
         int size = linkedList.size();
         int middleIndex = size / 2; // odd
         int middleElement = linkedList.get(middleIndex);
