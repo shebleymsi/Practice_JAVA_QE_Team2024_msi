@@ -13,6 +13,7 @@ public class AddAllElementsFromAnotherCollection_01_02_03 {
         // Add all elements from another collection
         LinkedList<String> moreCars = new LinkedList<>(Arrays.asList("Audi", "BMW", "Mercedes"));
         cars1.addAll(moreCars);
+
         System.out.println("After adding more cars: " + cars1);
 
     }

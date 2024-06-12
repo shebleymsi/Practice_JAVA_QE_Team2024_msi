@@ -1,30 +1,40 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07;
+
+import java.util.Arrays;
 import java.util.LinkedList;
 
 public class RemoveDuplicates_04 {
 
-        public static void main(String[] args) {
-            LinkedList<Integer> linkedList = new LinkedList<>();
-            linkedList.add(1);
-            linkedList.add(1);
-            linkedList.add(2);
-            linkedList.add(3);
-            linkedList.add(3);
-            linkedList.add(4);
+    public static void main(String[] args) {
 
-            System.out.println("Linked list before removing duplicates: " + linkedList);
+        LinkedList<Integer> linkedList = new LinkedList<>(Arrays.asList(1, 1, 2, 3, 3, 4));
+        System.out.println("LinkedList before removing duplicates: " + linkedList);
+        System.out.println("Size of linked list: " + linkedList.size());
 
-            // print size of linked list
-            System.out.println("Size of linked list: " + linkedList.size());
-
-            for (int i = 0; i < linkedList.size() - 1; i++) {
-                if (linkedList.get(i).equals(linkedList.get(i + 1))) {
-                    linkedList.remove(i);
-                    i--;
-                }
+        // Remove consecutive duplicates
+        for (int i = 0; i < linkedList.size() - 1; i++) {
+            // Step 2: Check if current element equals the next element
+            if (linkedList.get(i).equals(linkedList.get(i + 1))) {
+                // Step 3: If true, remove the current element at index 'i'
+                linkedList.remove(i);
+                // Step 4: Decrement 'i' to recheck from the current position
+                i--;
             }
-
-            System.out.println("Linked list after removing duplicates: " + linkedList);
+            // Step 5: If false, continue to the next index
         }
+
+        // Print the LinkedList after removing duplicates
+        System.out.println("LinkedList after removing duplicates: " + linkedList);
     }
-    
+
+    /*
+
+Step	Condition	                                            Action	                                Comment
+
+1	    for (int i = 0; i < linkedList.size() - 1; i++)	        Start loop	                            Loop from 0 to size - 2
+2	    if (linkedList.get(i).equals(linkedList.get(i + 1)))    Check if current element equals next	Check for consecutive duplicates
+3	    True	                                                linkedList.remove(i)	                Remove the current element at index i
+4	    True	                                                i--	                                    Decrement i to recheck from the current position
+5	    False	                                                Continue loop	                        Move to the next index without removing elements
+     */
+}
