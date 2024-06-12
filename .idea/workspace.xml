@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/AddAllElementsFromAnotherCollection_01_02_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/ConvertTheLinkedListToAnArray_01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/MiddleElementOfTheArraylistBasedOnSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/MiddleElementOfTheLinkList_03_EvenSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/MiddleElementOfTheLinkList_03_oddSize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList06/CharRemoveFromStringByMethod_19_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/ArrayList06/CharRemoveFromStringByMethod_19_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/BasicLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/BasicLinkedList_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/BasicLinkedList_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/BasicLinkedList_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/MiddleElement_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/W3School_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/W3School_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +57,13 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharRemoveFromStringByMethod_19_02">
-    <configuration name="ArrayfromString_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.ArrayfromString_14" />
+  <component name="RunManager" selected="Application.MiddleElementOfTheArraylistBasedOnSize">
+    <configuration name="MiddleElementOfTheArraylistBasedOnSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.MiddleElementOfTheArraylistBasedOnSize" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.Array05.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharRemoveFromStringByMethod_19_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.CharRemoveFromStringByMethod_19_01" />
+    <configuration name="MiddleElementOfTheLinkList_03_EvenSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.MiddleElementOfTheLinkList_03_EvenSize" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharRemoveFromStringByMethod_19_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.CharRemoveFromStringByMethod_19_02" />
+    <configuration name="MiddleElementOfTheLinkList_03_oddSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.MiddleElementOfTheLinkList_03_oddSize" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.CharRemoveFromStringByMethod_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.CharRemoveFromStringByMethod_19" />
+    <configuration name="W3School_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.W3School_02" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.LastOccurrencesOfString_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.LastOccurrencesOfString_20" />
+    <configuration name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.BasicLinkedList_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.BasicLinkedList_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharRemoveFromStringByMethod_19_02" />
-        <item itemvalue="Application.CharRemoveFromStringByMethod_19_01" />
-        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.CharRemoveFromStringByMethod_19" />
-        <item itemvalue="Application.ArrayfromString_14" />
-        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.ArrayList06.LastOccurrencesOfString_20" />
+        <item itemvalue="Application.MiddleElementOfTheArraylistBasedOnSize" />
+        <item itemvalue="Application.MiddleElementOfTheLinkList_03_EvenSize" />
+        <item itemvalue="Application.MiddleElementOfTheLinkList_03_oddSize" />
+        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.W3School_02" />
+        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.BasicLinkedList_01" />
       </list>
     </recent_temporary>
   </component>
