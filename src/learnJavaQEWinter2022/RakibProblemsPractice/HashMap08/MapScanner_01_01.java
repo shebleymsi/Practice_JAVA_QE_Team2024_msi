@@ -34,5 +34,17 @@ public class MapScanner_01_01 {
         // Close the scanner
         scanner.close();
     }
+
+    /*
+
+    Example:
+    Enter key: country
+    Enter value: USA
+    Enter key: done
+
+    output:
+    User Input Map: {country=USA}
+
+     */
 }
 
