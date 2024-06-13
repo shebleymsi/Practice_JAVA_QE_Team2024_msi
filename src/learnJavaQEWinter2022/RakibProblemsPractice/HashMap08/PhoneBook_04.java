@@ -3,7 +3,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.HashMap08;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PhoneBook {
+public class PhoneBook_04 {
 
         public static void main(String[] args) {
             Map<String, String> phoneBook = new HashMap<>();

@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.HashMap08;
 
 import java.util.HashMap;
 import java.util.Map;
-public class WordFrequencyCounter {
+public class WordFrequencyCounter_02 {
 
         public static void main(String[] args) {
             String sentence = "This is a simple sentence. This is a Java program.";

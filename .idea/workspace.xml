@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/RemoveDuplicatesUseSet_04_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04_01_01_copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04_01_copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04_01_copy_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/MapScanner_01_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/AddAllElementsFromAnotherCollection_01_02_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/AddAllElementsFromAnotherCollection_01_02_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/PhoneBook_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/Practice_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/StudentGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/StudentGrades_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WordFrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WordFrequencyCounter_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WriteSimpleMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WriteSimpleMap_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +58,13 @@
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicates_04_01_copy_01_easy">
-    <configuration name="RemoveDuplicates_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04" />
+  <component name="RunManager" selected="Application.MapScanner_01_01">
+    <configuration name="MapScanner_01_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.MapScanner_01_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicatesUseSet_04_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicatesUseSet_04_01" />
+    <configuration name="WordFrequencyCounter_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.WordFrequencyCounter_02" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04_01_01_copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04_01_01_copy" />
+    <configuration name="WriteSimpleMap_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.WriteSimpleMap_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapScanner_01_01" />
+        <item itemvalue="Application.WriteSimpleMap_01" />
+        <item itemvalue="Application.WordFrequencyCounter_02" />
         <item itemvalue="Application.RemoveDuplicates_04_01_copy_01_easy" />
         <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04_01_copy" />
-        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04_01_01_copy" />
-        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04" />
-        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicatesUseSet_04_01" />
       </list>
     </recent_temporary>
   </component>
