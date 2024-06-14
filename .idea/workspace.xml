@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WordFrequencyCounter_02_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/MapScanner_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/MapScanner_01_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WordFrequencyCounter_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WordFrequencyCounter_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapScanner_01_01">
+  <component name="RunManager" selected="Application.WordFrequencyCounter_02_01">
     <configuration name="MapScanner_01_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.MapScanner_01_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -93,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordFrequencyCounter_02_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.WordFrequencyCounter_02_01" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WriteSimpleMap_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.WriteSimpleMap_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -106,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04_01_copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04_01_copy" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordFrequencyCounter_02_01" />
+        <item itemvalue="Application.WordFrequencyCounter_02" />
         <item itemvalue="Application.MapScanner_01_01" />
         <item itemvalue="Application.WriteSimpleMap_01" />
-        <item itemvalue="Application.WordFrequencyCounter_02" />
         <item itemvalue="Application.RemoveDuplicates_04_01_copy_01_easy" />
-        <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07.RemoveDuplicates_04_01_copy" />
       </list>
     </recent_temporary>
   </component>
