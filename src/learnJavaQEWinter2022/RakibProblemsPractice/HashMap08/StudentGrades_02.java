@@ -4,8 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-    public class StudentGrades_03 {
+    public class StudentGrades_02 {
         public static void main(String[] args) {
+
             Map<String, Integer> studentGrades = new HashMap<>();
             studentGrades.put("Alice", 85);
             studentGrades.put("Bob", 90);

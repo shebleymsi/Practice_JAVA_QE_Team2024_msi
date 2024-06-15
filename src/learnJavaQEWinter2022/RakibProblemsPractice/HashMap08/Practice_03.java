@@ -3,7 +3,7 @@ package learnJavaQEWinter2022.RakibProblemsPractice.HashMap08;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Practice_05 {
+public class Practice_03 {
 
     // want to learn about wordFrequency.getOrDefault(word, 0) + 1 in hashmap
 
