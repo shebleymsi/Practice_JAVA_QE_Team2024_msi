@@ -21,15 +21,24 @@ public class WriteSimpleMap_01 {
         // Print the initial map
         System.out.println("Initial Map:" + map); // Expected output: {name=John, age=25, city=New York}
 
+        // ==================================================================
+
         // Create another HashMap to store additional key-value pairs
         Map<String, String> existingMap = new HashMap<>();
+
+        // Add key-value pairs to the map
         existingMap.put("country", "USA"); // Adding country
         existingMap.put("state", "NY");    // Adding state
+        existingMap.put("Capital", "Albany");    // Adding state
 
+        // Print the initial map
+        System.out.println("Initial Map:" + existingMap);
+
+        // ==================================================================
         // Merge the existingMap into the first map
         map.putAll(existingMap);
-
         // Print the final map after merging
-        System.out.println("Final Map:" + map); // Expected output: {name=John, age=25, city=New York, country=USA, state=NY}
+        System.out.println("Final Map:" + map);
+        // Expected output: {name=John, age=25, city=New York, country=USA, state=NY}
     }
 }
