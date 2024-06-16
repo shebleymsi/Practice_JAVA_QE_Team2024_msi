@@ -17,13 +17,13 @@ public class WordFrequencyCounter_05 {
 
         // Create a HashMap to store word frequencies
         Map<String, Integer> wordFrequency = new HashMap<>();
-
         // Iterate over the words using an index-based loop to count their frequencies
         for (int i = 0; i < words.length; i++) {
             String word = words[i];
             // Add the word to the map or update its frequency
             wordFrequency.put(word, wordFrequency.getOrDefault(word, 0) + 1);
         }
+
         // Print the word frequencies
         System.out.println("***************" + wordFrequency);
     }

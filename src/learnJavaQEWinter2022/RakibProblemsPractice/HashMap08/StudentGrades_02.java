@@ -13,7 +13,7 @@ public class StudentGrades_02 {
         studentGrades.put("Bob", 90);
         studentGrades.put("Charlie", 75);
 
-        System.out.println("" + studentGrades);
+        System.out.println("---------" + studentGrades);
 
     }
 }

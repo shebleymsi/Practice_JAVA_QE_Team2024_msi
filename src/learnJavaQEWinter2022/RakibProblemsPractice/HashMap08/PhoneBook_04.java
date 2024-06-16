@@ -25,13 +25,17 @@ public class PhoneBook_04 {
             System.out.println("Key at index 1: " + phoneBook.keySet().toArray()[1]);
             
             // change and after that a key
-            phoneBook.put("Bob", "123-456-7890");
+            phoneBook.put("Bob", "000-000-0000");
             System.out.println("Bob's phone number: " + phoneBook.get("Bob"));
 
             // remove a key and print
             phoneBook.remove("Bob");
             System.out.println("Bob's phone number: " + phoneBook.get("Bob"));
 
+            System.out.println("After remove BOB:************************");
+            for (Map.Entry<String, String> entry : phoneBook.entrySet()) {
+                System.out.println(entry.getKey() + ": " + entry.getValue());
+            }
         }
     }
 

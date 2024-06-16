@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/StudentsGrades_02_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/PhoneBook_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/PhoneBook_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/Practice_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/Practice_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/StudentGrades_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/StudentGrades_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WriteSimpleMap_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WriteSimpleMap_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WriteSimpleMap_01_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/HashMap08/WriteSimpleMap_01_Scanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneBook_04">
+  <component name="RunManager" selected="Application.WordFrequencyCounter_05_01_update_easy">
     <configuration name="PhoneBook_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.PhoneBook_04" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -86,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGrades_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.StudentGrades_02" />
+    <configuration name="StudentsGrades_02_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.StudentsGrades_02_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.StudentGrades_02" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentsGrades_02_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.StudentsGrades_02_01" />
+    <configuration name="WordFrequencyCounter_05_01_update_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.WordFrequencyCounter_05_01_update_easy" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -127,10 +123,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordFrequencyCounter_05_01_update_easy" />
         <item itemvalue="Application.PhoneBook_04" />
         <item itemvalue="Application.Practice_03" />
         <item itemvalue="Application.StudentsGrades_02_01" />
-        <item itemvalue="Application.StudentGrades_02_01" />
         <item itemvalue="Application.learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.WriteSimpleMap_01" />
       </list>
     </recent_temporary>
