@@ -2,45 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/CheckAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/CheckEligibleForVote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/CheckEvenOrOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/CheckPalindromeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/CheckPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/ConvertStringToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/CountWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/DesignHeartUsingNestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/DesignPatternUsingForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/DetermineIncreaseDecreaseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/FindOutFrequencyOfWordFromAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/FindOutGreatestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/FindOutSumOfAllTheElementsFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/FindOutWeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/FrequencyOfNumberFromAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/FrequencyOfWordsFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/LearnCubeOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/MergeTwoArrayAndRemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutions/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckEligibleForVote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckEvenOrOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPalindromeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/ConvertStringToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CountWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignHeartUsingNestedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DetermineIncreaseDecreaseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutFrequencyOfWordFromAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutGreatestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutSumOfAllTheElementsFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutWeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FrequencyOfNumberFromAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FrequencyOfWordsFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/LearnCubeOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/MergeTwoArrayAndRemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckAnagram_Scanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckEligibleForVote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckEligibleForVote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,11 +54,12 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="learnJavaQEWinter2022.problemsAndSolutionsPractice" />
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08" />
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckAnagram">
+  <component name="RunManager" selected="Application.CheckEligibleForVote_easy">
     <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CheckAnagram" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -107,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBook_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.PhoneBook_04" />
+    <configuration name="CheckAnagram_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CheckAnagram_Scanner" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.Practice_03" />
+    <configuration name="CheckEligibleForVote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CheckEligibleForVote" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordFrequencyCounter_05_01_update_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.WordFrequencyCounter_05_01_update_easy" />
+    <configuration name="CheckEligibleForVote_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CheckEligibleForVote_easy" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08.*" />
+          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckEligibleForVote_easy" />
+        <item itemvalue="Application.CheckEligibleForVote" />
+        <item itemvalue="Application.CheckAnagram_Scanner" />
         <item itemvalue="Application.CheckAnagram" />
         <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutions.CheckAnagram" />
-        <item itemvalue="Application.WordFrequencyCounter_05_01_update_easy" />
-        <item itemvalue="Application.PhoneBook_04" />
-        <item itemvalue="Application.Practice_03" />
       </list>
     </recent_temporary>
   </component>

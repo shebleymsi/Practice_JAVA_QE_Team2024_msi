@@ -13,7 +13,7 @@ public class CheckEligibleForVote {
         System.out.println("Enter your Gender");
         String gender = input.next();
 
-        // else if means again if condition
+
         if (gender.equalsIgnoreCase("female") && voterAge >= 18) {
             System.out.println("Female are Eligible to vote");
         } else if (gender.equalsIgnoreCase("male") && voterAge >= 18) {
