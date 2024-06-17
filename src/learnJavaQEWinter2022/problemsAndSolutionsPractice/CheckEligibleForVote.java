@@ -8,9 +8,10 @@ public class CheckEligibleForVote {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter your Age");
+        System.out.println("Enter your Age: ");
         int voterAge = input.nextInt();
-        System.out.println("Enter your Gender");
+
+        System.out.println("Enter your Gender: ");
         String gender = input.next();
 
 
