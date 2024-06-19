@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class CheckPalindromeWords {
+public class CheckPalindromeWords_04 {
 
 
     // If a string is reversed and it remains unchanged, that is called palindrome
@@ -14,25 +14,34 @@ public class CheckPalindromeWords {
         checkPalindrome("HAPPY");
         checkPalindrome("NEW");
 
-
     }
 
 
     public static void checkPalindrome(String st) {
-        boolean status = true;
+
         char[] word = st.toLowerCase().toCharArray();
         int statingIndex = 0;
         int endingIndex = word.length - 1;
+        boolean isPalindrome = true;
 
         while (endingIndex > statingIndex) {
             if (word[statingIndex] != word[endingIndex]) {
-                status = false;
+                isPalindrome = false;
+                break;
             }
             ++statingIndex;
             --endingIndex;
 
         }
-        System.out.println(st + " is a palindrome word " + status);
+
+        System.out.println(st + " is a palindrome word " + isPalindrome);
+
+        if (isPalindrome) {
+            System.out.println(st + " is a palindrome word.");
+        } else {
+            System.out.println(st + " is not a palindrome word.");
+        }
+
     }
 
 

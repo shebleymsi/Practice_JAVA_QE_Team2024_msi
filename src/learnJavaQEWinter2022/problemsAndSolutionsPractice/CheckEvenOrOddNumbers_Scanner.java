@@ -6,15 +6,11 @@ public class CheckEvenOrOddNumbers_Scanner {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
-        // Prompt the user to enter a number
         System.out.print("Enter a number to check if it is even or odd: ");
         int number = input.nextInt();
 
-
         checkEvenOrOdd(number);
 
-        // Close the scanner
         input.close();
     }
 

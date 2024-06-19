@@ -1,16 +1,11 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
 public class CheckPermutation {
-
-    // Permutation of String "ABC" is "ABC","BAC","ACB","CAB","CBA","BCA"
-
     public static void main(String[] args) {
 
         checkOutPermutation("", "ABC");
-        System.out.println("****************************************");
-        checkOutPermutation("", "DAD");
-    }
 
+    }
 
     public static void checkOutPermutation(String prefix, String st) {
 
@@ -25,8 +20,6 @@ public class CheckPermutation {
 
         }
 
-
     }
-
 
 }
