@@ -1,21 +1,26 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class CheckPalindromeWords_02 {
+public class CheckPalindromeWords_bazlur_02 { // bachelor
 
     public static void main(String[] args) { // hard
-        String word = "MADAM";
+        String word = "REDDER";
         checkPalindrome(word);
     }
 
     public static void checkPalindrome(String word) {
+
+
         String lowerCaseWord = word.toLowerCase();
+        System.out.println("lowerCaseWord length : "+lowerCaseWord.length());
+
         boolean isPalindrome = true;
+
         for (int i = 0; i < lowerCaseWord.length() / 2; i++) {
             if (lowerCaseWord.charAt(i) != lowerCaseWord.charAt(lowerCaseWord.length() - 1 - i)) {
                 isPalindrome = false;
                 break;
             }
         }
-        System.out.println(isPalindrome ? "Yes" : "No");
+        System.out.println(isPalindrome ? "Yes" : "No"); // ternary operator Apply
     }
 }

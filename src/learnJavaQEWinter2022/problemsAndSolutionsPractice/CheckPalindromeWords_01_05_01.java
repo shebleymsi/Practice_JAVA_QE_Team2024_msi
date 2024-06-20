@@ -1,13 +1,12 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class CheckPalindromeWords_05 {
+public class CheckPalindromeWords_01_05_01 {
 
-    public static void main(String[] args) {
-        System.out.println("DAD is a palindrome word: " + checkPalindrome("DAD"));
+
+    public static void main(String[] args) { // good code also
+
         System.out.println("MADAM is a palindrome word: " + checkPalindrome("MADAM"));
-        System.out.println("MOM is a palindrome word: " + checkPalindrome("MOM"));
-        System.out.println("HAPPY is a palindrome word: " + checkPalindrome("HAPPY"));
-        System.out.println("NEW is a palindrome word: " + checkPalindrome("NEW"));
+
     }
 
     public static boolean checkPalindrome(String st) {
@@ -17,12 +16,16 @@ public class CheckPalindromeWords_05 {
 
         while (endingIndex > startingIndex) {
             if (word[startingIndex] != word[endingIndex]) {
+                System.out.println("its not a palindrome");
                 return false; // Not a palindrome
             }
             ++startingIndex;
             --endingIndex;
         }
+        System.out.println("its a palindrome");
         return true; // Is a palindrome
     }
 }
+
+
 

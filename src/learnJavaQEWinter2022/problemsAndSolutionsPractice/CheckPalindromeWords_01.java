@@ -1,5 +1,7 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
+import java.util.Arrays;
+
 public class CheckPalindromeWords_01 {
 
 
@@ -8,28 +10,28 @@ public class CheckPalindromeWords_01 {
     // So write java code to check if a given String is Palindrome or not
 
     public static void main(String[] args) {
-        checkPalindrome("DAD");
-        checkPalindrome("MADAM");
-        checkPalindrome("MOM");
-        checkPalindrome("HAPPY");
-        checkPalindrome("NEW");
 
-
+        checkPalindrome("MADA");
     }
 
 
     public static void checkPalindrome(String st) {
-        boolean status = true;
+
+        boolean status = true; // Declare & initialize boolean variable
+
         char[] word = st.toLowerCase().toCharArray();
-        int statingIndex = 0;
+       // System.out.println("Array initialize"+ Arrays.toString(word)); // Output: [m, a, d, a, m]
+        int startingIndex = 0;
         int endingIndex = word.length - 1;
 
-        while (endingIndex > statingIndex) {
-            if (word[statingIndex] != word[endingIndex]) {
+        while (endingIndex > startingIndex) {
+            if (word[startingIndex] != word[endingIndex]) { // m != m
                 status = false;
+                break;
+            } else {
+                startingIndex = startingIndex + 1; //++startingIndex;
+                endingIndex = endingIndex - 1; //--endingIndex;
             }
-            ++statingIndex;
-            --endingIndex;
 
         }
         System.out.println(st + " is a palindrome word " + status);

@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
 import java.util.Scanner;
 
-public class CheckPalindromeWords_03 {
+public class CheckPalindromeWords_bazlur_02_Scanner {
 
     public static void main(String[] args) { // hard
 
