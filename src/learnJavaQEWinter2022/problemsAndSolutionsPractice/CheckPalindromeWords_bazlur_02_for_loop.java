@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class CheckPalindromeWords_bazlur_02 { // bachelor
+public class CheckPalindromeWords_bazlur_02_for_loop { // bachelor
 
     public static void main(String[] args) { // hard
         String word = "REDDER";
@@ -8,7 +8,6 @@ public class CheckPalindromeWords_bazlur_02 { // bachelor
     }
 
     public static void checkPalindrome(String word) {
-
 
         String lowerCaseWord = word.toLowerCase();
         System.out.println("lowerCaseWord length : "+lowerCaseWord.length());

@@ -1,22 +1,25 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class CheckPermutation {
+public class CheckPermutation { //PermutationGenerator
     public static void main(String[] args) {
 
-        checkOutPermutation("", "ABC");
+        getPermutationGenerator("", "ABC");
 
     }
 
-    public static void checkOutPermutation(String prefix, String st) {
+    public static void getPermutationGenerator(String prefix, String str) {
 
-        if (st.length() == 0) {
+        if (str.length() == 0) {
             System.out.println(prefix);
         }
 
-        for (int i = 0; i < st.length(); i++) {
-            String newWord = prefix + st.charAt(i);
-            String newAlphabeticWord = st.substring(0, i) + st.substring(i + 1);
-            checkOutPermutation(newWord, newAlphabeticWord);
+        for (int i = 0; i < str.length(); i++) {
+
+            String newWord = prefix + str.charAt(i);
+
+            String newAlphabeticWord = str.substring(0, i) + str.substring(i + 1);
+
+            getPermutationGenerator(newWord, newAlphabeticWord);
 
         }
 
