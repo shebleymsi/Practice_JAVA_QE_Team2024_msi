@@ -1,17 +1,14 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class CheckPermutation { //PermutationGenerator
+public class CheckPermutation { //PermutationGenerator  // done
     public static void main(String[] args) {
 
-        getPermutationGenerator("", "ABC");
-
+        getPermutationGenerator("", "ABC"); // 3!
+        // ABC, ACB, BCA, BAC, CAB, CBA
     }
 
     public static void getPermutationGenerator(String prefix, String str) {
 
-        if (str.length() == 0) {
-            System.out.println(prefix);
-        }
 
         for (int i = 0; i < str.length(); i++) {
 
@@ -21,6 +18,10 @@ public class CheckPermutation { //PermutationGenerator
 
             getPermutationGenerator(newWord, newAlphabeticWord);
 
+        }
+
+        if (str.length() == 0) {
+            System.out.println(prefix);
         }
 
     }

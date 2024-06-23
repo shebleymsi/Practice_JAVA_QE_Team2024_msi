@@ -1,17 +1,19 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
-public class CountWord {
+public class CountWordWithScanner {
 
     public static void main(String[] args) {
-        // Call the method to count the words in the string
-        getCountOfTheWords();
+
+        getCountOfTheWordsWithScanner();
     }
 
-    public static void getCountOfTheWords() {
-        // Input string containing multiple words
-        String str = "Eid Mubarak to Everyone. Hopefully everyone fine. Thank you all, guys. oops! ";
+    public static void getCountOfTheWordsWithScanner() { // Shebley
+        Scanner input = new Scanner(System.in);
+        System.out.print("Enter your String : ");
+        String str = input.nextLine();
 
         // Split the string based on spaces
         String[] words = str.split(" ");
@@ -45,4 +47,6 @@ public class CountWord {
         // Print the count of non-empty words
         System.out.println("Number of words in String (using enhanced for loop): " + count1);
     }
+
 }
+

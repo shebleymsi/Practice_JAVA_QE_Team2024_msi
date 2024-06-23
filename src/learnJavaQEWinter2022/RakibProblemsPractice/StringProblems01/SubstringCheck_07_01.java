@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.RakibProblemsPractice.StringProblems01;
 
-public class SubstringCheck07 { // done
+public class SubstringCheck_07_01 { // done
 
     // is it checkSubstring(str, subStr) and contains() are same job?
 

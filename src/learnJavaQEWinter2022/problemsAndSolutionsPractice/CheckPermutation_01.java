@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class CheckPermutation_01 {
+public class CheckPermutation_01 { // read from here
 
 
     public static void main(String[] args) {
