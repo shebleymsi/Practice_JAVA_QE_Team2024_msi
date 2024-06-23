@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CountSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CountWordWithScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_00_last.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/RakibProblemsPractice/StringProblems01/SubstringCheck07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPermutation_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPermutation_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckSumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckSumOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckSumOfNumbersTableFormat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/ConvertStringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CountWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CountWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignHeartUsingNestedForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +61,9 @@
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountWord">
-    <configuration name="CheckSumOfNumbersTableFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CheckSumOfNumbersTableFormat" />
+  <component name="RunManager" selected="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02">
+    <configuration name="DesignPatternUsingForLoop_00_last" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_00_last" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -79,33 +75,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertStringToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.ConvertStringToInteger" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountSentence" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWord" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
@@ -118,8 +88,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountWordWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWordWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWordWithScanner" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_01" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountWord" />
-        <item itemvalue="Application.CountWordWithScanner" />
-        <item itemvalue="Application.CountSentence" />
-        <item itemvalue="Application.ConvertStringToInteger" />
-        <item itemvalue="Application.CheckSumOfNumbersTableFormat" />
+        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02" />
+        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_01" />
+        <item itemvalue="Application.DesignPatternUsingForLoop_00_last" />
+        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWord" />
+        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWordWithScanner" />
       </list>
     </recent_temporary>
   </component>
