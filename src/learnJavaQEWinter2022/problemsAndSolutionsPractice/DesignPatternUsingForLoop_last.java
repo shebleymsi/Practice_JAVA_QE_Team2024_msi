@@ -1,7 +1,7 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
 
-public class DesignPatternUsingForLoop_last {
+public class DesignPatternUsingForLoop_last { // Next
 
     public static void main(String[] args) {
         // Call the methods to print different triangle patterns
@@ -19,10 +19,11 @@ public class DesignPatternUsingForLoop_last {
             }
             // Inner loop for columns
             for (int j = 0; j <= i; j++) {
-                System.out.print("a "); // Print 'a' followed by a space
+                System.out.print("* "); // Print 'a' followed by a space
             }
             System.out.println(); // Move to the next line after each row
         }
+
     }
 
 

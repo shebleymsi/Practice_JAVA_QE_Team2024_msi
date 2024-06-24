@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_00_last.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DetermineIncreaseDecreaseOrder_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignHeartUsingNestedForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_last.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DesignPatternUsingForLoop_last.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DetermineIncreaseDecreaseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/DetermineIncreaseDecreaseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutFrequencyOfWordFromAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutFrequencyOfWordFromAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutGreatestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FindOutGreatestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +62,9 @@
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02">
-    <configuration name="DesignPatternUsingForLoop_00_last" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_00_last" />
+  <component name="RunManager" selected="Application.FindOutGreatestNumber">
+    <configuration name="DetermineIncreaseDecreaseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DetermineIncreaseDecreaseOrder" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWord" />
+    <configuration name="DetermineIncreaseDecreaseOrder_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DetermineIncreaseDecreaseOrder_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWordWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWordWithScanner" />
+    <configuration name="DetermineIncreaseDecreaseOrder_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DetermineIncreaseDecreaseOrder_02" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_01" />
+    <configuration name="FindOutFrequencyOfWordFromAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.FindOutFrequencyOfWordFromAString" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02" />
+    <configuration name="FindOutGreatestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.FindOutGreatestNumber" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_02" />
-        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.DesignPatternUsingForLoop_01" />
-        <item itemvalue="Application.DesignPatternUsingForLoop_00_last" />
-        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWord" />
-        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.CountWordWithScanner" />
+        <item itemvalue="Application.FindOutGreatestNumber" />
+        <item itemvalue="Application.FindOutFrequencyOfWordFromAString" />
+        <item itemvalue="Application.DetermineIncreaseDecreaseOrder_01" />
+        <item itemvalue="Application.DetermineIncreaseDecreaseOrder_02" />
+        <item itemvalue="Application.DetermineIncreaseDecreaseOrder" />
       </list>
     </recent_temporary>
   </component>

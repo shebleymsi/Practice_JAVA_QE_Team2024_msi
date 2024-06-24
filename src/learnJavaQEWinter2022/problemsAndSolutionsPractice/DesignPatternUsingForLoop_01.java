@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class DesignPatternUsingForLoop_01 {
+public class DesignPatternUsingForLoop_01 { // next ...
 
 
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ public class DesignPatternUsingForLoop_01 {
     }
 
     static void pattern5(int n) {
-
+        // https://www.youtube.com/watch?v=lsOOs5J8ycw  ==> from here.
 
     }
 
