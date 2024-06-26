@@ -2,10 +2,9 @@ package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
 import java.util.Arrays;
 import java.util.Map;
-import java.util.Scanner;
 import java.util.TreeMap;
 
-public class FindOutFrequencyOfWordFromAString {
+public class FrequencyOfWordFromAString { // // plz find classname: FrequencyOfNumberFromAnArray
 
     // Objective: To find the frequency of each word in a given sentence.
 
@@ -31,12 +30,13 @@ public class FindOutFrequencyOfWordFromAString {
 
 
         // Using TreeMap to store words and their frequencies in sorted order
-        Map<String, Integer> map = new TreeMap<>();
+        TreeMap<String, Integer> map = new TreeMap<>();
 
         // Iterating through each word in the array to count
         // i will catch the array element to input as a key in the new map -->
         // --> and will calculate value according to the formula.
         // "How are you? thank you." ==> [How, are, you, thank, you]
+
 
         for (int i = 0; i < array.length; i++) {
             // Checking if the word is already present in the map
@@ -53,7 +53,6 @@ public class FindOutFrequencyOfWordFromAString {
 
         // Displaying the frequency of each word
         for (Map.Entry<String, Integer> entry : map.entrySet()) { //
-
             System.out.println(entry.getKey() + " : " + entry.getValue());
         }
     }

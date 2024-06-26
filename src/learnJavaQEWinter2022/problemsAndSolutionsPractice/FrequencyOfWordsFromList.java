@@ -1,50 +1,31 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.*;
 
 public class FrequencyOfWordsFromList {
+    public static void main(String[] args) { // plz find classname: FindOutFrequencyOfWordFromAString
 
-
-    public static void getFrequencyOfWords(List<String> strings) {
-        HashMap<String, Integer> map = new HashMap<>();
-        // To Add value in map
-        for (int i = 0; i < strings.size(); i++) {
-            Integer count = map.get(strings.get(i));
-            if (map.get(strings.get(i)) == null) {
-                map.put(strings.get(i), 1);
-            } else {
-                map.put(strings.get(i), ++count);
-            }
-        }
-        // To Iterate the value
-        for (Map.Entry mp : map.entrySet()) {
-            System.out.println("Frequency of " + mp.getKey() + " : " + mp.getValue());
-        }
-
-
+        List<String> arrayList = new ArrayList<>(Arrays.asList("Rakib", "Babor", "Rakib", "Shebley"));
+        getFrequencyOfWords(arrayList);
     }
 
-
-    public static void getFrequencyOfWords1(List<String> strings) {
+    public static void getFrequencyOfWords(List<String> arrayList) {
         TreeMap<String, Integer> map = new TreeMap<>();
+
         // To Add value in map
-        for (int i = 0; i < strings.size(); i++) {
-            Integer count = map.get(strings.get(i));
-            if (map.get(strings.get(i)) == null) {
-                map.put(strings.get(i), 1);
+        for (int i = 0; i < arrayList.size(); i++) {
+
+            if (map.containsKey(arrayList.get(i))) {
+                // If present, incrementing its frequency by 1
+                map.put(arrayList.get(i), map.get(arrayList.get(i)) + 1);
             } else {
-                map.put(strings.get(i), ++count);
+                // If not present, adding the word to the map with frequency 1
+                map.put(arrayList.get(i), 1);
             }
         }
-        // To Iterate the value
-        for (Map.Entry mp : map.entrySet()) {
-            System.out.println("Frequency of " + mp.getKey() + " : " + mp.getValue());
+        // Displaying the frequency of each String(Name)
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            System.out.println(entry.getKey() + " : " + entry.getValue());
         }
-
-
     }
-
 }

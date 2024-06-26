@@ -1,6 +1,6 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-public class FindOutGreatestNumber {
+public class FindOutGreatestNumber_00_Comparison {
 
     public static void main(String[] args) {
 
@@ -14,4 +14,6 @@ public class FindOutGreatestNumber {
             System.out.println(num3 + " is the largest number");
         }
     }
+
+
 }

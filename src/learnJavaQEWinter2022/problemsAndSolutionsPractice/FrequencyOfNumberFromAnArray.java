@@ -1,28 +1,35 @@
 package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
-import java.util.HashMap;
 import java.util.Map;
+import java.util.TreeMap;
 
 public class FrequencyOfNumberFromAnArray {
-    public static void getFrequencyOfNumbers(int[] numbers) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+    public static void main(String[] args) { // plz find classname: FindOutFrequencyOfWordFromAString
 
-
-        // To Add value in map
-        for (int i = 0; i < numbers.length; i++) {
-            Integer count = map.get(numbers[i]);
-            if (map.get(numbers[i]) == null) {
-                map.put(numbers[i], 1);
-            } else {
-                map.put(numbers[i], ++count);
-            }
-        }
-        // To Iterate the value
-        for (Map.Entry mp : map.entrySet()) {
-            System.out.println("Frequency of " + mp.getKey() + " : " + mp.getValue());
-        }
-
+        int[] array = {10, 50, 30, 40, 10, 50};
+        getFrequencyOfNumbers(array);
 
     }
 
+    public static void getFrequencyOfNumbers(int[] array) {
+
+        TreeMap<Integer, Integer> map = new TreeMap<>();
+
+        // To Add value in map
+        for (int i = 0; i < array.length; i++) {
+
+            if (map.containsKey(array[i])) {
+                // If present, incrementing its frequency by 1
+                map.put(array[i], map.get(array[i]) + 1);
+            } else {
+                // If not present, adding the word to the map with frequency 1
+                map.put(array[i], 1);
+            }
+        }
+
+        // Displaying the frequency of each number
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            System.out.println(entry.getKey() + " : " + entry.getValue() + " times");
+        }
+    }
 }

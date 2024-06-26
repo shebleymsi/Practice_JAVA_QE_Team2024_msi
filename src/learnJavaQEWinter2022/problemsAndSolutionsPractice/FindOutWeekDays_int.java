@@ -2,7 +2,7 @@ package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
 import java.util.Scanner;
 
-public class FindOutWeekDays {
+public class FindOutWeekDays_int {
 
     public static void main(String[] args) {
         getWeekDays();

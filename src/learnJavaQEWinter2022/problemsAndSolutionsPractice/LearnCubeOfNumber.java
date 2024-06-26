@@ -2,18 +2,18 @@ package learnJavaQEWinter2022.problemsAndSolutionsPractice;
 
 public class LearnCubeOfNumber {
 
-
     public static void main(String[] args) {
+        // Initialize a string that contains the number "321"
+        String number = "321";
 
-        String number = "3 2 1";
-
+        // Loop through each character in the string "number"
         for (int i = 0; i < number.length(); i++) {
+            // Convert the current character to its corresponding integer value
             int num = Character.getNumericValue(number.charAt(i));
-            System.out.println(num * num * num);
+            // Calculate the cube of the integer value
+            int cube = num * num * num;
+            // Print the cube of the integer value
+            System.out.println(cube);
         }
-
-
     }
-
-
 }
