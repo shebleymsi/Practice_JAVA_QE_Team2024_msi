@@ -16,9 +16,9 @@ public class MergeTwoArrayAndRemoveDuplicate {
 
     }
 
-    public static int[] mergeTwoArrayAndRemoveDuplicate(int[] arA, int[] arB) {
+    public static int[] mergeTwoArrayAndRemoveDuplicate(int[] arrayA, int[] arrayB) {
 
-        IntStream number = IntStream.concat(IntStream.of(arA), IntStream.of(arB));
+        IntStream number = IntStream.concat(IntStream.of(arrayA), IntStream.of(arrayB));
 
         int[] remove = number.distinct().sorted().toArray();
 

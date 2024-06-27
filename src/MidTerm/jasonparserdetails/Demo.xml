@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<stInfo>
+
+
+    <firstName>  Junaid   </firstName>
+    <lastName>Khalid</lastName>
+
+
+
+    <addres>
+
+        <road>23rd Ave</road>
+        <street> jackson st</street>
+
+
+    </addres>
+
+
+</stInfo>
+<!--Tag -->
+
+
+
+<!--<name> tag value     </name> ending tag-->
+
+
