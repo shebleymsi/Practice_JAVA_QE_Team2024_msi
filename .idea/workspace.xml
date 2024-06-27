@@ -2,126 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/algorithm/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/algorithm/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/algorithm/UnitTestSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/data/self-driving-car" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/ConnectDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/DatabaseConnectDirectly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/MovieDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/Stimulus_info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/Student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/UnitTestConnectDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/datastructure/CollectionView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/datastructure/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/datastructure/UseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/datastructure/UseMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/datastructure/UseQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/definition/core-java-conceptual-questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/definition/data-structure-questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/design/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/design/EmployeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/design/FortuneEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/design/Months.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/design/UnitTestingEmployeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/excelreadandwrite/ReadExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/excelreadandwrite/WriteExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparser/CnnAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparser/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparser/JsonReaderUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparserdetails/Demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparserdetails/ProcessStudentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparserdetails/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparserdetails/UnitTestingStudentProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparserdetails/XmlReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparserdetails/qtp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/jasonparserdetails/selenium.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/FindLowestDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/FindMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/LowestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/MakePyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/mathproblems/UnitTestingMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/problemandsolutions/ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/problemandsolutions/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/problemandsolutions/GradeSheet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/problemandsolutions/RandomNumberGenerate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/problemandsolutions/SearchElementOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/stringproblems/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/stringproblems/DetermineLargestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/stringproblems/DuplicateWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/stringproblems/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/stringproblems/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTerm/stringproblems/UnitTestingStringProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/algorithm/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/algorithm/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/algorithm/UnitTestSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/data/self-driving-car" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/ConnectDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/DatabaseConnectDirectly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/MovieDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/Stimulus_info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/Student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/UnitTestConnectDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/datastructure/CollectionView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/datastructure/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/datastructure/UseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/datastructure/UseMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/datastructure/UseQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/definition/core-java-conceptual-questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/definition/data-structure-questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/design/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/design/EmployeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/design/FortuneEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/design/Months.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/design/UnitTestingEmployeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/excelreadandwrite/ReadExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/excelreadandwrite/WriteExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparser/CnnAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparser/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparser/JsonReaderUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparserdetails/Demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparserdetails/ProcessStudentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparserdetails/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparserdetails/UnitTestingStudentProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparserdetails/XmlReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparserdetails/qtp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/jasonparserdetails/selenium.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/FindLowestDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/FindMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/LowestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/MakePyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/mathproblems/UnitTestingMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/problemandsolutions/ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/problemandsolutions/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/problemandsolutions/GradeSheet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/problemandsolutions/RandomNumberGenerate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/problemandsolutions/SearchElementOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/stringproblems/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/stringproblems/DetermineLargestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/stringproblems/DuplicateWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/stringproblems/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/stringproblems/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/MidTermPractice/stringproblems/UnitTestingStringProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArithmeticOperator_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArithmeticOperator_Practice/ArithmeticOperator_01_01_Test_Call.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/MergeTwoArrayAndRemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/MergeTwoArrayAndRemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/algorithm/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/algorithm/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/algorithm/UnitTestSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/ConnectDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/ConnectToMongoDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/DatabaseConnectDirectly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/MovieDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/Stimulus_info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/Student1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/UnitTestConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/databases/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/datastructure/CollectionView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/datastructure/DataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/datastructure/UseArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/datastructure/UseMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/datastructure/UseQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/design/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/design/EmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/design/FortuneEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/design/Months.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/design/UnitTestingEmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/excelreadandwrite/ReadExcelFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/excelreadandwrite/WriteExcelFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparser/CnnAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparser/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparser/JsonReaderUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparserdetails/Demo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparserdetails/ProcessStudentInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparserdetails/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparserdetails/UnitTestingStudentProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparserdetails/XmlReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparserdetails/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/jasonparserdetails/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/FindLowestDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/FindMissingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/LowestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/MakePyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/mathproblems/UnitTestingMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/problemandsolutions/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArithmeticOperator_Practice/ArithmeticOperator_01_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/problemandsolutions/ArraySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/problemandsolutions/GradeSheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/problemandsolutions/RandomNumberGenerate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/problemandsolutions/SearchElementOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/stringproblems/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/stringproblems/DetermineLargestWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/stringproblems/DuplicateWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/stringproblems/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/stringproblems/Permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTerm/stringproblems/UnitTestingStringProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/algorithm_05/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidTermPractice/algorithm_05/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/algorithm_05/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidTermPractice/algorithm_05/UnitTestSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/LowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/LowestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/UnitTestingMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArithmeticOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/GradeSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/GradeSheet_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/stringproblems_02/UnitTestingStringProblem.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,32 +107,33 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/MidTermPractice",
+    "last_opened_file_path": "D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\MidTermPractice" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\MidTerm" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\learnJavaQEWinter2022\problemsAndSolutionsPractice" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\learnJavaQEWinter2022" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\RakibProblemsPractice\StringProblems01" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\RakibProblemsPractice" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MidTermPractice.problemandsolutions_01.ArithmeticOperator" />
       <recent name="learnJavaQEWinter2022.problemsAndSolutionsPractice" />
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.HashMap08" />
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeTwoArrayAndRemoveDuplicate">
-    <configuration name="LearnCubeOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.LearnCubeOfNumber" />
+  <component name="RunManager" selected="Application.MidTermPractice.problemandsolutions_01.ArithmeticOperator_01">
+    <configuration name="ArithmeticOperator_01_01_Test_Call" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidTermPractice.problemandsolutions_01.ArithmeticOperator_Practice.ArithmeticOperator_01_01_Test_Call" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
+          <option name="PATTERN" value="MidTermPractice.problemandsolutions_01.ArithmeticOperator_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,6 +147,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MidTermPractice.problemandsolutions_01.ArithmeticOperator_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidTermPractice.problemandsolutions_01.ArithmeticOperator_01" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MidTermPractice.problemandsolutions_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,26 +193,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnJavaQEWinter2022.problemsAndSolutionsPractice.FrequencyOfWordsFromList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.FrequencyOfWordsFromList" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learnJavaQEWinter2022.problemsAndSolutionsPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MidTermPractice.problemandsolutions_01.ArithmeticOperator_01" />
+        <item itemvalue="Application.ArithmeticOperator_01_01_Test_Call" />
         <item itemvalue="Application.MergeTwoArrayAndRemoveDuplicate" />
         <item itemvalue="Application.ReverseString_01" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.LearnCubeOfNumber" />
-        <item itemvalue="Application.learnJavaQEWinter2022.problemsAndSolutionsPractice.FrequencyOfWordsFromList" />
       </list>
     </recent_temporary>
   </component>

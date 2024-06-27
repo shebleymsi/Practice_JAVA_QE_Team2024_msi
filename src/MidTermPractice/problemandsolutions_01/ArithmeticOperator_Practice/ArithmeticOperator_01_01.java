@@ -1,15 +1,15 @@
-package MidTermPractice.problemandsolutions_01;
+package MidTermPractice.problemandsolutions_01.ArithmeticOperator_Practice;
 
 import java.util.Scanner;
 
-public class ArithmeticOperator {
-    //Write Java program to allow the user to input two integer values and then the program prints the results of adding,
+public class ArithmeticOperator_01_01 {
+    // Write Java program to allow the user to input two integer values and then the program prints the results of adding,
     // subtracting, multiplying, and dividing among the two values.
 
     public static void main(String[] args) {
 
-        ArithmeticOperator AO = new ArithmeticOperator();
-        AO.doCalculation();
+        ArithmeticOperator_01_01.doCalculation();
+
 
     }
             public static void doCalculation() {
