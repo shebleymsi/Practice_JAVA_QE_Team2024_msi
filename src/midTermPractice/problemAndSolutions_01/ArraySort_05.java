@@ -1,7 +1,8 @@
 package midTermPractice.problemAndSolutions_01;
 
-public class ArraySort {
-    // By using the bubble sort / Insertion sort algorithm, write a Java program to sort an integer array of 10 elements in ascending.
+public class ArraySort_05 {
+    // By using the bubble_sort or Insertion_sort algorithm,
+    // write a Java program to sort an integer array of 10 elements in ascending.
     // using by Learn InsertionSort
     public static void main(String[] args) {
 

@@ -2,216 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/RandomNumberGenerate_03_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/RandomNumberGenerate_03_01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05_Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05_Insertion_Sort_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/RandomNumberGenerate_03_01_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/SearchElementOfArray_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/SearchElementOfArray_04_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/advanced_12/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/advanced_12/Problem_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/advanced_12/Problem_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/algorithms_09/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/algorithms_09/Problem_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/arrays_05/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/arrays_05/Problem_010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/collections_08/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/collections_08/Problem_035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/decisionMakingAndLoop_03/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/decisionMakingAndLoop_03/Problem_023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/files_10/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/files_10/Problem_012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/function_04/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/function_04/Problem_016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/iOStream_11/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/iOStream_11/Problem_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_001_Print_an_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_002_Add_Two_Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_003_Multiply_Two_Floating_Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_004_ASCII_Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_005_Compute_Remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_01_Swap_two_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_02_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_007_Even_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_007_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_01_vowel_or_consonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_03_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_03_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/objectAndClass_06/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/objectAndClass_06/Problem_007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/string_07/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/string_07/Problem_014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/typeConversion_02/Problem_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamples/typeConversion_02/Problem_014.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/algorithm_05/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/algorithm_05/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/algorithm_05/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/algorithm_05/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/algorithm_05/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/algorithm_05/UnitTestSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/datastructure_04/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/datastructure_04/CollectionView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/datastructure_04/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/datastructure_04/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/datastructure_04/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/datastructure_04/UseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/datastructure_04/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/datastructure_04/UseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/datastructure_04/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/datastructure_04/UseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/definition_00/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/definition_00/core-java-conceptual-questions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/definition_00/data-structure-questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/definition_00/data-structure-questions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/FindLowestDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/FindLowestDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/LowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/LowestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/MakePyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/mathproblems_03/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArithmeticOperator_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArithmeticOperator_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArithmeticOperator_Practice/ArithmeticOperator_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArithmeticOperator_Practice/ArithmeticOperator_01_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArithmeticOperator_Practice/ArithmeticOperator_01_01_Test_Call.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArithmeticOperator_Practice/ArithmeticOperator_01_01_Test_Call.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/GradeSheet_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/GradeSheet_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/RandomNumberGenerate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/problemandsolutions_01/SearchElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/SearchElementOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/stringproblems_02/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/stringproblems_02/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/stringproblems_02/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DuplicateWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/stringproblems_02/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidTermPractice/stringproblems_02/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayBasicsW3School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayBasicsW3School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayCopyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayCopyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayDuplicationRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayDuplicationRemoval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayMadeWithRandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayMadeWithRandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayMaximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayMinimum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArrayReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArrayReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArraySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArraySorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/PracticeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/PracticeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/ThirdHighestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/ThirdHighestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Array06/VowelDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/array06/VowelDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ArrayListDirectAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ArrayListDirectAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ArrayListWithAraay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ArrayListWithAraay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/CharRemoveFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/CharRemoveFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/CharRemoveFromStringByMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/CharRemoveFromStringByMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ContainsASpecificElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ContainsASpecificElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ContainsAllOf2ndArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ContainsAllOf2ndArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/EmptyOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/EmptyOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/EqualORNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/EqualORNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/FrequencyOfEachElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/FrequencyOfEachElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/LastOccurrencesOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/LastOccurrencesOfString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/MergeTwoArrayListsOfIntegersIntoASingleArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/MergeTwoArrayListsOfIntegersIntoASingleArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/RemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/RemoveDuplicatesFromAnArrayListStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/RemoveDuplicatesFromAnArrayListStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/RemoveOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/RemoveOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ReplaceOccurrencesOfSpecificElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ReplaceOccurrencesOfSpecificElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ReverseAnArrayListOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ReverseAnArrayListOfStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ReverseOrderSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ReverseOrderSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/ShuffleElementsOfArrayListIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/ShuffleElementsOfArrayListIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ArrayList07/W3Schools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/arrayList07/W3Schools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/BasicJAVA/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/basicJAVA/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ControlFlow03/DayOfWeek05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/controlFlow03/DayOfWeek05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ControlFlow03/GradeCalculation04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/controlFlow03/GradeCalculation04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ControlFlow03/LargestNumber02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/controlFlow03/LargestNumber02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ControlFlow03/LeapYearCheck03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/controlFlow03/LeapYearCheck03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ControlFlow03/NumberCheck01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/controlFlow03/NumberCheck01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/ControlFlow03/SimpleCalculator06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/controlFlow03/SimpleCalculator06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/HashMap09/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/hashMap09/PhoneBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/HashMap09/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/hashMap09/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/HashMap09/StudentGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/hashMap09/StudentGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/HashMap09/WordFrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/hashMap09/WordFrequencyCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/HashMap09/WriteSimpleMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/hashMap09/WriteSimpleMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/LinkedList08/BasicLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/linkedList08/BasicLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/LinkedList08/MiddleElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/linkedList08/MiddleElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/LinkedList08/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/linkedList08/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/LinkedList08/W3School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/linkedList08/W3School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Loop04/CountNumbersByWhile04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/loop04/CountNumbersByWhile04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Loop04/CountdownByWhile06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/loop04/CountdownByWhile06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Loop04/FactorialByWhile07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/loop04/FactorialByWhile07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Loop04/PrintArrayElements03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/loop04/PrintArrayElements03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Loop04/PrintNumbers01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/loop04/PrintNumbers01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Loop04/SumNumbers02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/loop04/SumNumbers02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Loop04/SumNumbersByWhile05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/loop04/SumNumbersByWhile05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/StringProblems01/ConvertCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/stringProblems01/ConvertCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/StringProblems01/CountCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/stringProblems01/CountCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/StringProblems01/ReplaceCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/stringProblems01/ReplaceCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/StringProblems01/SplitString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/stringProblems01/SplitString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/StringProblems01/StringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/stringProblems01/StringLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/StringProblems01/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/stringProblems01/StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/StringProblems01/SubstringCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/stringProblems01/SubstringCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Variable02/AreaOfCircle06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/variable02/AreaOfCircle06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Variable02/ConstantsExample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/variable02/ConstantsExample03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Variable02/FahrenheitToCelsius05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/variable02/FahrenheitToCelsius05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Variable02/ScopeExample02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/variable02/ScopeExample02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Variable02/SumOfTwoNumbers04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/variable02/SumOfTwoNumbers04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Variable02/SwapVariables07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/variable02/SwapVariables07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblems/Variable02/VariableExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblems/variable02/VariableExample01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayAverage_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayAverage_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayBasicsW3School_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayBasicsW3School_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayConcatenation_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayConcatenation_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayCopyExample_fun_pre05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayCopyExample_fun_pre05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayDuplicationRemoval_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayDuplicationRemoval_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayMadeWithRandomNumber_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayMadeWithRandomNumber_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayMaximum_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayMaximum_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayMinimum_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayMinimum_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayPractice_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayPractice_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayReversal_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayReversal_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArraySearch_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArraySearch_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArraySearch_09_new.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArraySearch_09_new.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArraySorting_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArraySorting_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArraySumAverageMinMaxScanner_02post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArraySumAverageMinMaxScanner_02post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArraySumAverageMinMax_02post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArraySumAverageMinMax_02post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArraySum_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArraySum_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayWithScanner_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayWithScanner_01_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ArrayfromString_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ArrayfromString_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/Practice_Qe_Winter2022_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/Practice_Qe_Winter2022_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/ThirdHighestNumber_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/ThirdHighestNumber_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Array05/VowelDetector_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/array05/VowelDetector_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ArrayListDirectAssignment_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ArrayListDirectAssignment_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ArrayListWithAraay_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ArrayListWithAraay_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ArrayListWithAraay_03_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ArrayListWithAraay_03_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ArrayListWithAraay_03_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ArrayListWithAraay_03_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ArrayListWithArray_03_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ArrayListWithArray_03_01_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ArrayListWithScanner_02_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ArrayListWithScanner_02_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/CharRemoveFromStringByMethod_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/CharRemoveFromStringByMethod_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/CharRemoveFromStringByMethod_19_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/CharRemoveFromStringByMethod_19_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/CharRemoveFromStringByMethod_19_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/CharRemoveFromStringByMethod_19_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/CharRemoveFromString_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/CharRemoveFromString_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ContainsASpecificElement_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ContainsASpecificElement_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ContainsAllOf2ndArrayList_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ContainsAllOf2ndArrayList_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/EmptyOrNot_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/EmptyOrNot_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/EqualORNot_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/EqualORNot_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/FrequencyOfEachElement_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/FrequencyOfEachElement_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/FrequencyOfEachElement_10_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/FrequencyOfEachElement_10_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/LastOccurrencesOfString_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/LastOccurrencesOfString_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/MergeTwoArrayListsOfIntegersIntoASingleArrayList_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/MergeTwoArrayListsOfIntegersIntoASingleArrayList_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/RemoveDuplicate_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/RemoveDuplicate_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/RemoveDuplicatesFromAnArrayListStrings_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/RemoveDuplicatesFromAnArrayListStrings_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/RemoveOccurrences_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/RemoveOccurrences_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/RemoveSpecificElement_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/RemoveSpecificElement_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ReplaceOccurrencesOfSpecificElement_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ReplaceOccurrencesOfSpecificElement_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ReverseAnArrayListOfStrings_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ReverseAnArrayListOfStrings_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ReverseOrderSort_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ReverseOrderSort_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/ShuffleElementsOfArrayListIntegers_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/ShuffleElementsOfArrayListIntegers_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ArrayList06/W3Schools_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/arrayList06/W3Schools_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ControlFlow03/DayOfWeek05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/controlFlow03/DayOfWeek05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ControlFlow03/GradeCalculation04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/controlFlow03/GradeCalculation04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ControlFlow03/LargestNumber02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/controlFlow03/LargestNumber02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ControlFlow03/LeapYearCheck03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/controlFlow03/LeapYearCheck03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ControlFlow03/NumberCheck01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/controlFlow03/NumberCheck01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ControlFlow03/SimpleCalculator06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/controlFlow03/SimpleCalculator06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/ControlFlow03/TernaryOperatorApply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/controlFlow03/TernaryOperatorApply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/PhoneBook_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/PhoneBook_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/Practice_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/Practice_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/StudentGrades_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/StudentGrades_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/StudentsGrades_02_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/StudentsGrades_02_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/WordFrequencyCounter_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/WordFrequencyCounter_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/WordFrequencyCounter_05_01_update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/WordFrequencyCounter_05_01_update.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/WordFrequencyCounter_05_01_update_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/WordFrequencyCounter_05_01_update_easy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/WriteSimpleMap_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/WriteSimpleMap_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/HashMap08/WriteSimpleMap_01_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/hashMap08/WriteSimpleMap_01_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/AddAllElementsFromAnotherCollection_01_02_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/AddAllElementsFromAnotherCollection_01_02_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/BasicLinkedList_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/BasicLinkedList_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/ConvertTheLinkedListToAnArray_01_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/ConvertTheLinkedListToAnArray_01_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/LinkedListWithScanner_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/LinkedListWithScanner_01_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/MiddleElementOfTheArraylistBasedOnSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/MiddleElementOfTheArraylistBasedOnSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/MiddleElementOfTheArraylistBasedOnSizeScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/MiddleElementOfTheArraylistBasedOnSizeScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/MiddleElementOfTheLinkList_03_EvenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/MiddleElementOfTheLinkList_03_EvenSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/MiddleElementOfTheLinkList_03_oddSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/MiddleElementOfTheLinkList_03_oddSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/RemoveDuplicatesUseSet_04_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/RemoveDuplicatesUseSet_04_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/RemoveDuplicates_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04_01_01_copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/RemoveDuplicates_04_01_01_copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04_01_copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/RemoveDuplicates_04_01_copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/RemoveDuplicates_04_01_copy_01_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/RemoveDuplicates_04_01_copy_01_easy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/LinkedList07/W3School_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/linkedList07/W3School_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/CountNumbersByWhile04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/CountNumbersByWhile04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/CountdownByWhile06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/CountdownByWhile06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/FactorialByWhile07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/FactorialByWhile07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/FactorialByWhile0701.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/FactorialByWhile0701.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/PrintArrayElements03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/PrintArrayElements03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/PrintNumbers01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/PrintNumbers01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/PrintNumbers0101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/PrintNumbers0101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/SumNumbers02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/SumNumbers02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Loop04/SumNumbersByWhile05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/loop04/SumNumbersByWhile05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/ConvertCase03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/ConvertCase03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/CountCharacters04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/CountCharacters04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/ReplaceCharacters05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/ReplaceCharacters05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/SplitStringReturnType06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/SplitStringReturnType06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/SplitStringVoidType0601.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/SplitStringVoidType0601.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/StringLength02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/StringLength02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/StringMethods01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/StringMethods01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/SubString_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/SubString_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/StringProblems01/SubstringCheck_07_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/stringProblems01/SubstringCheck_07_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Variable02/AreaOfCircle06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/variable02/AreaOfCircle06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Variable02/ConstantsExample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/variable02/ConstantsExample03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Variable02/FahrenheitToCelsius05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/variable02/FahrenheitToCelsius05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Variable02/ScopeExample02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/variable02/ScopeExample02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Variable02/SumOfTwoNumbers04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/variable02/SumOfTwoNumbers04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Variable02/SwapVariables07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/variable02/SwapVariables07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RakibProblemsPractice/Variable02/VariableExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rakibProblemsPractice/variable02/VariableExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/SearchElementOfArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,15 +80,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi" />
@@ -268,22 +105,9 @@
       <recent name="learnJavaQEWinter2022.RakibProblemsPractice.LinkedList07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomNumberGenerate_03_01_02">
-    <configuration name="ArithmeticOperator_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.problemAndSolutions_01.ArithmeticOperator_01" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice.problemAndSolutions_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomNumberGenerate_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.problemAndSolutions_01.RandomNumberGenerate_03" />
+  <component name="RunManager" selected="Application.ArraySort_05_Insertion_Sort">
+    <configuration name="ArraySort_05_Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.problemAndSolutions_01.ArraySort_05_Insertion_Sort" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -321,8 +145,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midTermPractice.problemAndSolutions_01.GradeSheet_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.problemAndSolutions_01.GradeSheet_02" />
+    <configuration name="RandomNumberGenerate_03_01_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.problemAndSolutions_01.RandomNumberGenerate_03_01_03" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice.problemAndSolutions_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchElementOfArray_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.problemAndSolutions_01.SearchElementOfArray_04" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice.problemAndSolutions_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midTermPractice.problemAndSolutions_01.SearchElementOfArray_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.problemAndSolutions_01.SearchElementOfArray_04" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -336,11 +186,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomNumberGenerate_03_01_02" />
-        <item itemvalue="Application.RandomNumberGenerate_03_01_01" />
-        <item itemvalue="Application.midTermPractice.problemAndSolutions_01.RandomNumberGenerate_03" />
-        <item itemvalue="Application.midTermPractice.problemAndSolutions_01.GradeSheet_02" />
-        <item itemvalue="Application.midTermPractice.problemAndSolutions_01.ArithmeticOperator_01" />
+        <item itemvalue="Application.ArraySort_05_Insertion_Sort" />
       </list>
     </recent_temporary>
   </component>
