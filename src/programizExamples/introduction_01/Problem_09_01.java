@@ -1,7 +1,6 @@
 package programizExamples.introduction_01;
 
-public class Problem_014 {
-    // Example 2: Find the largest number among three using nested if..else statement
+public class Problem_09_01 {
     public static void main(String[] args) {
         double n1 = -4.5, n2 = 3.9, n3 = 5.5;
 
@@ -17,5 +16,6 @@ public class Problem_014 {
                 System.out.println(n3 + " is the largest number.");
         }
     }
+
 }
 
