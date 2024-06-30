@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05_Insertion_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05_Insertion_Sort_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/RandomNumberGenerate_03_01_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/SearchElementOfArray_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/SearchElementOfArray_04_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/advanced_12/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/advanced_12/Problem_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/advanced_12/Problem_012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/algorithms_09/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/algorithms_09/Problem_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/arrays_05/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/arrays_05/Problem_010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/collections_08/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/collections_08/Problem_035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/decisionMakingAndLoop_03/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/decisionMakingAndLoop_03/Problem_023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/files_10/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/files_10/Problem_012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/function_04/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/function_04/Problem_016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/iOStream_11/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/iOStream_11/Problem_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_001_Print_an_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_002_Add_Two_Integers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_003_Multiply_Two_Floating_Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_004_ASCII_Value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_005_Compute_Remainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_01_Swap_two_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_02_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_006_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_007_Even_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_007_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_01_vowel_or_consonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_03_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/introduction_01/Problem_08_03_switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/objectAndClass_06/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/objectAndClass_06/Problem_007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/string_07/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/string_07/Problem_014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/typeConversion_02/Problem_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamples/typeConversion_02/Problem_014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/SearchElementOfArray.java" beforeDir="false" />
-    </list>
+    <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,11 +43,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\MidTermPractice" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\MidTerm" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\learnJavaQEWinter2022\problemsAndSolutionsPractice" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\learnJavaQEWinter2022" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="midTermPractice.problemAndSolutions_01" />
