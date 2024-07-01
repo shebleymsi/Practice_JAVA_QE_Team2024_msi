@@ -14,6 +14,7 @@ public class RandomNumberGenerate_03_01_02 {
             randomInt = random.nextInt(8) + 1;
             System.out.print(randomInt + " ");
         }
+        System.out.print("\n"+randomInt);
 
     }
 

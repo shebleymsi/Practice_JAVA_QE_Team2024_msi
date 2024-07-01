@@ -1,4 +1,4 @@
-package programizExamples.introduction_01;
+package miscellaneous.demo;
 
 import java.util.Scanner;
 
