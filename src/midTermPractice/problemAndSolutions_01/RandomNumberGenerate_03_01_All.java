@@ -2,9 +2,8 @@ package midTermPractice.problemAndSolutions_01;
 
 import java.util.Random;
 
-public class RandomNumberGenerate_03_01 {
+public class RandomNumberGenerate_03_01_All {
     //Write Java program to generate a random number between 1 to 8.
-
 
     public static void main(String[] args) {
         Random random = new Random();
@@ -40,7 +39,6 @@ public class RandomNumberGenerate_03_01 {
             int randomInt5 = random.nextInt(max1 - min1 + 1) + min;
             System.out.print(randomInt5+" ");
         }
-
 
     }
 

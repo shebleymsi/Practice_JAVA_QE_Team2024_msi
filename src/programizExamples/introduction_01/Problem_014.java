@@ -1,21 +1,35 @@
 package programizExamples.introduction_01;
 
 public class Problem_014 {
-    // Example 2: Find the largest number among three using nested if..else statement
+    // Example 1: Check if String is Empty or Null
     public static void main(String[] args) {
-        double n1 = -4.5, n2 = 3.9, n3 = 5.5;
+        // create null, empty, and regular strings
+        String str1 = null;  // str1 is assigned null
+        String str2 = "";    // str2 is assigned an empty string
+        String str3 = "  ";  // str3 is assigned a string with spaces
 
-        if (n1 >= n2) {
-            if (n1 >= n3)
-                System.out.println(n1 + " is the largest number.");
-            else
-                System.out.println(n3 + " is the largest number.");
-        } else {
-            if (n2 >= n3)
-                System.out.println(n2 + " is the largest number.");
-            else
-                System.out.println(n3 + " is the largest number.");
+        // check if str1 is null or empty
+        System.out.println("str1 is " + isNullEmpty(str1));  // call method isNullEmpty with str1
+
+        // check if str2 is null or empty
+        System.out.println("str2 is " + isNullEmpty(str2));  // call method isNullEmpty with str2
+
+        // check if str3 is null or empty
+        System.out.println("str3 is " + isNullEmpty(str3));  // call method isNullEmpty with str3
+    }
+
+    // method to check if string is null or empty
+    public static String isNullEmpty(String str) {
+        // check if string is null
+        if (str == null) {
+            return "NULL";  // return "NULL" if the string is null
+        }
+        // check if string is empty
+        else if (str.trim().isEmpty()) {
+            return "EMPTY";  // return "EMPTY" if the string is empty
+        }
+        else {
+            return "neither NULL nor EMPTY";  // return this if the string is neither null nor empty
         }
     }
 }
-

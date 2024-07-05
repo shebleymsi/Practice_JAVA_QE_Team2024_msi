@@ -4,7 +4,7 @@ public class SearchElementOfArray_04 {
     // Using the sequential(linear)search algorithm,
     // write a Java program to search for an element of an integer array of 10 elements.
     public static void main(String[] args) {
-        int[] array = {34, 7, 23, 32, 5, 62, 32, 74, 21, 30};
+        int[] array = {34, 7, 23, 32, 5, 62, 32, 23, 74, 21, 30};
         int target = 23;
 
         // Sequential search logic
