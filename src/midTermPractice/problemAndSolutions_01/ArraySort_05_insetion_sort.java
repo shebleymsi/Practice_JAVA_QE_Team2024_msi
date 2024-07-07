@@ -2,7 +2,7 @@ package midTermPractice.problemAndSolutions_01;
 
 import java.util.Arrays;
 
-public class ArraySort_05 {
+public class ArraySort_05_insetion_sort {
     // By using the Insertion_sort algorithm,
     // write a Java program to sort an integer array of 10 elements in ascending order.
     public static void main(String[] args) {

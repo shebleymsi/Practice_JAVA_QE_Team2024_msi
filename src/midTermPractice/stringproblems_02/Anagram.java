@@ -2,33 +2,57 @@ package midTermPractice.stringproblems_02;
 
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Anagram {
+    //Write a Java Program to check if the two String are Anagram. Two String are called Anagram when there is
+    //same character but in different order.For example,"CAT" and "ACT", "ARMY" and "MARY".
 
     public static void main(String[] args) {
-        //Write a Java Program to check if the two String are Anagram. Two String are called Anagram when there is
-        //same character but in different order.For example,"CAT" and "ACT", "ARMY" and "MARY".
-        checkAnagram("CAT","ACT");
+
+
+        // Create a Scanner object to read input from the user
+        Scanner scanner = new Scanner(System.in);
+
+        // Prompt the user to enter the first string
+        System.out.print("Enter the first string: ");
+        String str1 = scanner.nextLine();
+
+        // Prompt the user to enter the second string
+        System.out.print("Enter the second string: ");
+        String str2 = scanner.nextLine();
+
+        // Check if the strings are anagrams and print the result
+        if (areAnagrams(str1, str2)) {
+            System.out.println(str1 + " and " + str2 + " are anagrams.");
+        } else {
+            System.out.println(str1 + " and " + str2 + " are not anagrams.");
+        }
+
+        // Close the scanner
+        scanner.close();
     }
 
-    public static String checkAnagram(String word, String word2) {
+    public static boolean areAnagrams(String str1, String str2) {
+        // Remove all whitespace and convert to lowercase
+        str1 = str1.replaceAll("\\s+", "").toLowerCase();
+        str2 = str2.replaceAll("\\s+", "").toLowerCase();
 
-        boolean status = true;
-        if (word.length()!=word2.length()){
-            status=false;
-        }else {
-            char[] array=word.toLowerCase().toCharArray();
-            char[] array2=word.toLowerCase().toCharArray();
-            Arrays.sort(array);
-            Arrays.sort(array2);
-            Arrays.equals(array,array2);
-
-        }if (status== true){
-            System.out.println(word +" and "+word2+" are Anagram");
-        }else {
-            System.out.println(word +" and "+word2+" are not Anagram");
+        // Check if lengths are different
+        if (str1.length() != str2.length()) {
+            return false;
         }
-        return word;
+
+        // Convert strings to char arrays
+        char[] charArray1 = str1.toCharArray();
+        char[] charArray2 = str2.toCharArray();
+
+        // Sort the char arrays
+        Arrays.sort(charArray1);
+        Arrays.sort(charArray2);
+
+        // Compare the sorted char arrays
+        return Arrays.equals(charArray1, charArray2);
     }
 
 

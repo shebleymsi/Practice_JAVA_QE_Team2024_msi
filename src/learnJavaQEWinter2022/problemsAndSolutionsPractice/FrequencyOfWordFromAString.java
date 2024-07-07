@@ -24,6 +24,7 @@ public class FrequencyOfWordFromAString { // // plz find classname: FrequencyOfN
     static void count_freq(String str) {
 
 
+        System.out.println("Original input: "+str);
         // Splitting the input string into words using regular expression "\\s+" (one or more whitespace characters)
         String[] array = str.split("\\s+");
         System.out.println(Arrays.toString(array));
