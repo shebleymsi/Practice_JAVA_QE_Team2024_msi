@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord_02_TreeMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FrequencyOfWordFromAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/FrequencyOfWordFromAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/problemAndSolutions_01/ArraySort_05_insetion_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miscellaneous/demo/Problem_11_LeapYearChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miscellaneous/demo/Problem_11_LeapYearChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPalindromeWords_01_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learnJavaQEWinter2022/problemsAndSolutionsPractice/CheckPalindromeWords_01_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord_01_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DuplicateWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +57,14 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\learnJavaQEWinter2022\problemsAndSolutionsPractice" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="midTermPractice.stringproblems_02" />
       <recent name="programizExamples.typeConversion_02" />
       <recent name="programizExamples.introduction_01" />
       <recent name="miscellaneous.demo" />
       <recent name="midTermPractice.problemAndSolutions_01" />
-      <recent name="MidTermPractice.problemandsolutions_01.ArithmeticOperator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DetermineLargestWord">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="DetermineLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="midTermPractice.stringproblems_02.DetermineLargestWord" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetermineLargestWord_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.stringproblems_02.DetermineLargestWord_01" />
+    <configuration name="DetermineLargestWord_02_TreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.stringproblems_02.DetermineLargestWord_02_TreeMap" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programizExamples.typeConversion_02.Problem_001" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.stringproblems_02.Palindrome" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programizExamples.typeConversion_02.*" />
+          <option name="PATTERN" value="midTermPractice.stringproblems_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,13 +130,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="midTermPractice.stringproblems_02.DetermineLargestWord_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.stringproblems_02.DetermineLargestWord_01" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice.stringproblems_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midTermPractice.stringproblems_02.DetermineLargestWord_01_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.stringproblems_02.DetermineLargestWord_01_HashMap" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice.stringproblems_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DetermineLargestWord" />
-        <item itemvalue="Application.DetermineLargestWord_01" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.midTermPractice.stringproblems_02.DetermineLargestWord_01_HashMap" />
+        <item itemvalue="Application.DetermineLargestWord_02_TreeMap" />
+        <item itemvalue="Application.midTermPractice.stringproblems_02.DetermineLargestWord_01" />
         <item itemvalue="Application.FrequencyOfWordFromAString" />
-        <item itemvalue="Application.Problem_001" />
-        <item itemvalue="Application.Problem_001_01" />
       </list>
     </recent_temporary>
   </component>

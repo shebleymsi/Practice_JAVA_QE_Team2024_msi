@@ -1,16 +1,14 @@
-package midTermPractice.stringproblems_02;
+package problemsAndSolutionsPractice;
 
 import java.util.Scanner;
 
-public class Palindrome {
-    public static void main(String[] args) {
-        /*
-          If a String is reversed and it remains unchanged, that is called Palindrome. For example, MOM,DAD,MADAM are
-          Palindrome. So write java code to check if a given String is Palindrome or not.
-         */
+public class CheckPalindromeWords_bazlur_02_Scanner {
+
+    public static void main(String[] args) { // hard
+
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a word: ");
-        String word = input.nextLine().toLowerCase();
+        String word = input.nextLine();
 
         if (isPalindrome(word)) {
             System.out.println("The word \"" + word + "\" is a palindrome.");
@@ -28,7 +26,4 @@ public class Palindrome {
         }
         return true;
     }
-
-
 }
-

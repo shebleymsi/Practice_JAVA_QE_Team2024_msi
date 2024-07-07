@@ -1,13 +1,9 @@
-package midTermPractice.stringproblems_02;
-public class Permutation {
+package problemsAndSolutionsPractice;
+public class CheckPermutation_01 { // read from here
     public static void main(String[] args) {
-        /*
-         * Permutation of String "ABC" is "ABC" "BAC" "BCA" "ACB" "CAB" "CBA".
-         * Write Java program to compute all Permutation of a String
-         */
         checkOutPermutation("", "ABC");
     }
-    public static String checkOutPermutation(String prefix, String st) {
+    public static void checkOutPermutation(String prefix, String st) {
         if (st.length() == 0) {
             System.out.println(prefix);
         } else {
@@ -16,9 +12,9 @@ public class Permutation {
                 String newAlphabeticWord = st.substring(0, i) + st.substring(i + 1);
                 checkOutPermutation(newWord, newAlphabeticWord);
             }
+
         }
-        return prefix;
+
     }
 
 }
-
