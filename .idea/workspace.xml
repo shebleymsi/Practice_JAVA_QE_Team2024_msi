@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001_LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001_LeapYear_Scanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_196_FindGreatestAndLowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_196_FindGreatestAndLowestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,73 +41,73 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/programizExamplesPractice/Examples_12_advanced&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\MidTermPractice" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\MidTerm" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\learnJavaQEWinter2022\problemsAndSolutionsPractice" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_12_advanced" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_11_iOStream" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_10_files" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_09_algorithms" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_08_collections" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="programizExamplesPractice.Examples_03_decisionMakingAndLoop" />
       <recent name="miscellanious_bazlor" />
       <recent name="miscellanious" />
       <recent name="programizExamplesPractice.Examples_02_typeConversion" />
       <recent name="midTermPractice.stringproblems_02" />
-      <recent name="programizExamples.typeConversion_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pg_196_FindGreatestAndLowestNumber">
-    <configuration name="Pg_188_HalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellanious_bazlor.ch_04.Pg_188_HalfPyramid" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="miscellanious_bazlor.ch_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pg_188_Print100TimesUsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellanious_bazlor.ch_04.Pg_188_Print100TimesUsingLoop" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="miscellanious_bazlor.ch_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pg_194_break_continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellanious_bazlor.ch_04.Pg_194_break_continue" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="miscellanious_bazlor.ch_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem_001_LeapYear_Scanner">
     <configuration name="Pg_196_FindGreatestAndLowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="miscellanious_bazlor.ch_04.Pg_196_FindGreatestAndLowestNumber" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="miscellanious_bazlor.ch_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.Problem_001" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_001_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.Problem_001_LeapYear" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_001_LeapYear_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.Problem_001_LeapYear_Scanner" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +130,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_001_LeapYear_Scanner" />
+        <item itemvalue="Application.Problem_001_LeapYear" />
+        <item itemvalue="Application.Problem_001" />
         <item itemvalue="Application.Pg_196_FindGreatestAndLowestNumber" />
         <item itemvalue="Application.miscellanious_bazlor.ch_04.Pg_168_GuessNumber_if_else" />
       </list>
