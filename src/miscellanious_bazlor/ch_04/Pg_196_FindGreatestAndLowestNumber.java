@@ -15,14 +15,13 @@ public class Pg_196_FindGreatestAndLowestNumber {
 
         System.out.print("Enter integer number 1: "); // Prompt user to enter the first integer
         int number = input.nextInt(); // Read the first integer
-
-
         int greatest = number; // Initialize greatest with the first integer
         int lowest = number; // Initialize lowest with the first integer
 
         // Loop to read remaining integers
+        // The loop starts at i = 2 because the first integer (when i = 1) has already been processed.
+        //The loop then continues to read the remaining integers starting from the second one (i.e., i = 2).
         for (int i = 2; i <= n; i++) {
-
             System.out.print("Enter integer number " + i + ": "); // Prompt user to enter the next integer
             number = input.nextInt(); // Read the next integer
 

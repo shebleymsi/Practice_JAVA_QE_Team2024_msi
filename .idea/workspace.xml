@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_168_GuessNumber_if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_188_HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_188_Print100TimesUsingLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_193_GuessNumber_do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_194_break_continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_196_FindGreatestAndLowestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_615_Print100TimesUsingLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_196_FindGreatestAndLowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_196_FindGreatestAndLowestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,10 +129,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Pg_196_FindGreatestAndLowestNumber" />
-        <item itemvalue="Application.miscellanious_bazlor.ch_04.Pg_194_break_continue" />
-        <item itemvalue="Application.miscellanious_bazlor.ch_04.Pg_188_Print100TimesUsingLoop" />
         <item itemvalue="Application.miscellanious_bazlor.ch_04.Pg_168_GuessNumber_if_else" />
-        <item itemvalue="Application.miscellanious_bazlor.ch_04.Pg_188_HalfPyramid" />
       </list>
     </recent_temporary>
   </component>
