@@ -1,6 +1,6 @@
-package miscellanious_bazlor.ch_04;
+package Java_Programming_ANM_Bazlur_Rahman.ch_04_Control_Flow;
 
-public class Pg_615_Print100TimesUsingLoop {
+public class Pg_615_Print100TimesUsing_RepeatMetho {
     public static void main(String[] args) { // related pg_188
         repeatMethodUse();
     }

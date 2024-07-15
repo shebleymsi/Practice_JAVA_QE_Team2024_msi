@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001_LeapYear_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_200_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_201_Array_Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_202_Array_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_203_Array_Scanner_Length_and_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programizExamplesPractice/Examples_03_decisionMakingAndLoop/Problem_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_168_GuessNumber_if_else.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_168_GuessNumber_if_else.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_188_HalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_188_HalfPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_188_Print100TimesUsingLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_188_Print100TimesUsingLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_193_GuessNumber_do_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_193_GuessNumber_do_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_194_break_continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_194_break_continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_196_FindGreatestAndLowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_196_FindGreatestAndLowestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miscellanious_bazlor/ch_04/Pg_615_Print100TimesUsingLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_615_Print100TimesUsing_RepeatMetho.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,38 +46,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/programizExamplesPractice/Examples_12_advanced&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/WINDOWS (C)_2024/IdeaProjects_2024/java-programming-anm-bazlur-r-1e",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\miscellanious_bazlor" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_12_advanced" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_11_iOStream" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_10_files" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_09_algorithms" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\programizExamplesPractice\Examples_08_collections" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array" />
+      <recent name="miscellanious_bazlor.ch_05_Array" />
+      <recent name="miscellanious_bazlor.ch_04" />
       <recent name="programizExamplesPractice.Examples_03_decisionMakingAndLoop" />
       <recent name="miscellanious_bazlor" />
-      <recent name="miscellanious" />
-      <recent name="programizExamplesPractice.Examples_02_typeConversion" />
-      <recent name="midTermPractice.stringproblems_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_001_LeapYear_Scanner">
-    <configuration name="Pg_196_FindGreatestAndLowestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellanious_bazlor.ch_04.Pg_196_FindGreatestAndLowestNumber" />
+  <component name="RunManager" selected="Application.Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max">
+    <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_200_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_200_Array" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="miscellanious_bazlor.ch_04.*" />
+          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.Problem_001" />
+    <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_202_Array_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_202_Array_Print" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.*" />
+          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_001_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.Problem_001_LeapYear" />
+    <configuration name="Pg_201_Array_Length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_201_Array_Length" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.*" />
+          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_001_LeapYear_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.Problem_001_LeapYear_Scanner" />
+    <configuration name="Pg_203_Array_Scanner_Length_and_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_203_Array_Scanner_Length_and_element" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programizExamplesPractice.Examples_03_decisionMakingAndLoop.*" />
+          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miscellanious_bazlor.ch_04.Pg_168_GuessNumber_if_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellanious_bazlor.ch_04.Pg_168_GuessNumber_if_else" />
+    <configuration name="Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="miscellanious_bazlor.ch_04.*" />
+          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_001_LeapYear_Scanner" />
-        <item itemvalue="Application.Problem_001_LeapYear" />
-        <item itemvalue="Application.Problem_001" />
-        <item itemvalue="Application.Pg_196_FindGreatestAndLowestNumber" />
-        <item itemvalue="Application.miscellanious_bazlor.ch_04.Pg_168_GuessNumber_if_else" />
+        <item itemvalue="Application.Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max" />
+        <item itemvalue="Application.Pg_203_Array_Scanner_Length_and_element" />
+        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_200_Array" />
+        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_202_Array_Print" />
+        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_201_Array_Length" />
       </list>
     </recent_temporary>
   </component>
