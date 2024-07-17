@@ -23,7 +23,7 @@ public class Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max {
         int min = numbers[0]; // Initialize minimum with the first index
         int max = numbers[0]; // Initialize maximum with the first index
 
-        for (int i = 1; i <= numbers.length-1; i++) {
+        for (int i = 1; i < numbers.length; i++) {
             if (min > numbers[i]) {
                 min = numbers[i];
             }
