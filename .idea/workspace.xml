@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_206_Scanner_Count_Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_206_Scanner_Count_Letter_msi_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_206_Scanner_Count_Letter_msi_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_211_Array_sum_by_Enhanced_for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_01_Array_copy_to_Another_Array_by_for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_02_Array_copy_to_Another_Array_using_metod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_03_Array_copy_and_cerate_Another_new_Array_using_metod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_196_FindGreatestAndLowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_196_FindGreatestAndLowestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_203_Array_Scanner_Length_and_element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_203_Array_Scanner_Length_and_element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +64,9 @@
       <recent name="miscellanious_bazlor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_206_Scanner_Count_Letter">
-    <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_203_Array_Scanner_Length_and_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_203_Array_Scanner_Length_and_element" />
+  <component name="RunManager" selected="Application.Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod">
+    <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_02_Array_copy_to_Another_Array_using_metod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_02_Array_copy_to_Another_Array_using_metod" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max" />
+    <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_03_Array_copy_and_cerate_Another_new_Array_using_metod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_03_Array_copy_and_cerate_Another_new_Array_using_metod" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_206_Scanner_Count_Letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_206_Scanner_Count_Letter" />
+    <configuration name="Pg_211_Array_sum_by_Enhanced_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_211_Array_sum_by_Enhanced_for_loop" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pg_200_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_200_Array" />
+    <configuration name="Pg_212_01_Array_copy_to_Another_Array_by_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_01_Array_copy_to_Another_Array_by_for_loop" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pg_202_Array_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_202_Array_Print" />
+    <configuration name="Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_206_Scanner_Count_Letter" />
-        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_203_Array_Scanner_Length_and_element" />
-        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_204_Array_Scanner_Length_and_element_Sum_Avg_Min_Max" />
-        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_200_Array" />
-        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_202_Array_Print" />
+        <item itemvalue="Application.Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod" />
+        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_03_Array_copy_and_cerate_Another_new_Array_using_metod" />
+        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_02_Array_copy_to_Another_Array_using_metod" />
+        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_01_Array_copy_to_Another_Array_by_for_loop" />
+        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_211_Array_sum_by_Enhanced_for_loop" />
       </list>
     </recent_temporary>
   </component>
