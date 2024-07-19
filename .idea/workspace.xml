@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_211_Array_sum_by_Enhanced_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_01_Array_copy_to_Another_Array_by_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_02_Array_copy_to_Another_Array_using_metod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_03_Array_copy_and_cerate_Another_new_Array_using_metod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_04_Array_copy_with_range_and_create_Another_Array_using_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_215_Array_common_error.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <recent name="miscellanious_bazlor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod">
+  <component name="RunManager" selected="Application.Pg_215_Array_common_error">
     <configuration name="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_02_Array_copy_to_Another_Array_using_metod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_02_Array_copy_to_Another_Array_using_metod" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -91,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pg_211_Array_sum_by_Enhanced_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_211_Array_sum_by_Enhanced_for_loop" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Pg_212_01_Array_copy_to_Another_Array_by_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_01_Array_copy_to_Another_Array_by_for_loop" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -117,8 +102,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod" />
+    <configuration name="Pg_212_04_Array_copy_with_range_and_create_Another_Array_using_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_04_Array_copy_with_range_and_create_Another_Array_using_method" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pg_215_Array_common_error" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_215_Array_common_error" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +130,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pg_212_04_Array_copy_with_range_and_cerate_Another_Array_using_metod" />
+        <item itemvalue="Application.Pg_215_Array_common_error" />
+        <item itemvalue="Application.Pg_212_04_Array_copy_with_range_and_create_Another_Array_using_method" />
         <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_03_Array_copy_and_cerate_Another_new_Array_using_metod" />
         <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_02_Array_copy_to_Another_Array_using_metod" />
-        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_01_Array_copy_to_Another_Array_by_for_loop" />
-        <item itemvalue="Application.Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_211_Array_sum_by_Enhanced_for_loop" />
       </list>
     </recent_temporary>
   </component>
