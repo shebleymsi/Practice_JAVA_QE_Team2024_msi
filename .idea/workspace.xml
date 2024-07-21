@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_01_01_Factorial_by_Iteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_01_02_Factorial_by_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_04_Control_Flow/Pg_189_Prime_Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_02_nth_Fibonacci_Number_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/Math_03_PrimeNumber_msi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_211_Array_sum_by_Enhanced_for_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_211_Array_sum_by_Enhanced_for_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_02_Array_copy_to_Another_Array_using_metod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_02_Array_copy_to_Another_Array_using_metod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_03_Array_copy_and_cerate_Another_new_Array_using_metod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_212_03_Array_copy_and_create_Another_new_Array_using_metod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_215_Array_common_error.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Programming_ANM_Bazlur_Rahman/ch_05_Array/Pg_215_Array_common_error.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_02_Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/FindLowestDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_08_FindLowestDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_07_FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/LowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_06_LowestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_05_MakePyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_04_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_03_PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Anagram_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord_02_TreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/DetermineLargestWord_01_TreeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Palindrome_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Palindrome_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Palindrome_03_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/stringproblems_02/Permutation_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_02_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_02_Fibonacci_Series_Iteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_03_PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_03_PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_04_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_04_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_05_MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_05_MakePyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice/mathproblems_03/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +67,22 @@
       <recent name="programizExamplesPractice.Examples_03_decisionMakingAndLoop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Math_02_Fibonacci">
-    <configuration name="Math_01_02_Factorial_by_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.mathproblems_03.Math_01_02_Factorial_by_Recursion" />
+  <component name="RunManager" selected="Application.midTermPractice.mathproblems_03.Math_04_Pattern">
+    <configuration name="Pg_189_Prime_Factor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_04_Control_Flow.Pg_189_Prime_Factor" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_04_Control_Flow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midTermPractice.mathproblems_03.Math_02_nth_Fibonacci_Number_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.mathproblems_03.Math_02_nth_Fibonacci_Number_Recursion" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math_02_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.mathproblems_03.Math_02_Fibonacci" />
+    <configuration name="midTermPractice.mathproblems_03.Math_04_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.mathproblems_03.Math_04_Pattern" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -106,21 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pg_212_03_Array_copy_and_create_Another_new_Array_using_metod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.Pg_212_03_Array_copy_and_create_Another_new_Array_using_metod" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Programming_ANM_Bazlur_Rahman.ch_05_Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="midTermPractice.mathproblems_03.Math_01_01_Factorial_by_Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.mathproblems_03.Math_01_01_Factorial_by_Iteration" />
+    <configuration name="midTermPractice.mathproblems_03.Math_05_MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice.mathproblems_03.Math_05_MakePyramid" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -132,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midTermPractice.stringproblems_02.DetermineLargestWord_01_HashMap_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice.stringproblems_02.DetermineLargestWord_01_HashMap_01" />
+    <configuration name="miscellaneous.Math_03_PrimeNumber_msi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscellaneous.Math_03_PrimeNumber_msi" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="midTermPractice.stringproblems_02.*" />
+          <option name="PATTERN" value="miscellaneous.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Math_02_Fibonacci" />
-        <item itemvalue="Application.Math_01_02_Factorial_by_Recursion" />
-        <item itemvalue="Application.midTermPractice.mathproblems_03.Math_01_01_Factorial_by_Iteration" />
-        <item itemvalue="Application.midTermPractice.stringproblems_02.DetermineLargestWord_01_HashMap_01" />
-        <item itemvalue="Application.Pg_212_03_Array_copy_and_create_Another_new_Array_using_metod" />
+        <item itemvalue="Application.midTermPractice.mathproblems_03.Math_04_Pattern" />
+        <item itemvalue="Application.midTermPractice.mathproblems_03.Math_02_nth_Fibonacci_Number_Recursion" />
+        <item itemvalue="Application.midTermPractice.mathproblems_03.Math_05_MakePyramid" />
+        <item itemvalue="Application.miscellaneous.Math_03_PrimeNumber_msi" />
+        <item itemvalue="Application.Pg_189_Prime_Factor" />
       </list>
     </recent_temporary>
   </component>
