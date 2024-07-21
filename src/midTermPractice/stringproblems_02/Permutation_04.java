@@ -1,5 +1,5 @@
 package midTermPractice.stringproblems_02;
-public class Permutation {
+public class Permutation_04 {
     public static void main(String[] args) {
         /*
          * Permutation of String "ABC" is "ABC" "BAC" "BCA" "ACB" "CAB" "CBA".

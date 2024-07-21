@@ -3,7 +3,7 @@ package midTermPractice.stringproblems_02;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class DetermineLargestWord_02_TreeMap { // Group_Study
+public class DetermineLargestWord_01_TreeMap { // Group_Study
 
     public static void main(String[] args) {
         String wordGiven = "Human brain is a biological learning machine";

@@ -1,6 +1,6 @@
 package midTermPractice.mathproblems_03;
 
-public class Pattern {
+public class Math_04_Pattern {
 
     public static void main(String[] args) {
         /* Read this numbers, find the pattern then implement the logic from this pattern.which will give you this output.

@@ -1,6 +1,6 @@
 package midTermPractice.mathproblems_03;
 
-public class PrimeNumber {
+public class Math_03_PrimeNumber {
 
     /*
      * Find list of Prime numbers from number 2 to 1 million.

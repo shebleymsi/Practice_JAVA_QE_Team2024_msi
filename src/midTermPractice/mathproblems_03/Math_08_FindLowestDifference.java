@@ -2,7 +2,7 @@ package midTermPractice.mathproblems_03;
 
 import java.util.*;
 
-public class FindLowestDifference {
+public class Math_08_FindLowestDifference {
     public static void main(String[] args) {
         /*
          Implement in java.

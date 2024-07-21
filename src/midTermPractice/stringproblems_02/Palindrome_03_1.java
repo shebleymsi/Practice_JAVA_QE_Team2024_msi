@@ -2,7 +2,7 @@ package midTermPractice.stringproblems_02;
 
 import java.util.Scanner;
 
-public class Palindrome_1 {
+public class Palindrome_03_1 {
     /*
      *If a String is reversed and it remains unchanged, that is called Palindrome. For example, MOM,DAD,MADAM are
      *Palindrome. So write java code to check if a given String is Palindrome or not.

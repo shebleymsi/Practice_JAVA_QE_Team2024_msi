@@ -2,7 +2,7 @@ package midTermPractice.mathproblems_03;
 
 import java.util.Scanner;
 
-public class FindMissingNumber {
+public class Math_07_FindMissingNumber {
 
     public static void main(String[] args) {
         /*

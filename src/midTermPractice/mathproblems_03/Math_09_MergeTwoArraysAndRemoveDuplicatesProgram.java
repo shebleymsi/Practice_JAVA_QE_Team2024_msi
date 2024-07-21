@@ -3,7 +3,7 @@ package midTermPractice.mathproblems_03;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class MergeTwoArraysAndRemoveDuplicatesProgram {
+public class Math_09_MergeTwoArraysAndRemoveDuplicatesProgram {
 
     // Merge Two Arrays Into Single Sorted Array Without Duplicates
     // given  arrayA={1,3,4}
