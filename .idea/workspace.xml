@@ -856,13 +856,26 @@
       <recent name="java_Programming_MSI_Shebley_2021.datatype" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BioPicture">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="BioPicture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_Beginner_to_Advanced_Anisul_Islam_2020.basic.BioPicture" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_Beginner_to_Advanced_Anisul_Islam_2020.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Beginner_to_Advanced_Anisul_Islam_2020.oop_01.oop.final_keyword_2.Test" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_Beginner_to_Advanced_Anisul_Islam_2020.oop_01.oop.final_keyword_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -909,26 +922,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="miscellaneous_msi_2024.Math_03_PrimeNumber_msi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellaneous_msi_2024.Math_03_PrimeNumber_msi" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="miscellaneous_msi_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.BioPicture" />
         <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_04_Pattern" />
         <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_02_nth_Fibonacci_Number_Recursion" />
         <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_05_MakePyramid" />
-        <item itemvalue="Application.miscellaneous_msi_2024.Math_03_PrimeNumber_msi" />
       </list>
     </recent_temporary>
   </component>
