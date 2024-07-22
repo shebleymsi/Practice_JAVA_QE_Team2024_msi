@@ -1,4 +1,4 @@
-package java_Programming_Interview_for_SDET_2024.qa_Stack_Junaid_Aziz;
+package SDET_Interview_2024.qa_Stack_Junaid_Aziz;
 
 public class Problem_02_ {
     //Question 2: Write a program to remove duplicate characters in a given String.
