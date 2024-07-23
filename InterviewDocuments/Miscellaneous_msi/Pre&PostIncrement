@@ -1,0 +1,14 @@
+
+Pre-increment (++x):
+Increments the value of x before it is used in the expression.
+If x is 5, then ++x will make x 6 and use the value 6 in the expression.
+int x = 5;
+int y = ++x; Here,x is incremented to 6, then y is assigned the value of 6.
+Output: x = 6, y = 6
+
+Post-increment (x++):
+Uses the current value of x in the expression, then increments x.
+If x is 5, then x++ will use the value 5 in the expression and then make x 6.
+int x = 5;
+int y = x++; Here, y is assigned the value of 5, then x is incremented to 6.
+Output: x = 6, y = 5

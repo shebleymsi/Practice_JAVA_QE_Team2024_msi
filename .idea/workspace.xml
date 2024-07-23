@@ -2,7 +2,227 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Miscellaneous_msi/Pre&amp;PostIncrement" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Miscellaneous_msi/Z_TopicSerial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Notes_Lecture_LearnJava_QE_Winter2022_/DataStructure.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Notes_Lecture_LearnJava_QE_Winter2022_/ExceptionHandling.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Notes_Lecture_LearnJava_QE_Winter2022_/LearnJSON.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Notes_Lecture_LearnJava_QE_Winter2022_/LearnJava" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Notes_Lecture_LearnJava_QE_Winter2022_/OOP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/Notes_Lecture_LearnJava_QE_Winter2022_/UnitTesting.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/definition_MidTerm_QE_WINTER2022/core-java-conceptual-questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewDocuments/definition_MidTerm_QE_WINTER2022/data-structure-questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/DoingSomeMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnCommenting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnEscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnNamingConvention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnNestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/LearnVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_01_basic/Tauseef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_02_operators/LearnArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_02_operators/LearnAssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_02_operators/LearnConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_02_operators/LearnEqualityRelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_02_operators/LearnUnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_03_controlflow/LearnControlFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_03_controlflow/LearnDoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_03_controlflow/LearnIfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_03_controlflow/LearnNestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_03_controlflow/LearnNestedSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_03_controlflow/LearnSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_04_loop/LearnForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_04_loop/LearnLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_04_loop/LearnNestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_04_loop/LearnNestedWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_04_loop/LearnWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_05_method/LearnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_05_method/NonReturnTypeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_05_method/ReturnTypeMethodWithParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_05_method/ReturnTypeMethodWithoutParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/OOP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/AutoPilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/FlyingCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/GeneralMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/ModernCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/abstraction/TestGM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/encapsulation/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/encapsulation/TestPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/inheritance/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/inheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/inheritance/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/inheritance/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/inheritance/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/polymorphism/methodOverloading/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/polymorphism/methodOverriding/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/polymorphism/methodOverriding/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/polymorphism/methodOverriding/CatGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/polymorphism/methodOverriding/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_06_oop/polymorphism/methodOverriding/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_07_constructor/LearnConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_08_string/LearnString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_09_exceptionHandling/ExceptionHandling.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_09_exceptionHandling/LearnExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_09_exceptionHandling/LearnExceptionHandlingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_10_recursion/LearnRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/DataStructure.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/array/Learn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/array/Learn3DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/array/LearnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/array/LearnArrayWithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/arrayList/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/arrayList/LearnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/arrayList/ListOfStates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/linkList/LearnLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/linkList/LearnLinkListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/linkList/LearnListWithLinkListAndArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/map/HashMapTravers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/map/LearnListHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/map/LearnMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/queue/LearnPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/queue/LearnQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/randomNumber/LearnRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/set/LearnSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/set/LearnTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/set/LearnUnionIntersectionDifferenceUsingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/sort/LearnInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/sort/LearnSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_11_collectionFramework/stack/LearnStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_12_singleton/LearnSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_12_singleton/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_12_singleton/TestSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_13_debug/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_13_debug/CalculatorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_13_debug/LearnDebugging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_14_doEnum/LEVEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_14_doEnum/LearnEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_15_garbageCollection/LearnGarbageCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_16_homework/Hw_IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_17_learnJson/LearnJSON.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_17_learnJson/demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Lecture_LearnJava_QE_Winter2022_/learnJava_17_learnJson/students.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SDET_Interview_2024/qa_Stack_Junaid_Aziz/Problem_10_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/ConvertCase03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/ConvertCase03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/CountCharacters04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/CountCharacters04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/ReplaceCharacters05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/ReplaceCharacters05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/SplitStringReturnType06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/SplitStringReturnType06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/SplitStringVoidType0601.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/SplitStringVoidType0601.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/StringLength02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/StringLength02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/StringMethods01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/StringMethods01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/SubString_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/SubString_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_01_StringProblems/SubstringCheck_07_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_01_StringProblems/SubstringCheck_07_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_02_Variable/AreaOfCircle06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_02_Variable/AreaOfCircle06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_02_Variable/ConstantsExample03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_02_Variable/ConstantsExample03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_02_Variable/FahrenheitToCelsius05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_02_Variable/FahrenheitToCelsius05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_02_Variable/ScopeExample02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_02_Variable/ScopeExample02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_02_Variable/SumOfTwoNumbers04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_02_Variable/SumOfTwoNumbers04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_02_Variable/SwapVariables07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_02_Variable/SwapVariables07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_02_Variable/VariableExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_02_Variable/VariableExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_03_ControlFlow/DayOfWeek05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_03_ControlFlow/DayOfWeek05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_03_ControlFlow/GradeCalculation04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_03_ControlFlow/GradeCalculation04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_03_ControlFlow/LargestNumber02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_03_ControlFlow/LargestNumber02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_03_ControlFlow/LeapYearCheck03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_03_ControlFlow/LeapYearCheck03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_03_ControlFlow/NumberCheck01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_03_ControlFlow/NumberCheck01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_03_ControlFlow/SimpleCalculator06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_03_ControlFlow/SimpleCalculator06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_03_ControlFlow/TernaryOperatorApply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_03_ControlFlow/TernaryOperatorApply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/CountNumbersByWhile04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/CountNumbersByWhile04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/CountdownByWhile06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/CountdownByWhile06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/FactorialByWhile07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/FactorialByWhile07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/FactorialByWhile0701.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/FactorialByWhile0701.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/PrintArrayElements03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/PrintArrayElements03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/PrintNumbers01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/PrintNumbers01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/PrintNumbers0101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/PrintNumbers0101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/SumNumbers02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/SumNumbers02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_04_Loop/SumNumbersByWhile05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_04_Loop/SumNumbersByWhile05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayAverage_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayAverage_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayBasicsW3School_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayBasicsW3School_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayConcatenation_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayConcatenation_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayCopyExample_fun_pre05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayCopyExample_fun_pre05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayDuplicationRemoval_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayDuplicationRemoval_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayMadeWithRandomNumber_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayMadeWithRandomNumber_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayMaximum_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayMaximum_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayMinimum_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayMinimum_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayPractice_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayPractice_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayReversal_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayReversal_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArraySearch_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArraySearch_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArraySearch_09_new.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArraySearch_09_new.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArraySorting_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArraySorting_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArraySumAverageMinMaxScanner_02post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArraySumAverageMinMaxScanner_02post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArraySumAverageMinMax_02post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArraySumAverageMinMax_02post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArraySum_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArraySum_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayWithScanner_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayWithScanner_01_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ArrayfromString_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ArrayfromString_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/Practice_Qe_Winter2022_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/Practice_Qe_Winter2022_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/ThirdHighestNumber_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/ThirdHighestNumber_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_05_Array/VowelDetector_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_05_Array/VowelDetector_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ArrayListDirectAssignment_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ArrayListDirectAssignment_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ArrayListWithAraay_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ArrayListWithAraay_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ArrayListWithAraay_03_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ArrayListWithAraay_03_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ArrayListWithAraay_03_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ArrayListWithAraay_03_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ArrayListWithArray_03_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ArrayListWithArray_03_01_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ArrayListWithScanner_02_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ArrayListWithScanner_02_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/CharRemoveFromStringByMethod_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/CharRemoveFromStringByMethod_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/CharRemoveFromStringByMethod_19_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/CharRemoveFromStringByMethod_19_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/CharRemoveFromStringByMethod_19_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/CharRemoveFromStringByMethod_19_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/CharRemoveFromString_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/CharRemoveFromString_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ContainsASpecificElement_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ContainsASpecificElement_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ContainsAllOf2ndArrayList_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ContainsAllOf2ndArrayList_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/EmptyOrNot_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/EmptyOrNot_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/EqualORNot_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/EqualORNot_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/FrequencyOfEachElement_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/FrequencyOfEachElement_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/FrequencyOfEachElement_10_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/FrequencyOfEachElement_10_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/LastOccurrencesOfString_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/LastOccurrencesOfString_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/MergeTwoArrayListsOfIntegersIntoASingleArrayList_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/MergeTwoArrayListsOfIntegersIntoASingleArrayList_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/RemoveDuplicate_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/RemoveDuplicate_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/RemoveDuplicatesFromAnArrayListStrings_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/RemoveDuplicatesFromAnArrayListStrings_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/RemoveOccurrences_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/RemoveOccurrences_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/RemoveSpecificElement_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/RemoveSpecificElement_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ReplaceOccurrencesOfSpecificElement_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ReplaceOccurrencesOfSpecificElement_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ReverseAnArrayListOfStrings_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ReverseAnArrayListOfStrings_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ReverseOrderSort_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ReverseOrderSort_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/ShuffleElementsOfArrayListIntegers_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/ShuffleElementsOfArrayListIntegers_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_06_ArrayList/W3Schools_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_06_ArrayList/W3Schools_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/AddAllElementsFromAnotherCollection_01_02_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/AddAllElementsFromAnotherCollection_01_02_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/BasicLinkedList_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/BasicLinkedList_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/ConvertTheLinkedListToAnArray_01_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/ConvertTheLinkedListToAnArray_01_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/LinkedListWithScanner_01_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/LinkedListWithScanner_01_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/MiddleElementOfTheArraylistBasedOnSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/MiddleElementOfTheArraylistBasedOnSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/MiddleElementOfTheArraylistBasedOnSizeScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/MiddleElementOfTheArraylistBasedOnSizeScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/MiddleElementOfTheLinkList_03_EvenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/MiddleElementOfTheLinkList_03_EvenSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/MiddleElementOfTheLinkList_03_oddSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/MiddleElementOfTheLinkList_03_oddSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/RemoveDuplicatesUseSet_04_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/RemoveDuplicatesUseSet_04_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/RemoveDuplicates_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/RemoveDuplicates_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/RemoveDuplicates_04_01_01_copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/RemoveDuplicates_04_01_01_copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/RemoveDuplicates_04_01_copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/RemoveDuplicates_04_01_copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/RemoveDuplicates_04_01_copy_01_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/RemoveDuplicates_04_01_copy_01_easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_07_LinkedList/W3School_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_07_LinkedList/W3School_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/PhoneBook_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/PhoneBook_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/Practice_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/Practice_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/StudentGrades_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/StudentGrades_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/StudentsGrades_02_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/StudentsGrades_02_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/WordFrequencyCounter_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/WordFrequencyCounter_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/WordFrequencyCounter_05_01_update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/WordFrequencyCounter_05_01_update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/WordFrequencyCounter_05_01_update_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/WordFrequencyCounter_05_01_update_easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/WriteSimpleMap_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/WriteSimpleMap_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProblemsPractice_2024/group_08_HashMap/WriteSimpleMap_01_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group_ProblemsPractice_RU_2024/group_08_HashMap/WriteSimpleMap_01_Scanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +254,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/java_Programming_MSI_Shebley_2021&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/InterviewDocuments",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\Practice_Lecture_LearnJava_QE_Winter2022_" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_MSI_Shebley_2021" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_MSI_Shebley_2021\problem" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_MSI_Shebley_2021\oop\oop" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_MSI_Shebley_2021\oop" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_MSI_Shebley_2021\beignnerJava" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments\Miscellaneous_msi" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="java_Programming_Interview_Questions_for_QA_SDET" />
@@ -59,13 +283,13 @@
       <recent name="java_Programming_MSI_Shebley_2021.javaapplication4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_02_Fibonacci_Series_Iteration_calling_method">
-    <configuration name="Array9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Beginner_to_Advanced_Anisul_Islam_2020.beignnerJava.array_demo.Array9" />
+  <component name="RunManager" selected="Application.LearnDataType">
+    <configuration name="ConvertCase03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="group_ProblemsPractice_RU_2024.group_01_StringProblems.ConvertCase03" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Beginner_to_Advanced_Anisul_Islam_2020.beignnerJava.array_demo.*" />
+          <option name="PATTERN" value="group_ProblemsPractice_RU_2024.group_01_StringProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BioData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Beginner_to_Advanced_Anisul_Islam_2020.basicJava.BioData" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.Demo" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Beginner_to_Advanced_Anisul_Islam_2020.basicJava.*" />
+          <option name="PATTERN" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Beginner_to_Advanced_Anisul_Islam_2020.basicJava.CommentDemo" />
+    <configuration name="DoingSomeMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.DoingSomeMath" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Beginner_to_Advanced_Anisul_Islam_2020.basicJava.*" />
+          <option name="PATTERN" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_02_Fibonacci_Series_Iteration_calling_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_02_Fibonacci_Series_Iteration_calling_method" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.Hello" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
+          <option name="PATTERN" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pg_218_TwoDimensionalArray_Nested_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Programming_ANM_Bazlur_Rahman_2024.ch_05_Array.pg_218_TwoDimensionalArray_Nested_Loop" />
+    <configuration name="LearnDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.LearnDataType" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Programming_ANM_Bazlur_Rahman_2024.ch_05_Array.*" />
+          <option name="PATTERN" value="Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_02_Fibonacci_Series_Iteration_calling_method" />
-        <item itemvalue="Application.pg_218_TwoDimensionalArray_Nested_Loop" />
-        <item itemvalue="Application.Array9" />
-        <item itemvalue="Application.CommentDemo" />
-        <item itemvalue="Application.BioData" />
+        <item itemvalue="Application.LearnDataType" />
+        <item itemvalue="Application.Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.Demo" />
+        <item itemvalue="Application.Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.Hello" />
+        <item itemvalue="Application.Practice_Lecture_LearnJava_QE_Winter2022_.learnJava_01_basic.DoingSomeMath" />
+        <item itemvalue="Application.ConvertCase03" />
       </list>
     </recent_temporary>
   </component>

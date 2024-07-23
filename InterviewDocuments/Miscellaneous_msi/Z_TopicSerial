@@ -1,0 +1,17 @@
+1. basic - Start with the basics of Java, including syntax, data types, and basic input/output.
+2. operators - Learn about different operators (arithmetic, relational, logical, etc.) used in Java.
+3. controlflow - Understand control flow statements like if-else, switch, loops (for, while, do-while).
+4. loop - Dive deeper into loops and their applications.
+5. method - Learn about methods, their declarations, and how to call them.
+6. oop - Get introduced to Object-Oriented Programming concepts: classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
+7. constructor - Understand constructors and how they are used to initialize objects.
+8. string - Work with strings and string manipulation methods.
+9. exceptionHandling - Learn how to handle exceptions using try-catch blocks and other mechanisms.
+10. recursion - Explore recursion and how methods can call themselves.
+11. collectionFramework - Introduction to the Java Collection Framework, including lists, sets, and maps.
+12. singleton - Understand the Singleton design pattern and its implementation.
+13. debug - Learn debugging techniques to find and fix errors in your code.
+14. doEnum - Understand enumerations (enums) and how to use them.
+15. garbageCollection - Learn about Java's garbage collection mechanism and memory management.
+16. learnJson - Understand how to work with JSON in Java for data interchange.
+17. homework - Practice with homework assignments to reinforce your learning.
