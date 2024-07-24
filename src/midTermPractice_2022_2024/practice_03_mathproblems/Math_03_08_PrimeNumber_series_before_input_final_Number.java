@@ -2,7 +2,7 @@ package midTermPractice_2022_2024.practice_03_mathproblems;
 
 import java.util.Scanner;
 
-public class Math_03_05_PrimeNumber_series_before_input_final_Number {
+public class Math_03_08_PrimeNumber_series_before_input_final_Number {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n, count, m = 2;
