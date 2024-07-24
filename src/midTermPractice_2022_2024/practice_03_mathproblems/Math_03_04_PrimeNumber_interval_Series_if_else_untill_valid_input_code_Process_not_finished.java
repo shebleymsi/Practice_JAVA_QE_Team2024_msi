@@ -2,26 +2,27 @@ package midTermPractice_2022_2024.practice_03_mathproblems;
 
 import java.util.Scanner;
 
-public class Math_03_03_PrimeNumber_Series_if_else_invalid_input_code_Process_finished {
-
+public class Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int m, n, count = 0, totalPrime = 0;
 
-        // Input validation for initial integer using if-else
+        // Input validation for initial integer using while and if-else
         System.out.print("Enter initial integer positive number (>= 2): ");
         m = input.nextInt();
-        if (m < 2) {
-            System.out.println("Invalid input. Please enter a number greater than or equal to 2.");
-            return;
+        while (m < 2) {
+            System.out.println("Please enter a number greater than or equal to 2.");
+            System.out.print("Enter initial integer positive number (>= 2): ");
+            m = input.nextInt();
         }
 
-        // Input validation for final integer using if-else
+        // Input validation for final integer using while and if-else
         System.out.print("Enter final integer positive number (>= 2): ");
         n = input.nextInt();
-        if (n < 2) {
-            System.out.println("Invalid input. Please enter a number greater than or equal to 2.");
-            return;
+        while (n < 2) {
+            System.out.println("Please enter a number greater than or equal to 2.");
+            System.out.print("Enter final integer positive number (>= 2): ");
+            n = input.nextInt();
         }
 
         // Finding prime numbers in the range
@@ -34,7 +35,7 @@ public class Math_03_03_PrimeNumber_Series_if_else_invalid_input_code_Process_fi
             }
             if (count == 0 && i > 1) {
                 System.out.println(i);
-                totalPrime++;
+                totalPrime = totalPrime + 1; //totalPrime++;
             }
             count = 0;
         }

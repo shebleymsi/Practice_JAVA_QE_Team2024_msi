@@ -4,7 +4,7 @@ package java_Beginner_to_Advanced_Anisul_Islam_2020.beignnerJava.beignnerjava;
 import java.util.Scanner;
 
 public class PrimeNumber3 {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int m, n, count = 0, totalPrime = 0;
 

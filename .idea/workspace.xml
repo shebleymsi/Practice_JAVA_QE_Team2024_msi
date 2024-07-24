@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_02_Fibonacci_Series_Number_Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_02_PrimeNumber_Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_Series_do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_Series_if_else_invalid_input_code_Process_finished.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_Series_if_else_untill_valid_input_code_Process_not_finished.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_05_PrimeNumber_series_before_input_final_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Beginner_to_Advanced_Anisul_Islam_2020/beignnerJava/beignnerjava/PrimeNumber1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Beginner_to_Advanced_Anisul_Islam_2020/beignnerJava/beignnerjava/PrimeNumber1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Beginner_to_Advanced_Anisul_Islam_2020/beignnerJava/beignnerjava/PrimeNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Beginner_to_Advanced_Anisul_Islam_2020/beignnerJava/beignnerjava/PrimeNumber2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_Beginner_to_Advanced_Anisul_Islam_2020/beignnerJava/beignnerjava/PrimeNumber3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Beginner_to_Advanced_Anisul_Islam_2020/beignnerJava/beignnerjava/PrimeNumber3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_01_02_Factorial_by_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_01_02_Factorial_by_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_02_Fibonacci_Series_Iteration_main_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_02_Fibonacci_Series_Iteration_calling_main_Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_02_nth_Fibonacci_Number_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_02_nth_Fibonacci_Number_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_PrimeNumber_NEXT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_01_PrimeNumber_NEXT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_Series_do_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_interval_Series_do_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_Series_if_else_invalid_input_code_Process_finished.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_interval_Series_if_else_invalid_input_code_Process_finished.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_Series_if_else_untill_valid_input_code_Process_not_finished.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +68,9 @@
       <recent name="java_Programming_MSI_Shebley_2021.javaapplication4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Math_03_03_PrimeNumber_Series_if_else_untill_valid_input_code_Process_not_finished">
-    <configuration name="Math_03_03_PrimeNumber_Series_if_else_invalid_input_code_Process_finished" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_Series_if_else_invalid_input_code_Process_finished" />
+  <component name="RunManager" selected="Application.Math_03_05_PrimeNumber_series_before_input_final_Number">
+    <configuration name="Math_03_02_PrimeNumber_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_02_PrimeNumber_Check" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -89,25 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math_03_03_PrimeNumber_Series_if_else_untill_valid_input_code_Process_not_finished" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_Series_if_else_untill_valid_input_code_Process_not_finished" />
+    <configuration name="Math_03_05_PrimeNumber_series_before_input_final_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_05_PrimeNumber_series_before_input_final_Number" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Beginner_to_Advanced_Anisul_Islam_2020.beignnerJava.beignnerjava.PrimeNumber1" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_Beginner_to_Advanced_Anisul_Islam_2020.beignnerJava.beignnerjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,8 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_02_PrimeNumber_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_02_PrimeNumber_Check" />
+    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series_if_else_invalid_input_code_Process_finished" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series_if_else_invalid_input_code_Process_finished" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Math_03_03_PrimeNumber_Series_if_else_untill_valid_input_code_Process_not_finished" />
-        <item itemvalue="Application.Math_03_03_PrimeNumber_Series_if_else_invalid_input_code_Process_finished" />
+        <item itemvalue="Application.Math_03_05_PrimeNumber_series_before_input_final_Number" />
+        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished" />
+        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series_if_else_invalid_input_code_Process_finished" />
         <item itemvalue="Application.PrimeNumber3" />
         <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_02_PrimeNumber_Check" />
-        <item itemvalue="Application.PrimeNumber1" />
       </list>
     </recent_temporary>
   </component>
