@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_interval_Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_interval_Series_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_04_Pattern_Number_series.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_01_PrimeNumber_NEXT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_01_PrimeNumber_NEXT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_interval_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_03_03_PrimeNumber_interval_Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_04_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_04_Pattern_Reverse_series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_05_MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_05_MakePyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,47 +68,8 @@
       <recent name="java_Programming_MSI_Shebley_2021.javaapplication4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series">
-    <configuration name="Math_03_03_PrimeNumber_interval_Series_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series_01" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Math_03_03_PrimeNumber_interval_Series_if_else_invalid_input_code_Process_finished" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series_if_else_invalid_input_code_Process_finished" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Math_04_01_Pattern_Number_series">
+    <configuration name="Math_03_03_PrimeNumber_interval_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
@@ -118,8 +82,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_05_PrimeNumber_series_before_input_final_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_05_PrimeNumber_series_before_input_final_Number" />
+    <configuration name="Math_04_01_Pattern_Number_series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_04_01_Pattern_Number_series" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_02_PrimeNumber_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_03_02_PrimeNumber_Check" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_04_02_Pattern_Reverse_series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_04_02_Pattern_Reverse_series" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_05_MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_05_MakePyramid" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Math_04_01_Pattern_Number_series" />
+        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_04_02_Pattern_Reverse_series" />
         <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series" />
-        <item itemvalue="Application.Math_03_03_PrimeNumber_interval_Series_01" />
-        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_05_PrimeNumber_series_before_input_final_Number" />
-        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_04_PrimeNumber_interval_Series_if_else_untill_valid_input_code_Process_not_finished" />
-        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_03_PrimeNumber_interval_Series_if_else_invalid_input_code_Process_finished" />
+        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_03_02_PrimeNumber_Check" />
+        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_05_MakePyramid" />
       </list>
     </recent_temporary>
   </component>

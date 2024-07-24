@@ -17,9 +17,12 @@ public class Math_03_03_PrimeNumber_interval_Series {
 
     }
 
+    // this code should be upgraded. but raw code love its,
+
     public static int getPrimeSeries(int m, int n) {
 
         int totalPrime = 0;
+
 
         if (n < 2) {
             System.out.println("invalid input");
