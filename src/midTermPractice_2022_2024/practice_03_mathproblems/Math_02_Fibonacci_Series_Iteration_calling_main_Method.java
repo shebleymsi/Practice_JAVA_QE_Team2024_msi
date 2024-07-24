@@ -1,6 +1,6 @@
 package midTermPractice_2022_2024.practice_03_mathproblems;
 
-public class Math_02_Fibonacci_Series_Iteration_main_Method {
+public class Math_02_Fibonacci_Series_Iteration_calling_main_Method {
     /*
     Write up to 40 Fibonacci numbers with java.
     0, 1, 1, 2, 3, 5, 8, 13, 21, 34

@@ -15,6 +15,7 @@ public class Math_01_02_Factorial_by_Recursion {
 
     public int getFactorial(int n) {
        int resultCalculation;
+
         if (n == 1) {
             return 1;
         } else {

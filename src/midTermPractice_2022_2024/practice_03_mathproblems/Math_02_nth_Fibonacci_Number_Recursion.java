@@ -4,7 +4,6 @@ public class Math_02_nth_Fibonacci_Number_Recursion {
     /*
     Write a JAVA program to find nth Fibonacci numbers with java.
     */
-
     public static void main(String[] args) {
         Math_02_nth_Fibonacci_Number_Recursion nthFibonacciNumber = new Math_02_nth_Fibonacci_Number_Recursion();
         int nthNumber = 10;
