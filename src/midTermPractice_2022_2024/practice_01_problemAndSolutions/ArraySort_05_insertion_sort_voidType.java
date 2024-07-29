@@ -2,7 +2,7 @@ package midTermPractice_2022_2024.practice_01_problemAndSolutions;
 
 import java.util.Arrays;
 
-public class ArraySort_05_insetion_sort {
+public class ArraySort_05_insertion_sort_voidType {
     // By using the Insertion_sort algorithm,
     // write a Java program to sort an integer array of 10 elements in ascending order.
     public static void main(String[] args) {
@@ -26,16 +26,17 @@ public class ArraySort_05_insetion_sort {
 
         //iteration:03
         //==>9,10,15,2,20
-
-        //iteration:04
-        //==>9,10,15,2,20
         //9,10,2,15,20
 
         //iteration:04
         //==>9,10,2,15,20
         //9,2,10,15,20
+
+        //iteration:05
+        //==>9,2,10,15,20
         //2,9,10,15,20
         //========================================
+
 
         //========================================
         //insertion
@@ -58,6 +59,8 @@ public class ArraySort_05_insetion_sort {
         //2,9,10,15,20
         //========================================
 
+        // insertion sort
+        //========================================
         int[] numbers = {20, 10, 9, 15, 2};
         // Loop through each element in the array
         for (int i = 1; i < numbers.length; i++) {

@@ -1,4 +1,4 @@
-package miscellaneous_msi_2024;
+package miscellaneous_msi_2024.msi;
 
 public class Msi_01_ReturnType {
 //    In this example:
