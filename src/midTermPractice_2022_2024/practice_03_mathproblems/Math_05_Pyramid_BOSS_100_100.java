@@ -1,6 +1,6 @@
 package midTermPractice_2022_2024.practice_03_mathproblems;
-import java.util.Scanner;
-public class Math_05_Pyramid_BOSS {
+
+public class Math_05_Pyramid_BOSS_100_100 {
     /*   Implement a large Pyramid of stars in the screen with java.
             *
            * *
@@ -17,13 +17,15 @@ public class Math_05_Pyramid_BOSS {
     }
         public static void printTriangle(int n) { //n = 4
             for (int i = 0; i < n; i++) {
+
                 for (int j = n - i; j > 1; j--) {
                     System.out.print("1");
                 }
+
                 for (int j = 0; j <= i; j++) {
                     System.out.print("*2");
                 }
-                System.out.println();
+                System.out.println("---\t"+i);
             }
         }
     }
