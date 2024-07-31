@@ -25,6 +25,7 @@ public class Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03 {
         for (Integer num : array2) {
             set.add(num);
         }
+        //System.out.println(set);
         // Convert the set-back to an array
         return set.toArray(new Integer[0]);
     }
