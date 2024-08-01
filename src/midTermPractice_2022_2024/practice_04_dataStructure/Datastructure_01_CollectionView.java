@@ -1,4 +1,4 @@
-package midTermPractice_2022_2024.practice_04_datastructure;
+package midTermPractice_2022_2024.practice_04_dataStructure;
 
 import java.util.Collection;
 import java.util.HashMap;

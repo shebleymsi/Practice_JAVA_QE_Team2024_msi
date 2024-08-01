@@ -1,9 +1,9 @@
-package midTermPractice_2022_2024.practice_04_datastructure;
+package midTermPractice_2022_2024.practice_04_dataStructure;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Datastructure_02_UseArrayList {
+public class DataStructure_02_UseArrayList {
 	/*
 	 * Demonstrate how to use ArrayList that includes add,peek,remove,retrieve elements.
 	 * Use For Each loop and while loop with Iterator to retrieve data.
@@ -42,7 +42,6 @@ public class Datastructure_02_UseArrayList {
 			System.out.println(iterator.next());
 		}
 	}
-
 
 }
 
