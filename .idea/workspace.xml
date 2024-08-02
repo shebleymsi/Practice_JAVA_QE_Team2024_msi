@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_03_UseMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_datastructure/Datastructure_01_CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/Datastructure_01_CollectionView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_datastructure/Datastructure_02_UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_02_UseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_datastructure/Datastructure_03_UseMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_datastructure/Datastructure_04_UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_04_UseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_05_algorithm/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_05_algorithm/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_05_algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_05_algorithm/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_05_algorithm/UnitTestSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_SDET_Interview_2024/qa_Stack_Junaid_Aziz/Problem_09_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programizExamplesPractice_2024/examples_03_DecisionMakingAndLoop/Problem_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programizExamplesPractice_2024/examples_03_DecisionMakingAndLoop/Problem_002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +65,7 @@
       <recent name="java_Programming_MSI_Shebley_2021.randomtest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.midTermPractice_2022_2024.practice_04_dataStructure.Datastructure_01_CollectionView">
-    <configuration name="Datastructure_01_CollectionView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_04_dataStructure.Datastructure_01_CollectionView" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_04_dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem_002">
     <configuration name="Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -111,6 +92,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_001_LeapYear_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice_2024.examples_03_DecisionMakingAndLoop.Problem_001_LeapYear_Scanner" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programizExamplesPractice_2024.examples_03_DecisionMakingAndLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice_2024.examples_03_DecisionMakingAndLoop.Problem_002" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programizExamplesPractice_2024.examples_03_DecisionMakingAndLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_Advanced_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_Advanced_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -124,22 +131,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midTermPractice_2022_2024.practice_04_dataStructure.DataStructure_02_UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_04_dataStructure.DataStructure_02_UseArrayList" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_04_dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.midTermPractice_2022_2024.practice_04_dataStructure.Datastructure_01_CollectionView" />
+        <item itemvalue="Application.Problem_002" />
+        <item itemvalue="Application.Problem_001_LeapYear_Scanner" />
         <item itemvalue="Application.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_05_copilot" />
         <item itemvalue="Application.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03" />
         <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_Advanced_01" />
