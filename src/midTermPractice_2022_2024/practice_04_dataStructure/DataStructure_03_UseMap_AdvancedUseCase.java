@@ -2,7 +2,7 @@ package midTermPractice_2022_2024.practice_04_dataStructure;
 
 import java.util.*;
 
-public class DataStructure_03_UseMap {
+public class DataStructure_03_UseMap_AdvancedUseCase {
 
 	/* msi
 	 * Demonstrate how to use Map that includes add,peek,remove,pool elements.
@@ -42,12 +42,15 @@ public class DataStructure_03_UseMap {
 		map.put("Fruits", list1);
 		map.put("Animals", list2);
 
+		System.out.println("++++++++++++++++"+map);
+
 		// Peek at the value associated with a key (does not remove it)
 		System.out.println("Peek at 'Fruits': " + map.get("Fruits"));
 
 		// Remove an entry from the map
 		List<String> removedList = map.remove("Animals");
 		System.out.println("Removed 'Animals': " + removedList);
+		//System.out.println("------------------"+map);
 
 		// Add another entry to the map
 		List<String> list3 = new ArrayList<>();
@@ -63,7 +66,8 @@ public class DataStructure_03_UseMap {
 			System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
 		}
 
-		// Using while loop with Iterator to retrieve data
+
+		// Using while loop with Iterator to retrieve data // [MSI : NEXT]
 		System.out.println("Entries in map using while loop with Iterator:");
 		Iterator<Map.Entry<String, List<String>>> iterator = map.entrySet().iterator();
 		while (iterator.hasNext()) {

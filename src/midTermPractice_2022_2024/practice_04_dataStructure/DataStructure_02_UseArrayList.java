@@ -6,7 +6,7 @@ import java.util.Iterator;
 public class DataStructure_02_UseArrayList {
 	/*
 	 * Demonstrate how to use ArrayList that includes add,peek,remove,retrieve elements.
-	 * Use For Each loop and while loop with Iterator to retrieve data.
+	 * Use For Each loop and while_loop_with_Iterator to retrieve data.
 	 *
 	 *
 	 * Store all the sorted data into one of the databases. [ NEXT: chatGPT ]
@@ -35,7 +35,7 @@ public class DataStructure_02_UseArrayList {
 			System.out.println(fruit);
 		}
 
-		// Retrieving elements using while loop with Iterator
+		// Retrieving elements using while loop with Iterator(পুনরাবৃত্তিকারী) [MSI : NEXT]
 		System.out.println("Elements in the list (using Iterator):");
 		Iterator<String> iterator = list.iterator();
 		while (iterator.hasNext()) {

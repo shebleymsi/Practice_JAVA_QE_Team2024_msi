@@ -3,7 +3,7 @@ package midTermPractice_2022_2024.practice_03_mathproblems;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02 {
+public class Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02_100_100 {
 
     public static void main(String[] args) {
         // Example arrays

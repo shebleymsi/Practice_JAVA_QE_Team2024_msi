@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellaneous_msi_2024/set/SetInitializationExample_Arrays_asList_with_new_HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miscellaneous_msi_2024/set/SetInitializationExample_set_of.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_07_FindMissingNumber_00_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_07_FindMissingNumber_00_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_07_FindMissingNumber_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_07_FindMissingNumber_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01_100_100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_03_mathproblems/Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02_100_100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_02_UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_02_UseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_03_UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_03_UseMap_AdvancedUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_04_UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/DataStructure_04_UseQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/Datastructure_01_CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTermPractice_2022_2024/practice_04_dataStructure/Datastructure_01_CollectionView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +69,35 @@
       <recent name="java_Programming_Interview_Questions_for_QA_SDET" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03">
-    <configuration name="Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00" />
+  <component name="RunManager" selected="Application.DataStructure_04_UseQueue">
+    <configuration name="DataStructure_03_UseMap_AdvancedUseCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_04_dataStructure.DataStructure_03_UseMap_AdvancedUseCase" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_04_dataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataStructure_04_UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_04_dataStructure.DataStructure_04_UseQueue" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_04_dataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02_100_100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02_100_100" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03" />
+    <configuration name="midTermPractice_2022_2024.practice_04_dataStructure.DataStructure_02_UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_04_dataStructure.DataStructure_02_UseArrayList" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_04_dataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,38 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetInitializationExample_set_of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="miscellaneous_msi_2024.set.SetInitializationExample_set_of" />
+    <configuration name="midTermPractice_2022_2024.practice_04_dataStructure.Datastructure_01_CollectionView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_04_dataStructure.Datastructure_01_CollectionView" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="miscellaneous_msi_2024.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00_01" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="midTermPractice_2022_2024.practice_03_mathproblems.*" />
+          <option name="PATTERN" value="midTermPractice_2022_2024.practice_04_dataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_03" />
-        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00_01" />
-        <item itemvalue="Application.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_00" />
-        <item itemvalue="Application.SetInitializationExample_set_of" />
-        <item itemvalue="Application.midTermPractice_2022_2024.practice_03_mathproblems.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01" />
+        <item itemvalue="Application.DataStructure_04_UseQueue" />
+        <item itemvalue="Application.DataStructure_03_UseMap_AdvancedUseCase" />
+        <item itemvalue="Application.midTermPractice_2022_2024.practice_04_dataStructure.DataStructure_02_UseArrayList" />
+        <item itemvalue="Application.midTermPractice_2022_2024.practice_04_dataStructure.Datastructure_01_CollectionView" />
+        <item itemvalue="Application.Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_02_100_100" />
       </list>
     </recent_temporary>
   </component>

@@ -20,6 +20,8 @@ public class DataStructure_04_UseQueue {
 		queue.add(20);
 		queue.add(30);
 		queue.add(40);
+		queue.add(50);
+		queue.add(60);
 
 		// Peek at the front element of the queue (does not remove it)
 		System.out.println("Peek: " + queue.peek());
@@ -27,9 +29,11 @@ public class DataStructure_04_UseQueue {
 		// Remove elements from the queue
 		System.out.println("Removed: " + queue.remove()); // removes 10
 		System.out.println("Removed: " + queue.remove()); // removes 20
+		System.out.println("Removed: " + queue.remove()); // removes 30
 
 		// Poll elements from the queue (removes and returns the front element, or null if empty)
 		System.out.println("Polled: " + queue.poll()); // removes 30
+		System.out.println("uuuuuuuuuuuuuu"+queue);
 
 		// Add more elements to the queue
 		queue.add(50);
@@ -41,7 +45,7 @@ public class DataStructure_04_UseQueue {
 			System.out.println(element);
 		}
 
-		// Using while loop with Iterator to retrieve data
+		// Using while loop with Iterator to retrieve data [MSI : NEXT]
 		System.out.println("Elements in queue using while loop with Iterator:");
 		Iterator<Integer> iterator = queue.iterator();
 		while (iterator.hasNext()) {

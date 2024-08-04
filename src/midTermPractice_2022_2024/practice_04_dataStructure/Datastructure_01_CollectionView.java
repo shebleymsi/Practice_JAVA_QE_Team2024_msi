@@ -23,7 +23,7 @@ public class Datastructure_01_CollectionView {
                 // Retrieving the collection view of values present in the map
                 Collection<Integer> values = map.values();
 
-                // Printing the values
+                // Printing the values from Key:value pairs
                 System.out.println("Values in the map: " + values);
         }
 }

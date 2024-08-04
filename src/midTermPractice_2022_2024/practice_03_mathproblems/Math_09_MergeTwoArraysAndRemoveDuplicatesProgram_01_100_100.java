@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01 {
+public class Math_09_MergeTwoArraysAndRemoveDuplicatesProgram_01_100_100 {
     // Merge Two Arrays Into Single Sorted Array Without Duplicates
     // given  arrayA={1,3,4}
     // given  arrayB={4,5,6,7,8}
