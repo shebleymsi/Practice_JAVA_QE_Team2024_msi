@@ -3,6 +3,7 @@ package programizExamplesPractice_2024.examples_03_DecisionMakingAndLoop;
 
 import java.util.Scanner;
 
+//Example: Check if a Number is Positive or Negative using if else
 public class Problem_002 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
