@@ -14,6 +14,7 @@ public class Math_03_02_PrimeNumber_Check {
             System.out.println("Not Prime");
             return;
         }
+
         for (int i = 2; i < Math.sqrt(num); i++) {
             if (num % i == 0) {
                 count = count + 1; //count++;
