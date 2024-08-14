@@ -2,7 +2,7 @@ package top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common;
 
 import java.util.Scanner;
 
-public class SDET_03_Prime_number {
+public class SDET_02_Prime_number_msi {
     // Java program to find/check Prime number
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

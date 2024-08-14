@@ -1,8 +1,6 @@
 package top_QA_Stack_Junaid_Aziz;
 
-import java.util.Arrays;
-
-public class Problem_07_see {
+public class Problem_07_String_see {
     //Question 7: Write a program to swap the two strings using StringBuilder class.
     //The Input is: Hello world
     //Output should be: World Hello
@@ -12,15 +10,15 @@ public class Problem_07_see {
 
         // Split the input string into two parts based on the space
         String[] parts = input.split(" ");
-        System.out.println(Arrays.toString(parts));
+        //System.out.println(Arrays.toString(parts)); //[Hello, world]
 
         // Use StringBuilder to swap the two strings
         StringBuilder sb = new StringBuilder();
-        sb.append(parts[1]) // Append the second word (world)
-                .append(" ")     // Append the space
-                .append(parts[0]); // Append the first word (Hello)
+        sb.append(parts[1]).append(" ").append(parts[0]); // Append the second word (world). Append the space. Append the first word (Hello)
+        //sb.append(parts[0]).append(" ").append(parts[1]);
 
         // Output the result
         System.out.println(sb.toString());
     }
+
 }
