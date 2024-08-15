@@ -20,10 +20,10 @@ public class SDET_02_Prime_number {
 
     public static boolean isPrime(int number) {
         for (int i = 2; i <= number / 2; i++) {
-            if (number % 2 == 0)
+            if (number % 2 == 0) {
                 return false;
+            }
         }
         return false;
     }
 }
-
