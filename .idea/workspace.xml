@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_03_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_04_Swap_without_3rd_variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_02_Prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_02_Prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <recent name="miscellaneous_msi_2024.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SDET_03_Fibonacci">
+  <component name="RunManager" selected="Application.SDET_04_Swap_without_3rd_variable">
     <configuration name="Problem_07_Number_msi_see" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top_QA_Stack_Junaid_Aziz.Problem_07_Number_msi_see" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -92,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_QA_Stack_Junaid_Aziz.Problem_06_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_QA_Stack_Junaid_Aziz.Problem_06_" />
+    <configuration name="SDET_04_Swap_without_3rd_variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_04_Swap_without_3rd_variable" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_QA_Stack_Junaid_Aziz.Problem_07_Number_msi_see" />
+          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SDET_04_Swap_without_3rd_variable" />
         <item itemvalue="Application.SDET_03_Fibonacci" />
         <item itemvalue="Application.Problem_07_Number_msi_see" />
         <item itemvalue="Application.top_QA_Stack_Junaid_Aziz.Problem_07_String_see" />
         <item itemvalue="Application.top_QA_Stack_Junaid_Aziz.Problem_06_msi" />
-        <item itemvalue="Application.top_QA_Stack_Junaid_Aziz.Problem_06_" />
       </list>
     </recent_temporary>
   </component>
