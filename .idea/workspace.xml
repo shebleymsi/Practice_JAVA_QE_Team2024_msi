@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_04_Swap_without_3rd_variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_01_Encapusaltion/W3Scool/Old_01_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_01_Encapusaltion/W3Scool/Old_02_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_02_Inheritance/W3School/Old_01_Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_02_Inheritance/W3School/Old_02_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverLoading/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/OLd_04_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_01_Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_02_Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_03_Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_01_Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_02_Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_03_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_05_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_06_Reverse_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_07_Armstrong_Number_NEXT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_01_DigitCounter_positive_number_msi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_02_DigitCounter_positive_number_msi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_DigitCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,20 +75,20 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common" />
       <recent name="top_QA_Stack_Junaid_Aziz" />
       <recent name="QA_SDET_Interview_2024.qa_Stack_Junaid_Aziz" />
       <recent name="QA_SDET_Interview_2024.sort_All.sort_02_i" />
       <recent name="midTermPractice_2022_2024.practice_03_mathproblems" />
-      <recent name="miscellaneous_msi_2024.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SDET_04_Swap_without_3rd_variable">
-    <configuration name="Problem_07_Number_msi_see" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_QA_Stack_Junaid_Aziz.Problem_07_Number_msi_see" />
+  <component name="RunManager" selected="Application.Old_03_Main">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_03_polymorphism.MethodOverLoading.Calculator" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_QA_Stack_Junaid_Aziz.*" />
+          <option name="PATTERN" value="OOPConcepts.oop_03_polymorphism.MethodOverLoading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,51 +96,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SDET_03_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_03_Fibonacci" />
+    <configuration name="Old_02_Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_02_Inheritance.W3School.Old_02_Car" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPConcepts.oop_02_Inheritance.W3School.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Old_02_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_01_Encapusaltion.W3Scool.Old_02_Main" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPConcepts.oop_01_Encapusaltion.W3Scool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Old_03_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_04_abstraction.old_01_interface.Old_03_Main" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPConcepts.oop_04_abstraction.old_01_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SDET_08_02_DigitCounter_positive_number_msi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_08_02_DigitCounter_positive_number_msi" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SDET_04_Swap_without_3rd_variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_04_Swap_without_3rd_variable" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="top_QA_Stack_Junaid_Aziz.Problem_06_msi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_QA_Stack_Junaid_Aziz.Problem_06_msi" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_QA_Stack_Junaid_Aziz.Problem_07_Number_msi_see" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="top_QA_Stack_Junaid_Aziz.Problem_07_String_see" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_QA_Stack_Junaid_Aziz.Problem_07_String_see" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_QA_Stack_Junaid_Aziz.Problem_07_Number_msi_see" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SDET_04_Swap_without_3rd_variable" />
-        <item itemvalue="Application.SDET_03_Fibonacci" />
-        <item itemvalue="Application.Problem_07_Number_msi_see" />
-        <item itemvalue="Application.top_QA_Stack_Junaid_Aziz.Problem_07_String_see" />
-        <item itemvalue="Application.top_QA_Stack_Junaid_Aziz.Problem_06_msi" />
+        <item itemvalue="Application.Old_03_Main" />
+        <item itemvalue="Application.OOPConcepts.oop_03_polymorphism.MethodOverLoading.Calculator" />
+        <item itemvalue="Application.OOPConcepts.oop_02_Inheritance.W3School.Old_02_Car" />
+        <item itemvalue="Application.OOPConcepts.oop_01_Encapusaltion.W3Scool.Old_02_Main" />
+        <item itemvalue="Application.SDET_08_02_DigitCounter_positive_number_msi" />
       </list>
     </recent_temporary>
   </component>
