@@ -2,25 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_01_Encapusaltion/W3Scool/Old_01_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_01_Encapusaltion/W3Scool/Old_02_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_02_Inheritance/W3School/Old_01_Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_02_Inheritance/W3School/Old_02_Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverLoading/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/OLd_04_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_01_Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_02_Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_03_Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_01_Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_02_Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_03_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_05_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_06_Reverse_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_07_Armstrong_Number_NEXT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_01_DigitCounter_positive_number_msi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_02_DigitCounter_positive_number_msi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_DigitCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_04_abstraction/old_02_Abctract/Old_01_Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_04_abstraction/old_02_Abctract/Old_02_Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_04_abstraction/old_02_Abctract/Old_03_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_05_miscellaneous/ConstructorChaining/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_05_miscellaneous/ConstructorChaining/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_05_miscellaneous/keyWord_01_final/W3School/Old_01_Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_05_miscellaneous/keyWord_01_final/W3School/Old_02_Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_01_Encapusaltion/W3Scool/Old_01_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_01_Encapusaltion/W3Scool/Old_01_Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_01_Encapusaltion/W3Scool/Old_02_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_01_Encapusaltion/W3Scool/Old_02_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_02_Inheritance/W3School/Old_01_Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_02_Inheritance/W3School/Old_01_Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_02_Inheritance/W3School/Old_02_Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_02_Inheritance/W3School/Old_02_Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverLoading/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_03_polymorphism/MethodOverLoading/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/OLd_04_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_03_polymorphism/MethodOverRiding_W3School/OLd_04_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_01_Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_03_polymorphism/MethodOverRiding_W3School/Old_01_Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_02_Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_03_polymorphism/MethodOverRiding_W3School/Old_02_Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_03_polymorphism/MethodOverRiding_W3School/Old_03_Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_03_polymorphism/MethodOverRiding_W3School/Old_03_Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_01_Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_04_abstraction/old_01_interface/Old_01_Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_02_Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_04_abstraction/old_01_interface/Old_02_Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPConcepts/oop_04_abstraction/old_01_interface/Old_03_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Concepts_Group_Study/oop_04_abstraction/old_01_interface/Old_03_Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +58,18 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_Lecture_LearnJava_QE_Winter2022_/src/problemsAndSolutions/FindOutGreatestNumber.java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/OOPConcepts/oop_05_miscellaneous/key_01_final&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\OOPConcepts\oop_05_miscellaneous\key_01_final" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\QA_SDET_Interview_2024\sort_All\sort_03_c" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\QA_SDET_Interview_2024\sort_All\sort_01_i" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\QA_SDET_Interview_2024\sort_All" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\midTermPractice_2022_2024\practice_05_algorithm" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\miscellaneous_msi_2024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments\Miscellaneous_msi" />
@@ -82,13 +83,13 @@
       <recent name="midTermPractice_2022_2024.practice_03_mathproblems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Old_03_Main">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_03_polymorphism.MethodOverLoading.Calculator" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Concepts_Group_Study.oop_05_miscellaneous.ConstructorChaining.Main" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.oop_03_polymorphism.MethodOverLoading.*" />
+          <option name="PATTERN" value="OOP_Concepts_Group_Study.oop_05_miscellaneous.ConstructorChaining.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Old_02_Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_02_Inheritance.W3School.Old_02_Car" />
+    <configuration name="OOP_Concepts_Group_Study.oop_02_Inheritance.W3School.Old_02_Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Concepts_Group_Study.oop_02_Inheritance.W3School.Old_02_Car" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.oop_02_Inheritance.W3School.*" />
+          <option name="PATTERN" value="OOP_Concepts_Group_Study.oop_02_Inheritance.W3School.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Old_02_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_01_Encapusaltion.W3Scool.Old_02_Main" />
+    <configuration name="OOP_Concepts_Group_Study.oop_05_miscellaneous.keyWord_01_final.W3School.Old_02_Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Concepts_Group_Study.oop_05_miscellaneous.keyWord_01_final.W3School.Old_02_Car" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.oop_01_Encapusaltion.W3Scool.*" />
+          <option name="PATTERN" value="OOP_Concepts_Group_Study.oop_05_miscellaneous.keyWord_01_final.W3School.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="Old_03_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPConcepts.oop_04_abstraction.old_01_interface.Old_03_Main" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Concepts_Group_Study.oop_04_abstraction.old_01_interface.Old_03_Main" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPConcepts.oop_04_abstraction.old_01_interface.*" />
+          <option name="PATTERN" value="OOP_Concepts_Group_Study.oop_04_abstraction.old_01_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,10 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Old_03_Main" />
-        <item itemvalue="Application.OOPConcepts.oop_03_polymorphism.MethodOverLoading.Calculator" />
-        <item itemvalue="Application.OOPConcepts.oop_02_Inheritance.W3School.Old_02_Car" />
-        <item itemvalue="Application.OOPConcepts.oop_01_Encapusaltion.W3Scool.Old_02_Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.OOP_Concepts_Group_Study.oop_05_miscellaneous.keyWord_01_final.W3School.Old_02_Car" />
         <item itemvalue="Application.SDET_08_02_DigitCounter_positive_number_msi" />
       </list>
     </recent_temporary>

@@ -1,4 +1,4 @@
-package OOPConcepts.oop_04_abstraction.old_01_interface;
+package OOP_Concepts_Group_Study.oop_04_abstraction.old_01_interface;
 
 public interface Old_01_Animal {
 

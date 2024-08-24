@@ -1,4 +1,4 @@
-package OOPConcepts.oop_04_abstraction.old_01_interface;
+package OOP_Concepts_Group_Study.oop_04_abstraction.old_01_interface;
 
 public class Old_03_Main {
     public static void main(String[] args) {

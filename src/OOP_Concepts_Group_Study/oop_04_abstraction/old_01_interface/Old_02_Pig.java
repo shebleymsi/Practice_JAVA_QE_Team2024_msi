@@ -1,4 +1,4 @@
-package OOPConcepts.oop_04_abstraction.old_01_interface;
+package OOP_Concepts_Group_Study.oop_04_abstraction.old_01_interface;
 
 public class Old_02_Pig implements Old_01_Animal {
     public void animalSound() {
