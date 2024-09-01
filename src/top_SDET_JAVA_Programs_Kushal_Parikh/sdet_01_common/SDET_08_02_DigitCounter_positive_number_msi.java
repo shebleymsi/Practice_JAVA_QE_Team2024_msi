@@ -1,4 +1,4 @@
-package top_SDET_JAVA_Programs_Kushal_Parikh_running.sdet_01_common;
+package top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common;
 
 public class SDET_08_02_DigitCounter_positive_number_msi {
     // Find the number of digits in the given number

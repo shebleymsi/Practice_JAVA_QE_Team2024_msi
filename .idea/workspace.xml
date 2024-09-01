@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_z_miscellaneous_msi_2024/pg_674_toString_method/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_z_miscellaneous_msi_2024/pg_674_toString_method/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_09_Palindrome_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_10_Sum_of_a_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_02_strings/SDET_01_Reverse_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_03_arrays/SDET_01_Common_Elements_of_Two_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_01_Odd_Even_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_01_Odd_Even_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_02_Prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_02_Prime_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_02_Prime_number_msi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_02_Prime_number_msi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_03_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_03_Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_04_Swap_without_3rd_variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_04_Swap_without_3rd_variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_05_Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_05_Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_06_Reverse_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_06_Reverse_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_07_Armstrong_Number_NEXT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_07_Armstrong_Number_NEXT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_08_01_DigitCounter_positive_number_msi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_01_DigitCounter_positive_number_msi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_08_02_DigitCounter_positive_number_msi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_02_DigitCounter_positive_number_msi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh_running/sdet_01_common/SDET_08_DigitCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Kushal_Parikh/sdet_01_common/SDET_08_DigitCounter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +79,13 @@
       <recent name="midTermPractice_2022_2024.practice_03_mathproblems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.top_z_miscellaneous_msi_2024.pg_674_toString_method.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_z_miscellaneous_msi_2024.pg_674_toString_method.Main" />
+  <component name="RunManager" selected="Application.SDET_01_Common_Elements_of_Two_Array">
+    <configuration name="SDET_01_Common_Elements_of_Two_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_03_arrays.SDET_01_Common_Elements_of_Two_Array" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_z_miscellaneous_msi_2024.pg_674_toString_method.*" />
+          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_03_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Old_03_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_OOP_Concepts_Group_Study.oop_04_abstraction.old_01_interface.Old_03_Main" />
+    <configuration name="SDET_01_Reverse_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_02_strings.SDET_01_Reverse_a_String" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_OOP_Concepts_Group_Study.oop_04_abstraction.old_01_interface.*" />
+          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_02_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SDET_08_02_DigitCounter_positive_number_msi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh_running.sdet_01_common.SDET_08_02_DigitCounter_positive_number_msi" />
+    <configuration name="SDET_09_Palindrome_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_09_Palindrome_Number" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh_running.sdet_01_common.*" />
+          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_OOP_Concepts_Group_Study.oop_02_Inheritance.W3School.Old_02_Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_OOP_Concepts_Group_Study.oop_02_Inheritance.W3School.Old_02_Car" />
+    <configuration name="SDET_10_Sum_of_a_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_10_Sum_of_a_Number" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_OOP_Concepts_Group_Study.oop_02_Inheritance.W3School.*" />
+          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,7 +147,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.top_z_miscellaneous_msi_2024.pg_674_toString_method.Main" />
+        <item itemvalue="Application.SDET_01_Common_Elements_of_Two_Array" />
+        <item itemvalue="Application.SDET_01_Reverse_a_String" />
+        <item itemvalue="Application.top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_10_Sum_of_a_Number" />
+        <item itemvalue="Application.top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common.SDET_09_Palindrome_Number" />
         <item itemvalue="Application.top_z_miscellaneous_msi_2024.pg_674_toString_method.Employee" />
       </list>
     </recent_temporary>

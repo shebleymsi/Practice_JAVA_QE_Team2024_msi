@@ -1,4 +1,4 @@
-package top_SDET_JAVA_Programs_Kushal_Parikh_running.sdet_01_common;
+package top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common;
 
 import java.util.Scanner;
 
