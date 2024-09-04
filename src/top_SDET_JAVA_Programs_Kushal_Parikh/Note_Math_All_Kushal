@@ -1,0 +1,49 @@
+TOP SDET JAVA Programs
+Common Math:
+ 1.Java program to Find Odd or Even number
+ 2.Java program to find Prime number
+ 3.Java program to find Fibonacci series upto a  given
+ 4.Java program to swap two numbers without  using third variable
+ 5.Java program to Find Factorial on given Number
+ 6.Java program to Reverse Number
+ 7.Java program to find Armstrong Number
+ 8.Java program to find number of digits in given  number
+ 9.Java program to find Palindrome number
+ 10.Java program to calculate the sum of digits of  a number
+
+Strings:
+ 1.Java program to reverse a string
+ 2.Java program to reverse each word of a given  string
+ 3.Java program to find duplicate characters in a  string
+ 4.Java program to count Occurrences of Each  Character in String
+ 5.Java program to count the number of words in  a string
+ 6.Java program to find all permutations of a  given string
+ 7.Java program to find if a string is Palindrome
+ 8.Java program to determine if Two Strings are  Anagrams
+ 9.Java program to Count Vowels and Consonants  in a given string
+ 10.Java program to print unqiue characters
+ 11.Java program to print even indexed  characters
+ 12.Java program to remove space from a  given string
+ 13.Java program to print each letter twice from a given string
+ 14.Java program to swap two string without  using 3rd variable
+ 15.Java program to gives Output: a2b2c3d2  for the Input String Str = “aabbcccdd”
+ 16.Java program to gives two Output:  “abcde”, “ABCDE” for the Input String Str = “aBACbcEDed”
+ 17.Java program to gives two Output:  “Subburaj”, “123” for the Input  String Str = “Subbu123raj”
+ 18.Java program to gives Output:  “32412120000” for the Input  String Str = “32400121200”
+ 19.Java program to gives Output:  “00003241212” for the Input String Str = “32400121200”
+ 20.Java program to find the longest without  repeating characters
+
+Arrays:
+ 1.Find common elements between  two arrays
+ 2.Find first and last element of  Arraylist
+ 3.Sort an array without using in-built  method
+ 4.Remove duplicates from an Array
+ 5.Remove duplicates from an  ArrayList
+ 6.Find the missing number in an Array
+ 7.Find the largest and smallest  element in an Array
+ 8.Search element in an Array
+ 9.Array consists of integers and special  characters,sum only integers
+ 10.Find Minimum and Maximum from an Array
+ 11.Java program to count Odd and  Even number from given array
+ 12.Java program – input array was  given [ 1,1,2,2,3,4,5,5,6,6],  Output – [3,4]
+ 13.Java program to implement hashcode  and equals
