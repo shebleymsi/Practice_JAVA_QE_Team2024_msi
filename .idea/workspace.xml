@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_02_Check_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_03_Fibonacci_Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_04_Factorial_of_a_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_05_Prime_Number_Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_06_SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_07_Vowel_Consonant_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_08_MergeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_09_Largest_Element_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_10_RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_11_ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_12_ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_13_GCD_Two_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_14_Anagram_Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_15_CountNumberDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_16_PrimeNumbersRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_17_SecondLargestElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_18_SwapNumbersWithout3rdVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_19_PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_20_MissingNumberArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_21_DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_22_PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_23_SimpleCalculator_SHEBLEY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_24_SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_25_StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_26_CheckEmptyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_27_CountCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_28_FirstNonRepeatedCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_29_RemoveWhitespaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_30_CommonElementsTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_31_FactorialUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_32_GenerateRandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_33_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_34_SumOfNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_35_SimpleLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_QA_Stack_Junaid_Aziz/Note_Math_All_Junaid" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_QA_Stack_Junaid_Aziz/Note_Math_All_Junaid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_RUNNING/Note_Math_All_TCS" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/Note_Math_All_TCS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_RUNNING/TCS_01_Reverse_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE/TCS_01_Reverse_String.java" afterDir="false" />
-    </list>
+    <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,11 +55,11 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top_SDET_JAVA_Program_Interview_msi_2025_RUNNING.sort_All.sort_04_s" />
+      <recent name="top_SDET_JAVA_Program_Interview_msi_2025_RUNNING.sort_All.sort_01_b" />
       <recent name="top_SDET_JAVA_Programs_Tushar_Desai_TCS_RUNNING" />
       <recent name="top_SDET_JAVA_Program_Interview_msi_2025_RUNNING.search_All.search_01_linear" />
       <recent name="top_QA_SDET_Interview_msi_2025_running.sort_All.sort_04_s" />
-      <recent name="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_01_common" />
-      <recent name="top_QA_Stack_Junaid_Aziz" />
     </key>
   </component>
   <component name="RunManager" selected="Application.TCS_38_BubbleSort">
@@ -154,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_02_strings.SDET_19_Rearrange_String_Moving_Zeros_to_the_front" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_02_strings.SDET_19_Rearrange_String_Moving_Zeros_to_the_front" />
+    <configuration name="top_SDET_JAVA_Programs_Kushal_Parikh_CODE_FULL.sdet_02_strings.SDET_19_Rearrange_String_Moving_Zeros_to_the_front" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Kushal_Parikh_CODE_FULL.sdet_02_strings.SDET_19_Rearrange_String_Moving_Zeros_to_the_front" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh.sdet_02_strings.*" />
+          <option name="PATTERN" value="top_SDET_JAVA_Programs_Kushal_Parikh_CODE_FULL.sdet_02_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,7 +134,7 @@
         <item itemvalue="Application.TCS_33_LeapYear" />
         <item itemvalue="Application.TCS_31_FactorialUsingRecursion" />
         <item itemvalue="Application.top_SDET_JAVA_Programs_Tushar_Desai_TCS_SMART_CODE.TCS_11_ArmstrongNumber" />
-        <item itemvalue="Application.top_SDET_JAVA_Programs_Kushal_Parikh.sdet_02_strings.SDET_19_Rearrange_String_Moving_Zeros_to_the_front" />
+        <item itemvalue="Application.top_SDET_JAVA_Programs_Kushal_Parikh_CODE_FULL.sdet_02_strings.SDET_19_Rearrange_String_Moving_Zeros_to_the_front" />
       </list>
     </recent_temporary>
   </component>
