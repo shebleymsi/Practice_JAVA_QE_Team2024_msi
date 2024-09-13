@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING/ch_05_Array/Pg_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING/ch_05_Array/Pg_50_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING/ch_05_Array/Pg_51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING/ch_05_Array/Pg_51_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING/ch_05_Array/Pg_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING/ch_05_Array/Pg_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING/ch_05_Array/Pg_50_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +61,16 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_02_General_Programming_problem" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_06_Object_and_Class.pg_261" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_06_Object_and_Class.pg_260" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_05_Array" />
-      <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_03_DataType_Operator_Expression" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pg_50">
-    <configuration name="Pg_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.Pg_50" />
+  <component name="RunManager" selected="Application.Pg_51_01">
+    <configuration name="Pg_50_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.Pg_50_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCS_31_FactorialUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Tushar_Desai_TCS.TCS_31_FactorialUsingRecursion" />
+    <configuration name="Pg_50_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.Pg_50_02" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_SDET_JAVA_Programs_Tushar_Desai_TCS.*" />
+          <option name="PATTERN" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCS_33_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Tushar_Desai_TCS.TCS_33_LeapYear" />
+    <configuration name="Pg_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.Pg_51" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_SDET_JAVA_Programs_Tushar_Desai_TCS.*" />
+          <option name="PATTERN" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCS_38_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_SDET_JAVA_Programs_Tushar_Desai_TCS.TCS_38_BubbleSort" />
+    <configuration name="Pg_51_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.Pg_51_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_SDET_JAVA_Programs_Tushar_Desai_TCS.*" />
+          <option name="PATTERN" value="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,7 +136,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pg_50" />
+        <item itemvalue="Application.Pg_51_01" />
+        <item itemvalue="Application.Pg_51" />
+        <item itemvalue="Application.Pg_50_02" />
+        <item itemvalue="Application.Pg_50_01" />
         <item itemvalue="Application.top_SDET_JAVA_Programs_Kushal_Parikh.sdet_02_strings.SDET_19_Rearrange_String_Moving_Zeros_to_the_front" />
       </list>
     </recent_temporary>
