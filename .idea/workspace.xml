@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_mix/String_immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/areaOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/helloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_mix/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_mix/String_concat_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,52 +67,26 @@
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_05_Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Main" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.MyBreak" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programizExamplesPractice_2024_RUNNING.examples_03_DecisionMakingAndLoop_Running.Problem_004" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programizExamplesPractice_2024_RUNNING.examples_03_DecisionMakingAndLoop_Running.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.top_w3schools.java_01_Tutorial.areaOfRectangle">
     <configuration name="String_concat_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top_mix.String_concat_method" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top_mix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.helloWorld" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +107,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="top_w3schools.java_01_Tutorial.MyBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.MyBreak" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="top_w3schools.java_01_Tutorial.areaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.areaOfRectangle" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.areaOfRectangle" />
+        <item itemvalue="Application.helloWorld" />
         <item itemvalue="Application.top_mix.String_immutable" />
         <item itemvalue="Application.String_concat_method" />
-        <item itemvalue="Application.MyBreak" />
-        <item itemvalue="Application.Problem_004" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.MyBreak" />
       </list>
     </recent_temporary>
   </component>
