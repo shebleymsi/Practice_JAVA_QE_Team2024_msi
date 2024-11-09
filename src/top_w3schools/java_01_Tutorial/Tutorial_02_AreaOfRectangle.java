@@ -1,6 +1,6 @@
 package top_w3schools.java_01_Tutorial;
 
-public class areaOfRectangle {
+public class Tutorial_02_AreaOfRectangle {
     public static void main(String[] args) {
         int length = 10;
         int width = 10;

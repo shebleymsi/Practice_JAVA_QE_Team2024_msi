@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/areaOfRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/helloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_03_NarrowingCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_04_PlusOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_05_Increment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/areaOfRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_02_AreaOfRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_01_HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_05_Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.top_w3schools.java_01_Tutorial.areaOfRectangle">
+  <component name="RunManager" selected="Application.Tutorial_05_Increment">
     <configuration name="String_concat_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top_mix.String_concat_method" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -81,8 +83,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.helloWorld" />
+    <configuration name="Tutorial_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_01_HelloWorld" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tutorial_05_Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_05_Increment" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -107,21 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.MyBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.MyBreak" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.areaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.areaOfRectangle" />
+    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_02_AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_02_AreaOfRectangle" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.areaOfRectangle" />
-        <item itemvalue="Application.helloWorld" />
+        <item itemvalue="Application.Tutorial_05_Increment" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_02_AreaOfRectangle" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_01_HelloWorld" />
         <item itemvalue="Application.top_mix.String_immutable" />
         <item itemvalue="Application.String_concat_method" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.MyBreak" />
       </list>
     </recent_temporary>
   </component>

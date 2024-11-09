@@ -1,6 +1,6 @@
 package top_w3schools.java_01_Tutorial;
 
-public class helloWorld {
+public class Tutorial_01_HelloWorld {
     public static void main (String [] arg){
         System.out.print("Hello worldHello world");
     }
