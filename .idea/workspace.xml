@@ -2,10 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_06_String_Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_07_Vote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_08_Vote_nice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_09_even_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_10_WeekDay_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_10_WeekDay_Switch_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_11_Do_While_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_11_While_loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/ArrayToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/ArrayToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/CommonOrDuplicateElementsTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/CommonOrDuplicateElementsTwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/DeleteDuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/DeleteDuplicateElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/DeleteElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/DeleteElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/DuplicateElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/DuplicateElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/FindElementArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/FindElementArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/HashmapMultipleValueInAKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/HashmapMultipleValueInAKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/HashmapShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/HashmapShort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/Large_SmallNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/Large_SmallNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/Max_MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/Max_MinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/MergeTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/MergeTwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/SearchByIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/SearchByIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/SearchItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/SearchItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/ShortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/ShortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/ShortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/ShortString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/Total_Odd_EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/Total_Odd_EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/TwoDArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/Array/UseScannerFind2NArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/UseScannerFind2NArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/practise/code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/practise/code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/practise/exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/practise/exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/AllCharacterCountInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/AllCharacterCountInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/CharacterCountInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/CharacterCountInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/ConcatOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/ConcatOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/ConvertStringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/CountElementInStringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/CountElementInStringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/CubeOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/CubeOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/DuplicateCharacterCountInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/DuplicateCharacterCountInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/GetFirstCharacterFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/GetFirstCharacterFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/MostRepeatedCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/MostRepeatedCharacterInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/MostRepeatedItemInTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/MostRepeatedItemInTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/Penultimate_Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/Penultimate_Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/RemoveCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/RemoveCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/RemoveDuplicateCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/RemoveDuplicateCharacterInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/RemoveElementFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/RemoveElementFromArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/RemoveFewCharacterFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/RemoveFewCharacterFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/WriteCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/WriteCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QA_InterviewCode_Mokol_2021_2024/string/namta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/string/namta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_01_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_01_HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_04_PlusOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_04_PlusOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_05_Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_05_Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_08_Vote_nice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_08_Vote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +85,18 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/ArraySum.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/ArrayToArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/CommonOrDuplicateElementsTwoArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/DeleteDuplicateElement.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/DeleteElementInArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/FindElementArrayList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/HashmapShort.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/Large_SmallNumber.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/MergeTwoArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckAnagram.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,16 +129,16 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top_w3schools.java_01_Tutorial" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_02_General_Programming_problem" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_06_Object_and_Class.pg_261" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_06_Object_and_Class.pg_260" />
-      <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_05_Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tutorial_08_Vote_nice">
-    <configuration name="Tutorial_05_Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_05_Increment" />
+  <component name="RunManager" selected="Application.Tutorial_11_Do_While_loop">
+    <configuration name="Tutorial_10_WeekDay_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_10_WeekDay_Switch" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial_08_Vote_nice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_08_Vote_nice" />
+    <configuration name="Tutorial_10_WeekDay_Switch_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_10_WeekDay_Switch_Scanner" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_02_AreaOfRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_02_AreaOfRectangle" />
+    <configuration name="Tutorial_11_Do_While_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_11_Do_While_loop" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_06_String_Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_06_String_Concat" />
+    <configuration name="Tutorial_11_While_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_11_While_loop" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +189,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_07_Vote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_07_Vote" />
+    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_04_PlusOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_04_PlusOperators" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tutorial_08_Vote_nice" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_07_Vote" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_06_String_Concat" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_05_Increment" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_02_AreaOfRectangle" />
+        <item itemvalue="Application.Tutorial_11_Do_While_loop" />
+        <item itemvalue="Application.Tutorial_11_While_loop" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_10_WeekDay_Switch" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_10_WeekDay_Switch_Scanner" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_04_PlusOperators" />
       </list>
     </recent_temporary>
   </component>

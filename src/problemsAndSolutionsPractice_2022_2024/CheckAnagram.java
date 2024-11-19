@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class CheckAnagram {
 
     public static void main(String[] args) {
-        String str1 = "ListenO";
+        String str1 = "Listen";
         String str2 = "Silent";
 
         if (areAnagrams(str1, str2)) {
@@ -36,6 +36,5 @@ public class CheckAnagram {
         // Compare the sorted char arrays
         return Arrays.equals(charArray1, charArray2);
     }
-
 
 }
