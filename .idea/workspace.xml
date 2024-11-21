@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_06_String_finding_a_character_use_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_06_String_length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_06_String_toUpperCase_toLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_Array_length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_20_Array_print_by_for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_20_Array_print_by_foreach_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_21_Array_calculates_average_different_ages.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +79,34 @@
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_06_Object_and_Class.pg_260" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tutorial_20_Array_length">
-    <configuration name="Tutorial_06_String_length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Tutorial_21_Array_calculates_average_different_ages">
+    <configuration name="Tutorial_20_Array_print_by_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_20_Array_print_by_for_loop" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tutorial_21_Array_calculates_average_different_ages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_21_Array_calculates_average_different_ages" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_06_String_length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_06_String_length" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
@@ -94,7 +119,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial_06_String_toUpperCase_toLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_06_String_toUpperCase_toLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_06_String_toUpperCase_toLowerCase" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
@@ -107,34 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial_20_Array_length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_20_Array_length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_20_Array_length" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_19_Break_in_while_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_19_Break_in_while_loop" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top_w3schools.java_01_Tutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_19_Continue_in_while_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_19_Continue_in_while_loop" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tutorial_20_Array_length" />
+        <item itemvalue="Application.Tutorial_21_Array_calculates_average_different_ages" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_20_Array_print_by_for_loop" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_20_Array_length" />
         <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_06_String_toUpperCase_toLowerCase" />
         <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_06_String_length" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_19_Continue_in_while_loop" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_19_Break_in_while_loop" />
       </list>
     </recent_temporary>
   </component>
