@@ -1,6 +1,6 @@
 package top_w3schools.java_01_Tutorial;
 
-public class Tutorial_11_While_loop {
+public class Tutorial_11_1_While_loop {
     // print 0 to 5 use while loop
     // 0 1 2 3 4 5
     public static void main(String[] args) {

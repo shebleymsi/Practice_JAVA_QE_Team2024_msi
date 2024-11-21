@@ -1,6 +1,6 @@
 package top_w3schools.java_01_Tutorial;
 
-public class Tutorial_11_Do_While_loop {
+public class Tutorial_12_Do_While_loop {
     public static void main(String[] args) {
 
         int i = 0;

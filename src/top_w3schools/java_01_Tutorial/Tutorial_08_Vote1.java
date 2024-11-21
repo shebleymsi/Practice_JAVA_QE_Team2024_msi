@@ -1,6 +1,6 @@
 package top_w3schools.java_01_Tutorial;
 
-public class Tutorial_08_Vote {
+public class Tutorial_08_Vote1 {
     public static void main(String[] args) {
         int myAge = 25;
         int votingAge = 18;
