@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_09_Short_Hand_if_else_ternary_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_11_CountDown_Happy_New_Year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_11_Sequential_Dice_Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_13_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_13_forLoop_EvenValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_13_forLoop_oddValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_14_Nested_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_14_Nested_loop_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_15_For_each_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_16_counts_to_100_by_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_17_prints_multiplication_table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_18_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_18_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_19_Break_in_while_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_19_Continue_in_while_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_06_String_finding_a_character_use_indexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_06_String_length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_06_String_toUpperCase_toLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_Array_length.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_11_Do_While_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_12_Do_While_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_11_While_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_11_1_While_loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +80,9 @@
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_06_Object_and_Class.pg_260" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.top_w3schools.java_01_Tutorial.Tutorial_19_Continue_in_while_loop">
-    <configuration name="Tutorial_17_prints_multiplication_table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_17_prints_multiplication_table" />
+  <component name="RunManager" selected="Application.Tutorial_20_Array_length">
+    <configuration name="Tutorial_06_String_length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_06_String_length" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_18_Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_18_Break" />
+    <configuration name="Tutorial_06_String_toUpperCase_toLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_06_String_toUpperCase_toLowerCase" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_w3schools.java_01_Tutorial.Tutorial_18_Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_18_Continue" />
+    <configuration name="Tutorial_20_Array_length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_01_Tutorial.Tutorial_20_Array_length" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -161,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tutorial_20_Array_length" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_06_String_toUpperCase_toLowerCase" />
+        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_06_String_length" />
         <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_19_Continue_in_while_loop" />
         <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_19_Break_in_while_loop" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_18_Continue" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_18_Break" />
-        <item itemvalue="Application.top_w3schools.java_01_Tutorial.Tutorial_17_prints_multiplication_table" />
       </list>
     </recent_temporary>
   </component>
