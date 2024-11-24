@@ -5,8 +5,12 @@ public class Tutorial_23_2D_Array {
 
         int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
         System.out.println(myNumbers[1][2]); //7
+
         myNumbers[1][2] = 9;
         System.out.println(myNumbers[1][2]); // Outputs 9 instead of 7
+
+        myNumbers[1][2] = 19;
+        System.out.println(myNumbers[1][2]); // Outputs 19 instead of 9
 
     }
 }
