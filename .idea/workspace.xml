@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_23_2D_Array_for_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_23_2D_Array_foreach_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_And_Parameters/Methods_01_MethodsCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_And_Parameters/Methods_02_SingleParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_And_Parameters/Methods_03_MultiParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_And_Parameters/Methods_04_Method_with_if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_And_Parameters/Methods_05_SingleParameter_return_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_And_Parameters/Methods_06_MultiParameter_Sum_return_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_And_Parameters/Methods_06_MultiParameter_Sum_return_Method_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_Overloading/Defination of Method Overloading" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/method_Overloading/methodOverloadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_703_recursion_Wrong_Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_704_recursion_Right_Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_706_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_707_FactorialGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_708_FactorialGenerator_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/recursion/Recursion_01_SumAllNumbersUp_to_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/recursion/Recursion_02_SumAllNumbersBetween_5_to_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/scope/Scope_01_MethodScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/scope/Scope_02_BlockScope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_23_2D_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top_w3schools/java_01_Tutorial/Tutorial_23_2D_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,20 +78,20 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion" />
       <recent name="top_w3schools.java_02_Methods" />
       <recent name="top_w3schools.java_01_Tutorial" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array" />
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_02_General_Programming_problem" />
-      <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_06_Object_and_Class.pg_261" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.methodOverloadingExample">
-    <configuration name="Methods_03_MultiParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.method_And_Parameters.Methods_03_MultiParameters" />
+  <component name="RunManager" selected="Application.Recursion_02_SumAllNumbersBetween_5_to_10">
+    <configuration name="Pg_706_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_706_Fibonacci" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_w3schools.java_02_Methods.method_And_Parameters.*" />
+          <option name="PATTERN" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods_04_Method_with_if_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.method_And_Parameters.Methods_04_Method_with_if_else" />
+    <configuration name="Pg_707_FactorialGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_707_FactorialGenerator" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_w3schools.java_02_Methods.method_And_Parameters.*" />
+          <option name="PATTERN" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods_05_SingleParameter_return_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.method_And_Parameters.Methods_05_SingleParameter_return_Method" />
+    <configuration name="Pg_708_FactorialGenerator_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_708_FactorialGenerator_loop" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_w3schools.java_02_Methods.method_And_Parameters.*" />
+          <option name="PATTERN" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodOverloadingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.method_Overloading.methodOverloadingExample" />
+    <configuration name="Recursion_02_SumAllNumbersBetween_5_to_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.recursion.Recursion_02_SumAllNumbersBetween_5_to_10" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_w3schools.java_02_Methods.method_Overloading.*" />
+          <option name="PATTERN" value="top_w3schools.java_02_Methods.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top_w3schools.java_02_Methods.method_And_Parameters.Methods_06_MultiParameter_Sum_return_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.method_And_Parameters.Methods_06_MultiParameter_Sum_return_Method" />
+    <configuration name="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_704_recursion_Right_Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_704_recursion_Right_Greetings" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_w3schools.java_02_Methods.method_And_Parameters.*" />
+          <option name="PATTERN" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.methodOverloadingExample" />
-        <item itemvalue="Application.top_w3schools.java_02_Methods.method_And_Parameters.Methods_06_MultiParameter_Sum_return_Method" />
-        <item itemvalue="Application.top_w3schools.java_02_Methods.method_And_Parameters.Methods_05_SingleParameter_return_Method" />
-        <item itemvalue="Application.top_w3schools.java_02_Methods.method_And_Parameters.Methods_04_Method_with_if_else" />
-        <item itemvalue="Application.top_w3schools.java_02_Methods.method_And_Parameters.Methods_03_MultiParameters" />
+        <item itemvalue="Application.Recursion_02_SumAllNumbersBetween_5_to_10" />
+        <item itemvalue="Application.Pg_708_FactorialGenerator_loop" />
+        <item itemvalue="Application.java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_707_FactorialGenerator" />
+        <item itemvalue="Application.java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_706_Fibonacci" />
+        <item itemvalue="Application.java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_704_recursion_Right_Greetings" />
       </list>
     </recent_temporary>
   </component>
