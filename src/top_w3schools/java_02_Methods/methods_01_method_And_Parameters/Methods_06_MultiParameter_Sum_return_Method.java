@@ -1,4 +1,4 @@
-package top_w3schools.java_02_Methods.method_And_Parameters;
+package top_w3schools.java_02_Methods.methods_01_method_And_Parameters;
 
 public class Methods_06_MultiParameter_Sum_return_Method {
     static int myMethod(int x, int y){

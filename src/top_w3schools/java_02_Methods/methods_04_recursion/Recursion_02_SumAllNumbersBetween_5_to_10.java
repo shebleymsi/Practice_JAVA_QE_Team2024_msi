@@ -1,4 +1,4 @@
-package top_w3schools.java_02_Methods.recursion;
+package top_w3schools.java_02_Methods.methods_04_recursion;
 
 public class Recursion_02_SumAllNumbersBetween_5_to_10 {
 

@@ -1,4 +1,4 @@
-package top_w3schools.java_02_Methods.scope;
+package top_w3schools.java_02_Methods.methods_03_scope;
 
 public class Scope_02_BlockScope {
     public static void main(String[] args) {
