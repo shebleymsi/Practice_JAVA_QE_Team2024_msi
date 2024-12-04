@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_703_recursion_Wrong_Greetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_704_recursion_Right_Greetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_706_Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_707_FactorialGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_Programming_ANM_Bazlur_Rahman_2024__RUNNING/porisisto_8_Recursion/Pg_708_FactorialGenerator_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/recursion/Recursion_01_SumAllNumbersUp_to_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/recursion/Recursion_02_SumAllNumbersBetween_5_to_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/scope/Scope_01_MethodScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top_w3schools/java_02_Methods/scope/Scope_02_BlockScope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,21 +44,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2gnIs4rm3SPaOcjjy8kXmMOfFs3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Demo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "shebleymsi",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/SHEBLEY/D/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025" />
@@ -85,13 +86,13 @@
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025.ch_02_General_Programming_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Recursion_02_SumAllNumbersBetween_5_to_10">
-    <configuration name="Pg_706_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_706_Fibonacci" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_03_Classes.Demo" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.*" />
+          <option name="PATTERN" value="top_w3schools.java_03_Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="Recursion_02_SumAllNumbersBetween_5_to_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.recursion.Recursion_02_SumAllNumbersBetween_5_to_10" />
+      <option name="MAIN_CLASS_NAME" value="top_w3schools.java_02_Methods.methods_04_recursion.Recursion_02_SumAllNumbersBetween_5_to_10" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top_w3schools.java_02_Methods.recursion.*" />
+          <option name="PATTERN" value="top_w3schools.java_02_Methods.methods_04_recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,10 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recursion_02_SumAllNumbersBetween_5_to_10" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Pg_708_FactorialGenerator_loop" />
-        <item itemvalue="Application.java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_707_FactorialGenerator" />
-        <item itemvalue="Application.java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_706_Fibonacci" />
         <item itemvalue="Application.java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_704_recursion_Right_Greetings" />
       </list>
     </recent_temporary>
