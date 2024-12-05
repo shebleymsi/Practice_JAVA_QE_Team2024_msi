@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_1_Add_Two_Numbers_User_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_10_Loop_Through_HashMap_keySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_10_Loop_Through_HashMap_values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_5_Convert_string_to_a_char_array_for_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_5_Convert_string_to_a_char_array_foreach_loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_1_Add_Two_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_2_Count_Number_of_Words_in_a_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_3_Reverse_a_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_4_Calculate_Sum_of_an_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_5_Convert_string_to_a_char_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_6_Sort_an_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_7_Average_of_Array_Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_8_Find_Smallest_Element_in_an_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3schools/java_How_To/How_To_9_Loop_Through_an_ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +52,7 @@
     <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/Large_SmallNumber.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/QA_Interview_Code_Mokol_2021_2024/Array/MergeTwoArray.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckAnagram.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/w3schools/java_How_To/How_To_3_Reverse_a_String.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,9 +69,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Demo.executor": "Run",
+    "Application.How_To_10_Loop_Through_HashMap.executor": "Run",
+    "Application.How_To_10_Loop_Through_a_HashMap.executor": "Run",
     "Application.How_To_1_Add_Two_Numbers.executor": "Run",
     "Application.How_To_1_Add_Two_Numbers_User_Input.executor": "Run",
     "Application.How_To_2_Count_Number_of_Words_in_a_String.executor": "Run",
+    "Application.How_To_3_Reverse_a_String.executor": "Run",
+    "Application.How_To_4_Calculate_Sum_of_an_Array.executor": "Run",
+    "Application.How_To_5_Convert_string_to_a_char_array.executor": "Run",
+    "Application.How_To_5_Convert_string_to_a_char_array_for_loop.executor": "Run",
+    "Application.How_To_5_Convert_string_to_a_char_array_foreach_loop.executor": "Run",
+    "Application.How_To_5_Convert_string_to_a_char_array_loop_through.executor": "Run",
+    "Application.How_To_6_Sort_an_Array.executor": "Run",
+    "Application.How_To_7_Average_of_Array_Elements.executor": "Run",
+    "Application.How_To_8_Find_Smallest_Element_in_an_Array.executor": "Run",
+    "Application.How_To_9_Loop_Through_an_ArrayList.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -92,22 +114,9 @@
       <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.How_To_2_Count_Number_of_Words_in_a_String">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3schools.java_03_Classes.Demo" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="w3schools.java_03_Classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="How_To_1_Add_Two_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_1_Add_Two_Numbers" />
+  <component name="RunManager" selected="Application.How_To_10_Loop_Through_HashMap_with_KeySet_values">
+    <configuration name="How_To_10_Loop_Through_HashMap_keySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_10_Loop_Through_HashMap_keySet" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="How_To_1_Add_Two_Numbers_User_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_1_Add_Two_Numbers_User_Input" />
+    <configuration name="How_To_10_Loop_Through_HashMap_with_KeySet_values" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_10_Loop_Through_HashMap_with_KeySet_values" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="How_To_2_Count_Number_of_Words_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_2_Count_Number_of_Words_in_a_String" />
+    <configuration name="How_To_10_print_a_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_10_print_a_HashMap" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pg_708_FactorialGenerator_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.Pg_708_FactorialGenerator_loop" />
+    <configuration name="How_To_8_Find_Smallest_Element_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_8_Find_Smallest_Element_in_an_Array" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion.*" />
+          <option name="PATTERN" value="w3schools.java_How_To.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="How_To_9_Loop_Through_an_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_9_Loop_Through_an_ArrayList" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3schools.java_How_To.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.How_To_2_Count_Number_of_Words_in_a_String" />
-        <item itemvalue="Application.How_To_1_Add_Two_Numbers_User_Input" />
-        <item itemvalue="Application.How_To_1_Add_Two_Numbers" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Pg_708_FactorialGenerator_loop" />
+        <item itemvalue="Application.How_To_10_Loop_Through_HashMap_with_KeySet_values" />
+        <item itemvalue="Application.How_To_10_Loop_Through_HashMap_keySet" />
+        <item itemvalue="Application.How_To_10_print_a_HashMap" />
+        <item itemvalue="Application.How_To_9_Loop_Through_an_ArrayList" />
+        <item itemvalue="Application.How_To_8_Find_Smallest_Element_in_an_Array" />
       </list>
     </recent_temporary>
   </component>
