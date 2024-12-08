@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class CheckAnagram {
 
     public static void main(String[] args) {
+
         String str1 = "Listen";
         String str2 = "Silent";
 
@@ -38,3 +39,15 @@ public class CheckAnagram {
     }
 
 }
+
+//An anagram is a rearrangement of the letters in a word to form a new word.
+
+//Whitespace and Case Handling: You remove all whitespace and convert both strings to lowercase to ensure the comparison is case-insensitive and not affected by spaces.
+
+//Length Check: If the lengths of the strings are different, they cannot be anagrams.
+
+//Character Array Conversion: You convert the strings to character arrays.
+
+//Sorting: The character arrays are sorted, which allows for a straightforward comparison.
+
+//Comparison: Finally, you compare the sorted arrays. If they are equal, the strings are anagrams.
