@@ -1,10 +1,8 @@
-package problemsAndSolutionsPractice_2022_2024;
+package z_practiceNotebook;
 
 import java.util.Scanner;
 
 public class CheckEligibleForVote {
-
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -23,6 +21,7 @@ public class CheckEligibleForVote {
             System.out.println("You are not Eligible to vote");
         }
     }
-}
 
+
+}
 //How can I check if a person is eligible to vote based on their age and gender in Java?

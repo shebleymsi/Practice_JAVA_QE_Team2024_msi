@@ -40,6 +40,8 @@ public class CheckAnagram {
 
 }
 
+//How can I check if two strings are anagrams in Java?
+
 //An anagram is a rearrangement of the letters in a word to form a new word.
 
 //Whitespace and Case Handling: You remove all whitespace and convert both strings to lowercase to ensure the comparison is case-insensitive and not affected by spaces.
@@ -51,3 +53,10 @@ public class CheckAnagram {
 //Sorting: The character arrays are sorted, which allows for a straightforward comparison.
 
 //Comparison: Finally, you compare the sorted arrays. If they are equal, the strings are anagrams.
+
+
+
+// why "areAnagrams(str1, str2)" in the main method and "areAnagrams(String str1, String str2)" in the helper method are not the same?
+// they are not the same is due to their different contexts and roles in the code:
+//areAnagrams(str1, str2) is a method call.
+//areAnagrams(String str1, String str2) is a method definition.

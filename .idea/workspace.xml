@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/z_practiceNotebook/CheckAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_practiceNotebook/All_Questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_practiceNotebook/CheckEligibleForVote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_practiceNotebook/CheckEvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_practiceNotebook/SumOfNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Important_Note_SHEBLEY" beforeDir="false" afterPath="$PROJECT_DIR$/src/Important_Note_SHEBLEY" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckEligibleForVote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckEligibleForVote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckEvenOrOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/CheckEvenOrOddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/z_practiceNotebook/CheckAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_practiceNotebook/CheckAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +65,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CheckAnagram.executor": "Run",
+    "Application.CheckEligibleForVote.executor": "Run",
+    "Application.CheckEvenOrOdd.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.How_To_10_Loop_Through_HashMap.executor": "Run",
     "Application.How_To_10_Loop_Through_HashMap_with_KeySet_values.executor": "Run",
@@ -83,6 +90,7 @@
     "Application.How_To_7_Average_of_Array_Elements.executor": "Run",
     "Application.How_To_8_Find_Smallest_Element_in_an_Array.executor": "Run",
     "Application.How_To_9_Loop_Through_an_ArrayList.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -106,14 +114,14 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="z_practiceNotebook" />
       <recent name="w3schools.java_How_To" />
       <recent name="java_Programming_ANM_Bazlur_Rahman_2024__RUNNING.porisisto_8_Recursion" />
       <recent name="top_w3schools.java_02_Methods" />
       <recent name="top_w3schools.java_01_Tutorial" />
-      <recent name="java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025_RUNNING.ch_05_Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckAnagram">
+  <component name="RunManager" selected="Application.SumOfNumbers">
     <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemsAndSolutionsPractice_2022_2024.CheckAnagram" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
@@ -127,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="How_To_13_Check_Whether_a_Number_is_Even_or_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_13_Check_Whether_a_Number_is_Even_or_Odd" />
+    <configuration name="CheckEligibleForVote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z_practiceNotebook.CheckEligibleForVote" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3schools.java_How_To.*" />
+          <option name="PATTERN" value="z_practiceNotebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,25 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="How_To_14_Number_Positive_or_Negative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_14_Number_Positive_or_Negative" />
+    <configuration name="CheckEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z_practiceNotebook.CheckEvenOrOdd" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3schools.java_How_To.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="How_To_15_Square_Root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3schools.java_How_To.How_To_15_Square_Root" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="w3schools.java_How_To.*" />
+          <option name="PATTERN" value="z_practiceNotebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,13 +174,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="z_practiceNotebook.SumOfNumbers" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="z_practiceNotebook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfNumbers" />
+        <item itemvalue="Application.CheckEvenOrOdd" />
+        <item itemvalue="Application.CheckEligibleForVote" />
         <item itemvalue="Application.CheckAnagram" />
         <item itemvalue="Application.How_To_16_Generate_a_Random_Number" />
-        <item itemvalue="Application.How_To_15_Square_Root" />
-        <item itemvalue="Application.How_To_13_Check_Whether_a_Number_is_Even_or_Odd" />
-        <item itemvalue="Application.How_To_14_Number_Positive_or_Negative" />
       </list>
     </recent_temporary>
   </component>

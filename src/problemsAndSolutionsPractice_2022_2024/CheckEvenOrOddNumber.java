@@ -16,3 +16,4 @@ public class CheckEvenOrOddNumber {
     }
 
 }
+//How can I check if a given number is even or odd in Java?
