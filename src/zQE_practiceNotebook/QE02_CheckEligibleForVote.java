@@ -1,8 +1,8 @@
-package z_practiceNotebook;
+package zQE_practiceNotebook;
 
 import java.util.Scanner;
 
-public class CheckEligibleForVote {
+public class QE02_CheckEligibleForVote {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

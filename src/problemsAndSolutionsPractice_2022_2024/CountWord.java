@@ -23,6 +23,10 @@ public class CountWord {
         System.out.println("1.====================================================================");
         System.out.println("Total number of elements in the array: " + words.length);
 
+
+
+
+
         // Count non-empty words by trimming each word and checking its length
         System.out.println("2.====================================================================");
         int count = 0;
@@ -33,6 +37,11 @@ public class CountWord {
         }
         // Print the count of non-empty words
         System.out.println("Number of words in String (using for loop with index): " + count);
+
+
+
+
+
 
         // Count non-empty words by trimming each word and checking its length (using enhanced for loop)
         System.out.println("3.====================================================================");

@@ -1,16 +1,16 @@
-package z_practiceNotebook;
+package zQE_practiceNotebook;
 
 import java.util.Arrays;
 
-public class CheckAnagram {
+public class QE01_CheckAnagram {
 
     public static void main(String[] args) {
         String str1 = "Silent";
         String str2 = "Listen";
 
-        if(checkAnagram( str1,  str2)){
+        if (checkAnagram(str1, str2)) {
             System.out.println("anagram");
-        }else{
+        } else {
             System.out.println("not anagram");
         }
 
@@ -21,7 +21,7 @@ public class CheckAnagram {
         str1 = str1.toLowerCase().replaceAll("\\s+", "");
         str2 = str2.toLowerCase().replaceAll("\\s+", "");
 
-        if(str1.length() != str2.length()){
+        if (str1.length() != str2.length()) {
             return false;
         }
 
@@ -52,8 +52,10 @@ public class CheckAnagram {
 //Comparison: Finally, you compare the sorted arrays. If they are equal, the strings are anagrams.
 
 
-
 // why "areAnagrams(str1, str2)" in the main method and "areAnagrams(String str1, String str2)" in the helper method are not the same?
 // they are not the same is due to their different contexts and roles in the code:
 //areAnagrams(str1, str2) is a method call.
 //areAnagrams(String str1, String str2) is a method definition.
+
+//How can I check if two strings are Palindrome in Java?
+//Ans: same operation as like anagram[only for two string]
