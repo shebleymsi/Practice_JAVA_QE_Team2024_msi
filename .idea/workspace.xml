@@ -5,41 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE14_FindOutGreatestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE15_FindOutWeekDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE16_FindOutWeekDayNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE17_LearnCubeOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE20_FindOutSumOfAllTheElementsFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/lowestNumberFromArray_msi/A1_FindLowestNumberFromAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/lowestNumberFromArray_msi/A2_FindLowestNumberFromAnArray_voidType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/lowestNumberFromArray_msi/A3_FindLowestNumberFromAnArray_returnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/lowestNumberFromArray_msi/B1_FindLowestNumberFromAnArray_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/lowestNumberFromArray_msi/B2_FindLowestNumberFromAnArray_voidType_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/lowestNumberFromArray_msi/B3_FindLowestNumberFromAnArray_ReturnType_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE18_ReverseString_BeginningToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE19_ReverseString_EndToBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE20_FindOutFrequencyOfWordFromAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE25_MergeTwoArrayAndRemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE26_FrequencyOfNumberFromAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE27_FrequencyOfWordsFromList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Important_Note_SHEBLEY" beforeDir="false" afterPath="$PROJECT_DIR$/src/Important_Note_SHEBLEY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/FindOutGreatestNumber_00_Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemsAndSolutionsPractice_2022_2024/FindOutGreatestNumber_00_Comparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/All_Questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/All_Questions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/CountWord/CountWord0_QE11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord0_QE11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/CountWord/CountWord1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/CountWord/CountWord2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/CountWord/CountWord3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/DesignPattern/DesignPatternUsingForLoop_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignPatternUsingForLoop_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/DesignPattern/DesignReverseTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignReverseTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/DesignPattern/DesignRightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignRightTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/DesignPattern/DesignTriangle_QE12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignTriangle_QE12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE01_CheckAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE01_CheckAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE02_CheckEligibleForVote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE02_CheckEligibleForVote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE03_CheckEvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE03_CheckEvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE04_SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE04_SumOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE05_SumOfEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE05_SumOfEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE06_SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE06_SumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE07_CheckPalindromeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE07_CheckPalindromeWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE08_CheckPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE08_CheckPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE09_ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE09_ConvertStringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE10_ConvertIntegerToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE10_ConvertIntegerToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE11_CountWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE11_CountWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE12_DesignTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE12_DesignTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/QE13_DetermineIncreaseDecreaseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE13_DetermineIncreaseDecreaseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/SumOfNumbers/CheckSumOfEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/CheckSumOfEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/SumOfNumbers/CheckSumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/CheckSumOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/SumOfNumbers/CheckSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/CheckSumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/SumOfNumbers/SumOfEvenNumbers_QE05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/SumOfEvenNumbers_QE05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zQE_practiceNotebook/SumOfNumbers/SumOfOddNumbers_QE06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/SumOfOddNumbers_QE06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/All_Questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/All_Questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord0_QE11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/CountWord/CountWord0_QE11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/CountWord/CountWord1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/CountWord/CountWord2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/CountWord/CountWord3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/CountWord/CountWord3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignPatternUsingForLoop_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/DesignPattern/DesignPatternUsingForLoop_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignReverseTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/DesignPattern/DesignReverseTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignRightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/DesignPattern/DesignRightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/DesignPattern/DesignTriangle_QE12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/DesignPattern/DesignTriangle_QE12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE01_CheckAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE01_CheckAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE02_CheckEligibleForVote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE02_CheckEligibleForVote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE03_CheckEvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE03_CheckEvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE04_SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE04_SumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE05_SumOfEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE05_SumOfEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE06_SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE06_SumOfOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE07_CheckPalindromeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE07_CheckPalindromeWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE08_CheckPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE08_CheckPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE09_ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE09_ConvertStringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE10_ConvertIntegerToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE10_ConvertIntegerToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE11_CountWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE11_CountWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE12_DesignTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE12_DesignTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE13_DetermineIncreaseDecreaseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE13_DetermineIncreaseDecreaseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE14_FindOutGreatestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE14_FindOutGreatestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE15_FindOutWeekDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE15_FindOutWeekDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE16_FindOutWeekDayNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE16_FindOutWeekDayNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE17_LearnCubeOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE17_LearnCubeOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/QE20_FindOutSumOfAllTheElementsFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE24_FindOutSumOfAllTheElementsFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/CheckSumOfEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/SumOfNumbers/CheckSumOfEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/CheckSumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/SumOfNumbers/CheckSumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/CheckSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/SumOfNumbers/CheckSumOfOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/SumOfEvenNumbers_QE05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/SumOfNumbers/SumOfEvenNumbers_QE05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook/SumOfNumbers/SumOfOddNumbers_QE06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/SumOfNumbers/SumOfOddNumbers_QE06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +115,7 @@
     "Application.DesignPatternUsingForLoop_01.executor": "Run",
     "Application.DesignReverseTriangle.executor": "Run",
     "Application.DetermineIncreaseDecreaseOrder.executor": "Run",
+    "Application.FindLowestNumberFromAnArray.executor": "Run",
     "Application.FindOutGreatestNumber_02_Array_Sorting.executor": "Run",
     "Application.How_To_10_Loop_Through_HashMap.executor": "Run",
     "Application.How_To_10_Loop_Through_HashMap_with_KeySet_values.executor": "Run",
@@ -139,6 +151,7 @@
     "Application.QE14_FindOutGreatestNumber.executor": "Run",
     "Application.QE15_FindOutSumOfAllTheElementsFromArray.executor": "Run",
     "Application.QE17_LearnCubeOfNumber.executor": "Run",
+    "Application.QE20_FindOutSumOfAllTheElementsFromArray.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -159,24 +172,38 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\QA_SDET_Interview_2024\sort_All\sort_01_i" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SHEBLEY\D\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\XQE_JavaMathNotebook\xqe_problemsAndSolutions_msi" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments\Miscellaneous_msi" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi" />
+      <recent name="XQE_JavaMathNotebook_2025.arrayProblem_msi" />
       <recent name="XQE_JavaMathNotebook" />
       <recent name="zQE_practiceNotebook" />
       <recent name="zQE_practiceNotebook.SumOfNumbers" />
-      <recent name="zQE_practiceNotebook.DesignPattern" />
-      <recent name="zQE_practiceNotebook.CountWord" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QE17_LearnCubeOfNumber">
-    <configuration name="FindOutGreatestNumber_02_Array_Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsAndSolutionsPractice_2022_2024.FindOutGreatestNumber_02_Array_Sorting" />
+  <component name="RunManager" selected="Application.B1_FindLowestNumberFromAnArray_forLoop">
+    <configuration name="A1_FindLowestNumberFromAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.A1_FindLowestNumberFromAnArray" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemsAndSolutionsPractice_2022_2024.*" />
+          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B1_FindLowestNumberFromAnArray_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.B1_FindLowestNumberFromAnArray_forLoop" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,25 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QE14_FindOutGreatestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook.QE14_FindOutGreatestNumber" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="XQE_JavaMathNotebook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QE17_LearnCubeOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook.QE17_LearnCubeOfNumber" />
+      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.QE17_LearnCubeOfNumber" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="XQE_JavaMathNotebook.*" />
+          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QE20_FindOutSumOfAllTheElementsFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook.QE20_FindOutSumOfAllTheElementsFromArray" />
+    <configuration name="QE24_FindOutSumOfAllTheElementsFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.QE24_FindOutSumOfAllTheElementsFromArray" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="XQE_JavaMathNotebook.*" />
+          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B1_FindLowestNumberFromAnArray_forLoop" />
+        <item itemvalue="Application.A1_FindLowestNumberFromAnArray_mainMethod" />
+        <item itemvalue="Application.QE24_FindOutSumOfAllTheElementsFromArray" />
         <item itemvalue="Application.QE17_LearnCubeOfNumber" />
         <item itemvalue="Application.LearnCubeOfNumber" />
-        <item itemvalue="Application.QE20_FindOutSumOfAllTheElementsFromArray" />
-        <item itemvalue="Application.QE14_FindOutGreatestNumber" />
-        <item itemvalue="Application.FindOutGreatestNumber_02_Array_Sorting" />
       </list>
     </recent_temporary>
   </component>
