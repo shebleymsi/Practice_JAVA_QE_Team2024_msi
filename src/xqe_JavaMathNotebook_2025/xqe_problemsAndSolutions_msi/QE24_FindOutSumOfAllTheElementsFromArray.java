@@ -1,9 +1,9 @@
-package problemsAndSolutionsPractice_2022_2024_group;
+package xqe_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class FindOutSumOfAllTheElementsFromArray_01 {
+public class QE24_FindOutSumOfAllTheElementsFromArray {
 
     public static void main(String[] args) {
 
@@ -31,6 +31,5 @@ public class FindOutSumOfAllTheElementsFromArray_01 {
         System.out.println("Sum = " + sum);
 
     }
-
-
 }
+
