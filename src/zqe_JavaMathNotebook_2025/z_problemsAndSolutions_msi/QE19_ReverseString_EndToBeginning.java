@@ -1,4 +1,4 @@
-package zqe_JavaMathNotebook_2025.problemsAndSolutions_msi;
+package zqe_JavaMathNotebook_2025.z_problemsAndSolutions_msi;
 
 public class QE19_ReverseString_EndToBeginning {
     public static void main(String[] args) {
