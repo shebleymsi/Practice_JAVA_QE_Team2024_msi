@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14f75645-179a-44b7-8120-e9a78c028782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zqe_JavaMathNotebook_2025/swapVariables/SwapNumberUseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zqe_JavaMathNotebook_2025/swapVariables/SwapNumberUseBitOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zqe_JavaMathNotebook_2025/swapVariables/SwapNumbersUsePrimitiveDataType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE20_FindOutFrequencyOfWordFromAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE20_FindOutFrequencyOfWordFromAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE26_FrequencyOfNumberFromAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE21_FrequencyOfNumberFromAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE27_FrequencyOfWordsFromList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XQE_JavaMathNotebook_2025/xqe_problemsAndSolutions_msi/QE27_FrequencyOfWordsFromList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +100,7 @@
     "Application.How_To_8_Find_Smallest_Element_in_an_Array.executor": "Run",
     "Application.How_To_9_Loop_Through_an_ArrayList.executor": "Run",
     "Application.LearnCubeOfNumber.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.QE04_SumOfNumbers.executor": "Run",
     "Application.QE05_CheckPalindromeWords.executor": "Run",
     "Application.QE07_CheckPalindromeWords.executor": "Run",
@@ -114,23 +115,26 @@
     "Application.QE20_FindOutSumOfAllTheElementsFromArray.executor": "Run",
     "Application.QE21_FrequencyOfNumberFromAnArray.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
+    "Application.SwapNumberUseBitOperator.executor": "Run",
+    "Application.SwapNumbersUsePrimitiveDataType.executor": "Run",
+    "Application.SwapVariablesUseArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "shebleymsi",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/SHEBLEY/D/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi",
+    "last_opened_file_path": "C:/SHEBLEY/D/WINDOWS (C)_2024/IdeaProjects_2024/Practice_JAVA_QE_Team2024_msi/src/xqe_JavaMathNotebook_2025",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SHEBLEY\D\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\xqe_JavaMathNotebook_2025" />
       <recent name="C:\SHEBLEY\D\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\XQE_JavaMathNotebook_2025" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_EXERCISE_ANM_Bazlur_Rahman_2025" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\java_Programming_ANM_Bazlur_Rahman_2024\porisisto_2_ObjectClass" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\OOPConcepts\oop_05_miscellaneous\key_01_final" />
-      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\QA_SDET_Interview_2024\sort_All\sort_03_c" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\SHEBLEY\D\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\src\XQE_JavaMathNotebook\xqe_problemsAndSolutions_msi" />
@@ -138,46 +142,20 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_JAVA_QE_Team2024_msi\InterviewDocuments" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="XQE_JavaMathNotebook_2025" />
       <recent name="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi" />
       <recent name="XQE_JavaMathNotebook_2025.arrayProblem_msi" />
       <recent name="XQE_JavaMathNotebook" />
       <recent name="zQE_practiceNotebook" />
-      <recent name="zQE_practiceNotebook.SumOfNumbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindOutSumOfAllTheElementsFromArray_01">
-    <configuration name="A1_FindLowestNumberFromAnArray_forEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.A1_FindLowestNumberFromAnArray_forEach" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B1_FindLowestNumberFromAnArray_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.B1_FindLowestNumberFromAnArray_forLoop" />
-      <module name="Practice_JAVA_QE_Team2024_msi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.lowestNumberFromArray_msi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SwapNumberUseBitOperator">
     <configuration name="FindOutSumOfAllTheElementsFromArray_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemsAndSolutionsPractice_2022_2024_group.FindOutSumOfAllTheElementsFromArray_01" />
+      <option name="MAIN_CLASS_NAME" value="problemsAndSolutionsPractice_2022_2024_group_2025.FindOutSumOfAllTheElementsFromArray_01" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problemsAndSolutionsPractice_2022_2024_group.*" />
+          <option name="PATTERN" value="problemsAndSolutionsPractice_2022_2024_group_2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QE21_FrequencyOfNumberFromAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.QE21_FrequencyOfNumberFromAnArray" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zqe_w3school_2025.Main" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.*" />
+          <option name="PATTERN" value="zqe_w3school_2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +176,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QE24_FindOutSumOfAllTheElementsFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.QE24_FindOutSumOfAllTheElementsFromArray" />
+    <configuration name="SwapNumberUseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zqe_JavaMathNotebook_2025.swapVariables.SwapNumberUseArray" />
       <module name="Practice_JAVA_QE_Team2024_msi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="XQE_JavaMathNotebook_2025.xqe_problemsAndSolutions_msi.*" />
+          <option name="PATTERN" value="zqe_JavaMathNotebook_2025.swapVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapNumberUseBitOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zqe_JavaMathNotebook_2025.swapVariables.SwapNumberUseBitOperator" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zqe_JavaMathNotebook_2025.swapVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapNumbersUsePrimitiveDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zqe_JavaMathNotebook_2025.swapVariables.SwapNumbersUsePrimitiveDataType" />
+      <module name="Practice_JAVA_QE_Team2024_msi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zqe_JavaMathNotebook_2025.swapVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapNumberUseBitOperator" />
+        <item itemvalue="Application.SwapNumbersUsePrimitiveDataType" />
+        <item itemvalue="Application.SwapNumberUseArray" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FindOutSumOfAllTheElementsFromArray_01" />
-        <item itemvalue="Application.QE21_FrequencyOfNumberFromAnArray" />
-        <item itemvalue="Application.B1_FindLowestNumberFromAnArray_forLoop" />
-        <item itemvalue="Application.A1_FindLowestNumberFromAnArray_forEach" />
-        <item itemvalue="Application.QE24_FindOutSumOfAllTheElementsFromArray" />
       </list>
     </recent_temporary>
   </component>
