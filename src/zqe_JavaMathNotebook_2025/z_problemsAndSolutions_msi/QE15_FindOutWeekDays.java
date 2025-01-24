@@ -13,8 +13,8 @@ public class QE15_FindOutWeekDays {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your day serial of the week");
         int day = input.nextInt();
-        String dayName;
 
+        String dayName;
         switch (day) {
             case 1:
                 dayName = "Monday";
